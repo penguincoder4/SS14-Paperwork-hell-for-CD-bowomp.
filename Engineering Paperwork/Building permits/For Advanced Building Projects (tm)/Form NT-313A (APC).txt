@@ -1,7 +1,7 @@
-[color=#f39f27]░░▄▀░░ [head=2]APC Request/Replacement Form[/head]
+[color=#f39f27]░░▄▀░░   [head=2]APC Replacement Request[/head]
 ░▄█▄▄▀ 
-██▀░░░  Form Nt-313A
-[/color]──────────────────────────────────────
+██▀░░░[/color]   [color=#999999]NT-313A[/color]
+[/color]──────────────────────────────────────────
 
 Name of requestee:
     [color=#002AAF]"name"[/color]
@@ -28,3 +28,4 @@ Name of Filing Engineer:
 
 
 [head=4](3) What/Will Cause(d) the APC to be overloaded?[/head]
+
