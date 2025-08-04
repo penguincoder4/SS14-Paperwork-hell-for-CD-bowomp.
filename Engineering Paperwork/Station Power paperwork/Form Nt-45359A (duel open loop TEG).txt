@@ -1,8 +1,7 @@
-
-[color=#f39f27]░░▄▀░░ [head=2]T.E.G operation Form[/head]
+[color=#f39f27]░░▄▀░░   [head=2]Thermoelectric Generator Operation[/head]
 ░▄█▄▄▀ 
-██▀░░░  Form Nt-45359D
-[/color]──────────────────────────────────────
+██▀░░░[/color]   [color=#999999]NT-45359A[/color]
+[/color]──────────────────────────────────────────
 
 Name of engineer writing document:
     [color=#002AAF]"Example"[/color]
@@ -83,3 +82,4 @@ Nt-35359D for Closed hot loop and open cold loop.
 [head=3]Gas in Cold loop/atmosphere [/head]
    [color=#002AAF]Sample other[/color]
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
