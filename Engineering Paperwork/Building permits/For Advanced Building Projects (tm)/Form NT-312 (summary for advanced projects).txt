@@ -1,4 +1,4 @@
-color=#f39f27]░░▄▀░░ [head=2]Summary of Project[/head]
+[color=#f39f27]░░▄▀░░ [head=2]Summary of Project[/head]
 ░▄█▄▄▀ 
 ██▀░░░  Form Nt-312
 [/color]──────────────────────────────────────
@@ -32,6 +32,7 @@ Material acquisition payment is the responsibility of:
 \[  ] Form NT-313D
 \[  ] Form NT-313E
  
+
 
 
 
