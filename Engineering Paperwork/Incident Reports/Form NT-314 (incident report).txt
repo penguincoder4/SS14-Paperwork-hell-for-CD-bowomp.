@@ -1,0 +1,138 @@
+[color=#f39f27]░░▄▀░░ [head=2]Engineering Incident Report.[/head]
+░▄█▄▄▀ 
+██▀░░░  Form Nt-314A
+[/color]──────────────────────────────────────
+
+Name of Filing Engineer:
+    [color=#002AAF]name here[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Role:
+\[  ] Atmos Tech
+\[  ] Chief engineer
+\[  ] Senior Engineer
+\[  ] Engineer
+\[  ] Technical assistant
+
+NOTICE-this is the expedited form, For rapid reporting of incidents, false reports may/will result in [italic]MORE SEVERE[/italic] Punishment then the standard incident report form. 
+══════════════════════════════════════════
+[head=2]1. [/head][head=3]Severity[/head]
+How Severe is the incident? (select one)
+(  ) Negligible
+(  ) Minor
+(  ) Considerable
+(  ) Serious
+(  ) Station-Threatening
+
+How many people are affected by the incident? (select one)
+(  ) Just a few
+(  ) More than a handful
+(  ) Dozens
+(  ) Half of the station
+(  ) Most of the station
+(  ) Everyone or almost everyone
+
+════════════
+[head=2]2. [/head][head=3]Timing[/head]
+Is the incident still ongoing? (select one)
+(  ) No
+(  ) Yes
+(  ) Unsure
+
+The incident occurred at this time: (select one)
+(  ) Exactly
+(  ) Approximately
+    [color=#002AAF]Sample Time in HH:MM:SS[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+(  ) Unsure
+
+════════════
+[head=2]3. [/head][head=3]Nature of the Incident[/head]
+Does the incident involve any of the following?
+Closer to start, lower immediate the risk to station
+\[  ] Engineer(s) were/was left unattended
+\[  ] Technical assistant(s) were/was left unattended
+\[  ] Atmos Tech(s) were/was left unattended
+\[  ] The Chief Engineer was left unattended
+\[  ] Non-staff injuries/death
+\[  ] Improvised Explosive Devices
+\[  ] destruction/disassembly of station infrastructure
+\[  ] Injured staff members
+\[  ] Access scrambled devices
+\[  ] Cut (HV) power cables
+\[  ] Departmental insubordination
+\[  ] Corrupt command staff
+\[  ] Minor equipment theft
+\[  ] Cybersecurity Threat to station
+\[  ] General Explosion
+\[  ] Spacing/Hull breach
+\[  ] Station superstructure is damaged
+\[  ] Station Substructure is damaged
+\[  ] Frezon leak
+\[  ] Supercooled gas
+\[  ] Tritium leak
+\[  ] Fires
+\[  ] Superheated gas
+\[  ] Superheated Frezon leak
+\[  ] Minor Infrastructure Theft 
+\[  ] Major Equipment Theft
+\[  ] Explosive decompression
+\[  ] Dead staff members
+\[  ] M.I.A. staff members
+\[  ] M.I.A. Non-staff
+\[  ] M.I.A. V.I.P.
+\[  ] Engineers are going Fucking Crazy
+\[  ] Major Infrastructure Theft
+\[  ] Electronic Warfare threat
+\[  ] Bomb(s)
+\[  ] Lost the Singlo
+\[  ] Lost the Tesla
+\[  ] Hostile Force Preventing DAMCON
+\[  ] Harmful non-humanoid lifeforms Preventing DAMCON
+\[  ] Harmful anomalous entities/objects Preventing DAMCON
+\[  ] Harmful artifacts of alien or unknown origin preventing DAMCON
+\[  ] Destroyed TEG
+\[  ] AME explosion
+\[  ] [italic]Clown Incidents.[/italic]
+\[  ] Dude, they like...stole everything*
+\[  ] Maximum Capacity Bomb*
+\[  ] Station Reactor meltdown*
+\[  ] Super matter delamination*
+\[  ] Singlo/tesla escaping containment.*
+\[  ] Station superstructure or substructure is shattered*
+\[  ] Ian/Lisa was left unattended**
+//*fill out form NT-34EM and stop filling this form out at once.
+//**fill out form NT-42069IAN and supply it with this form to central command
+
+Brief summary of events. (include department(s) and what occurred)
+"summary here"
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+════════════
+
+[head=2]5. [/head][head=3]Requested Assistance[/head]
+Please select the type of assistance you would like to request (if any).
+\[  ] Supply assistance
+  - 	\[  ] Food
+  - 	\[  ] Medical Supplies
+  - 	\[  ] Building Supplies
+  -  \[  ] Personal Protective Equipment
+\[  ] Emergency Response Team (ERT)
+  - 	\[  ] Engineering ERT
+  - 	\[  ] Janitorial ERT
+  - 	\[  ] Medical ERT
+  - 	\[  ] Security ERT
+  - 	\[  ] Psychologist ERT
+  - 	\[  ] Scientific ERT
+  - 	\[  ] Search and Rescue Team
+  - 	\[  ] Other specialty ERT (include in the field at the bottom)
+\[  ] Expedited evacuation
+\[  ] Moral Support
+\[  ] Other:    [color=#002AAF]Sample Request[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+If you asked for assistance, please explain why. Feel free to provide any additional info on how exactly we can assist.
+    [color=#002AAF]Explanation here[/color]
+
+
+══════════════════════════════════════════
+
+[bold][color=red]By submitting this document to Central Command the Author personally certifies that it is accurate to the best of their ability. Submitting false reports or reports with fake names can result in being charged with perjury and a fine of up to 5,000 spesos or 5 months in prison and termination of contract.[/color][bold]
