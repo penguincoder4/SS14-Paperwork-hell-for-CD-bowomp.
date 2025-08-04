@@ -1,7 +1,7 @@
-[color=#f39f27]░░▄▀░░ [head=2]Substation R/R Form[/head]
+[color=#f39f27]░░▄▀░░   [head=2]Substation Replacement Request[/head]
 ░▄█▄▄▀ 
-██▀░░░  Form Nt-313B
-[/color]──────────────────────────────────────
+██▀░░░[/color]   [color=#999999]NT-313B[/color]
+[/color]──────────────────────────────────────────
 
 Name of requestee:
     [color=#002AAF]"name"[/color]
@@ -32,3 +32,4 @@ Refer to Info NT-334 if you are not aware to what that means.
 
 
 [head=4](3) What/Will Cause(d) the SB to be overloaded?[/head]
+
