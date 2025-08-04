@@ -1,0 +1,48 @@
+[color=#f39f27]░░▄▀░░ [head=2]Survey Entry Permit[/head]
+░▄█▄▄▀ 
+██▀░░░  Form Nt-312A
+[/color]──────────────────────────────────────
+[color=red][bold]This permit must be approved and stamped by the Captain, the Chief Engineer, or Central command, It cannot be approved by the CE if the CE is the one who requested it.[/bold][/color]
+[head=4][color=#f39f27]Department affected:[/color]Department[/head]
+
+Name of requesting engineer:
+    [color=#002AAF]Sarah Blackwitch[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Role:
+\[  ] Central command Survey team member
+\[ X ] Atmos Tech
+\[  ] Chief engineer
+\[  ] Senior Engineer
+\[  ] Engineer
+\[  ] Technical assistant
+   
+ Reason for request
+\[  ] No survey done previously
+\[  ] Survey not done in department during or after previous 5 shifts
+\[  ] Survey Incomplete in area
+\[  ] Recent accident leading to concerns*
+\[ ] NT survey team did not do survey**
+//*supply Incident report with this document
+//**if so quote reported reason below
+    [color=#002AAF]"example"[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Is the requestee trained for this task?
+\[ X ] Trained by Central command programs
+\[  ] Trained on site
+\[  ] Learner, Trained overseer is overseeing the inspection*
+\[  ] No.**
+//*Form NT-312B is to be provided with this form
+//**Form is to be denied
+
+Time of request approval:
+    [color=#002AAF]XX:XX:XX[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Time of length of time allotted:
+\[ X ] 30 minutes
+\[  ] 60 minutes
+\[  ] Unlimited*
+//*only with Captain or Central Command approval
+
+[color=#aaaaaa]This document is not valid unless stamped by at least one of the listed required personnel. 
+This form follows NT Space Law §2-3.6
+Those who abuse granted permission can be fined up to 5,000 spesos pursuant NT Handbook §24-6.4e[/color]
