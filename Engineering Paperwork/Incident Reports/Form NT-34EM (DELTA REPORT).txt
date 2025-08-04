@@ -1,7 +1,7 @@
-[color=#f39f27]░░▄▀░░ [head=2]Engineering Class-Delta[/head]
-░▄█▄▄▀  [head=2]Emergency Report[/head]
-██▀░░░  Form Nt-34EM
-[/color]──────────────────────────────────────
+[color=#f39f27]░░▄▀░░   [head=2]Delta-Alert Incident Report[/head]
+░▄█▄▄▀ 
+██▀░░░[/color]   [color=#999999]NT-34EM[/color]
+[/color]──────────────────────────────────────────
 
 Name of Filing Engineer:
     [color=#002AAF]name here[/color]
@@ -51,5 +51,6 @@ Incident was discovered at: (select one)
 \[  ] Food 
 (1200-2000 Calories Per crew member)
 //See Stranded survival manual for Further Advice
+
 
                                   [bold]═══╣ Stamp Below ╠═══[/bold]
