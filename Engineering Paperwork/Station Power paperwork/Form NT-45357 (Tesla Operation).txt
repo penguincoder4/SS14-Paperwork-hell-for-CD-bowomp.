@@ -1,0 +1,51 @@
+[color=#f39f27]░░▄▀░░ [head=2]Tesla Operation[/head]
+░▄█▄▄▀ 
+██▀░░░  Form Nt-45357
+[/color]──────────────────────────────────────
+
+Name of Filing Engineer:
+    [color=#002AAF]"name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Role:
+\[  ] Atmos Tech
+\[  ] Chief engineer
+\[  ] Senior Engineer
+\[  ] Engineer
+\[  ] Technical assistant
+══════════════════════════════════════════
+The blast event occurred at:
+    [color=#002AAF]Sample Time in HH:MM:SS[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Tesla Rod impacts started at:
+    [color=#002AAF]Sample Time in HH:MM:SS[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=3]Number of Tesla Rods[/head]
+\[  ] 1
+\[  ] 4
+\[  ] 5
+\[  ] 7
+\[  ] Other number: 
+   [color=#002AAF]Sample other[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=3]Number of grounding rods[/head]
+\[  ] 1
+\[  ] 4
+\[  ] 8
+\[  ] Other number: 
+   [color=#002AAF]Sample other[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=3]Tiles of distance from emitters to the tesla[/head]
+\[  ] 1*
+\[  ] 4
+\[  ] 5
+\[  ] 6
+\[  ] Other number: 
+   [color=#002AAF]Sample other[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+*you. are. fucking. fired.
+══════════════════════════════════════════
+Format for welding of the rods-
+[NAME]-[RANK*]-[TIME IN HH:MM:SS]-[# of Orbitals]
+See INFO NT-333 for abbreviated rank titles.
+══════════════════════════════════════════
