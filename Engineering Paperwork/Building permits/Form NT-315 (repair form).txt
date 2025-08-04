@@ -1,6 +1,6 @@
 [color=#f39f27]░░▄▀░░ [head=2]Repair Log form[/head]
 ░▄█▄▄▀ 
-██▀░░░  Form Nt-313
+██▀░░░  Form Nt-315
 [/color]──────────────────────────────────────
 
 Name of requesting engineer:
@@ -35,5 +35,6 @@ Time of repair completion:
 ( X ) Approximately
     [color=#002AAF]00:00:00[/color]
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
 
 [head=2]Summarize repair steps and call out[/head]
