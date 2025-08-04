@@ -1,7 +1,7 @@
-[color=#f39f27]░░▄▀░░ [head=2]T.E.G operation Form[/head]
+[color=#f39f27]░░▄▀░░   [head=2]Thermoelectric Generator Operation[/head]
 ░▄█▄▄▀ 
-██▀░░░  Form Nt-45359C
-[/color]──────────────────────────────────────
+██▀░░░[/color]   [color=#999999]NT-45359C[/color]
+[/color]──────────────────────────────────────────
 
 Name of engineer writing document:
     [color=#002AAF]"Example"[/color]
@@ -78,5 +78,6 @@ Radiators in cold loop?:  [color=#002AAF]Sample number[/color]
 \[  ] Other Mix: 
    [color=#002AAF]Sample other[/color]
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
 
 
