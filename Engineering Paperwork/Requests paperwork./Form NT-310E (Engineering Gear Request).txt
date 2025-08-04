@@ -1,7 +1,7 @@
-[color=#f39f27]░░▄▀░░ [head=2]Engineering equipment request[/head]
+[color=#f39f27]░░▄▀░░   [head=2]Equipment Requisition[/head]
 ░▄█▄▄▀ 
-██▀░░░  Form Nt-310E
-[/color]──────────────────────────────────────
+██▀░░░[/color]   [color=#999999]NT-310E[/color]
+[/color]──────────────────────────────────────────
 [color=red][bold]This Document must be stamped by the Chief engineer or signed by the Senior Engineer[/bold][/color]
 
 Name of Requesting Staff member:
@@ -41,4 +41,5 @@ Name of Requesting Staff member:
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 [bold]Sign Below[/bold]
+
 ══════════════════════════════════════════
