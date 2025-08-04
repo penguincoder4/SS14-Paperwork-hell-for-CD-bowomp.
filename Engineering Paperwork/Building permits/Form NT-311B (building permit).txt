@@ -1,0 +1,37 @@
+[color=#f39f27]░░▄▀░░ [head=2]Engineering Building permit.[/head]
+░▄█▄▄▀ 
+██▀░░░  Form Nt-311B
+[/color]──────────────────────────────────────
+
+Name of requestee:
+    [color=#002AAF]"name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Name of Filing Engineer:
+    [color=#002AAF]"name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Role:
+\[  ] Atmos Tech
+\[  ] Chief engineer
+\[  ] Senior Engineer
+\[  ] Engineer
+\[  ] Technical assistant
+══════════════════════════════════════════
+[head=3]Department affected: "example"[/head]
+
+[head=3][head=2]2. [/head]Description of Work[/head]
+\[  ] Expansion
+Detail:  [color=#002AAF]Sample[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+\[  ] Upgrades
+Detail:  [color=#002AAF]Sample[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Additional Information/Requests:
+[color=#002AAF]Sample[/color]
+
+
+[head=3][head=2]5. [/head]Materials[/head]
+Material acquisition payment is the responsibility of:
+(  ) The Requesting department
+(  ) Handled on a case-by-case basis.
+══════════════════════════════════════════
+
