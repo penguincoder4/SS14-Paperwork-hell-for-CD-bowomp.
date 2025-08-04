@@ -1,0 +1,43 @@
+[color=#f39f27]░░▄▀░░ [head=2]Cable Modification Document[/head]
+░▄█▄▄▀ 
+██▀░░░  Form Nt-313G
+[/color]──────────────────────────────────────
+
+Name of requestee:
+    [color=#002AAF]"name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Name of Filing Engineer:
+    [color=#002AAF]"name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Role:
+\[  ] Atmos Tech
+\[  ] Chief engineer
+\[  ] Senior Engineer
+\[  ] Engineer
+\[  ] Technical assistant
+══════════════════════════════════════════
+
+[head=3]Department or Area Effected: "example"[/head]
+
+[head=3]Cables being modified[/head]
+\[  ] LV
+\[  ] MV
+\[  ] HV
+
+[head=3]Supplying to new area?[/head]
+\[  ] Y
+\[  ] N
+
+[head=3]Alternate Path for power to be supplied downstream?[/head]
+\[  ] Y
+\[  ] N
+
+[head=3]Engineering Action Plan[/head]
+ 1.go and kiss men.
+ 2.fix things
+ 3.profit
+
+[head=3]Summary of Events[/head]
+ 1.fixed things
+ 2.profited
+ 3.kissed men.
