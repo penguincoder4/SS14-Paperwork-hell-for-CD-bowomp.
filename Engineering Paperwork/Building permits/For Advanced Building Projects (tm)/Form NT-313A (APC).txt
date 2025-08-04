@@ -1,0 +1,29 @@
+color=#f39f27]░░▄▀░░ [head=2]APC Request/Replacement Form[/head]
+░▄█▄▄▀ 
+██▀░░░  Form Nt-313A
+[/color]──────────────────────────────────────
+
+Name of requestee:
+    [color=#002AAF]"name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Name of Filing Engineer:
+    [color=#002AAF]"name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Role:
+\[  ] Atmos Tech
+\[  ] Chief engineer
+\[  ] Senior Engineer
+\[  ] Engineer
+\[  ] Technical assistant
+══════════════════════════════════════════
+
+[head=3]Reason for Request[/head]
+\[  ] APC was Destroyed (1)
+\[  ] APC was Removed   (2)
+\[  ] APC is/will be Overloaded (3)
+
+[head=4](1) What caused the APC to be destroyed?[/head]
+
+[head=4](2) Why was the APC Removed?[/head]
+
+[head=4](3) What/Will Cause(d) the APC to be overloaded?[/head]
