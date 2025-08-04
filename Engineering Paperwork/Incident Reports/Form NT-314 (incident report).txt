@@ -1,7 +1,7 @@
-[color=#f39f27]░░▄▀░░ [head=2]Engineering Incident Report.[/head]
+[color=#f39f27]░░▄▀░░   [head=2]Engineering Incident Report[/head]
 ░▄█▄▄▀ 
-██▀░░░  Form Nt-314A
-[/color]──────────────────────────────────────
+██▀░░░[/color]   [color=#999999]NT-314A[/color]
+[/color]──────────────────────────────────────────
 
 Name of Filing Engineer:
     [color=#002AAF]name here[/color]
@@ -134,5 +134,6 @@ If you asked for assistance, please explain why. Feel free to provide any additi
 
 
 ══════════════════════════════════════════
+
 
 [bold][color=red]By submitting this document to Central Command the Author personally certifies that it is accurate to the best of their ability. Submitting false reports or reports with fake names can result in being charged with perjury and a fine of up to 5,000 spesos or 5 months in prison and termination of contract.[/color][bold]
