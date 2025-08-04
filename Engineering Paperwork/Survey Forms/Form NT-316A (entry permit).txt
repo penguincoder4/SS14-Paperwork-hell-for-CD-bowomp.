@@ -6,11 +6,11 @@
 [head=4][color=#f39f27]Department affected:[/color]Department[/head]
 
 Name of requesting engineer:
-    [color=#002AAF]Sarah Blackwitch[/color]
+    [color=#002AAF]example[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
  Role:
 \[  ] Central command Survey team member
-\[ X ] Atmos Tech
+\[  ] Atmos Tech
 \[  ] Chief engineer
 \[  ] Senior Engineer
 \[  ] Engineer
@@ -27,7 +27,7 @@ Name of requesting engineer:
     [color=#002AAF]"example"[/color]
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 Is the requestee trained for this task?
-\[ X ] Trained by Central command programs
+\[  ] Trained by Central command programs
 \[  ] Trained on site
 \[  ] Learner, Trained overseer is overseeing the inspection*
 \[  ] No.**
@@ -46,4 +46,5 @@ Time of length of time allotted:
 [color=#aaaaaa]This document is not valid unless stamped by at least one of the listed required personnel. 
 This form follows NT Space Law §2-3.6
 Those who abuse granted permission can be fined up to 5,000 spesos pursuant NT Handbook §24-6.4e[/color]
+
 
