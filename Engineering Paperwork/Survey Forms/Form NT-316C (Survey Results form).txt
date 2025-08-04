@@ -1,7 +1,7 @@
-[color=#f39f27]░░▄▀░░ [head=2]Survey Result form[/head]
+[color=#f39f27]░░▄▀░░   [head=2]Survey Conclusion[/head]
 ░▄█▄▄▀ 
-██▀░░░  Form Nt-316C
-[/color]──────────────────────────────────────
+██▀░░░[/color]   [color=#999999]NT-316C[/color]
+[/color]──────────────────────────────────────────
 
 Name of Surveying engineer:
     [color=#002AAF]"Example"[/color]
@@ -43,5 +43,6 @@ Summary of survey-
 
 Action plan for results, leave blank if no critical or serious bolts have experienced failure.
 "Example plan"
+
 
 
