@@ -2,10 +2,20 @@
 ░▄█▄▄▀ 
 ██▀░░░[/color]   [color=#999999]NT-313E[/color]
 [/color]──────────────────────────────────────────
+Name of requestee:
+    [color=#002AAF]"name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Name of Filing Engineer:
+    [color=#002AAF]"name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Role:
+\[  ] Atmos Tech
+\[  ] Chief engineer
+\[  ] Senior Engineer
+\[  ] Engineer
+\[  ] Technical assistant
+══════════════════════════════════════════
 
-   [bold]Filing Engineer[/bold]
-       [color=#002AAF]John Engineer[/color]
-     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
    [bold]Reason for Demolition[/bold]
        Lorem
      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
