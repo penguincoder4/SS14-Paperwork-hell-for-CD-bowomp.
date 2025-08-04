@@ -1,19 +1,27 @@
+Standard Series
+
+NT-34EM   (Emergency report form)
+
+NT-310E (request Form for engi)
 NT-311B (building permit) 
 NT-312 (Summary form for advanced building)
 NT-313 (All of advanced building falls under this)
 NT-314  (Incident Report ENGI)
 NT-315 (repair Form [basic] )
-Nt-34EM   (Emergency report form)
-NT-42069IAN (ian lost form)
-NT-310E (request Form for engi)
+NT-316 (Survey forms)
+
+Nt-351   (sec search)
+NT-352 (incident reporting SEC)
+
+NT-412 (weapon Permit)
+
+NT-534 (Execution Form)
+
 NT-45357 (Tesla)
 NT-45358 (Singlo)
 NT-45359 (TEG)
-NT-312 (Survey forms)
-Nt-351   (sec search)
-NT-352 (incident reporting SEC)
-NT-412 (weapon Permit)
-NT-534 (Execution Form)
+
+NT-42069IAN (ian lost form)
 
 
 
