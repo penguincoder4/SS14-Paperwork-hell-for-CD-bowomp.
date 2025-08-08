@@ -1,0 +1,37 @@
+[color=#f39f27]░░▄▀░░   [head=2]Pipe colour document[/head]
+░▄█▄▄▀ 
+██▀░░░[/color]   [color=#999999]NT-308[/color]
+[/color]──────────────────────────────────────────
+
+Name of Filing Engineer:
+    [color=#002AAF]"name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Role:
+\[  ] Atmos Tech
+\[  ] Chief engineer
+\[  ] Senior Engineer
+\[  ] Engineer
+\[  ] Technical assistant
+══════════════════════════════════════════
+White is the default colour
+
+[color=#0055CCFF]■ 22% oxygen 78% nitrogen
+██████████[/color]
+[color=#990000FF]■ Waste Line
+██████████[/color]
+[color=#FF1212FF]■ red
+██████████[/color]
+[color=#3AB334FF]■ Green
+██████████[/color]
+[color=#03FCD3FF]■ "Air"
+██████████[/color]
+[color=#0335FCFF]■ Blu
+██████████[/color]
+[color=#333333FF]■ Black
+██████████[/color]
+[color=#947507FF]■ Mix
+██████████[/color]
+[color=#B3A234FF]■ Yellow
+██████████[/color]
+■ Striped black and red
+[color=#333333FF]█████[/color][color=#FF1212FF]█████[/color]
