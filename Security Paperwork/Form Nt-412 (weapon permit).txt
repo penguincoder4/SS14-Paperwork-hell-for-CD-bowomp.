@@ -38,6 +38,7 @@ Please Refer to Form NT-534A if your job isn't listed below.
 "summary here"
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
+[color=#9E9E9E][italic]Any person found in possession of a permit, found selling, giving away weapons, found using a firearm to enact a crime or otherwise misusing equipment will have this license revolked, and be charged accordingly.[/color][/italic]
 ───────────────────────────────────────
 [color=red][bold]FOR SECURITY USE ONLY DO NOT MARK.[/bold][/color]
 ───────────────────────────────────────
@@ -55,3 +56,7 @@ Please Refer to Form NT-534A if your job isn't listed below.
 \[  ] Laser carbine
 \[  ] X-Ray cannon
 \[  ] Laser cannon
+\[  ] Other:
+
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
