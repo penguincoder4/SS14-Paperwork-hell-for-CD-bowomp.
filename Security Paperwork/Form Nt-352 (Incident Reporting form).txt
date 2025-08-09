@@ -1,0 +1,110 @@
+[color=#cb0000]░█▄▄█░ [head=2]Incident Report form[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Form NT-352
+───────────────────────────────────────
+Name of reporting Officer:
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Role:
+\[  ] Head of Security
+\[  ] Warden
+\[  ] Senior officer
+\[  ] Brigmedic
+\[  ] Sapper
+\[  ] Security officer
+\[  ] Cadet
+
+NOTICE-this is the expedited form, For rapid reporting of incidents, false reports may/will result in [italic]MORE SEVERE[/italic] Punishment then the standard incident report form. 
+══════════════════════════════════════════
+
+[head=2]1. [/head][head=3]Severity[/head]
+How Severe is the incident? (select one)
+(  ) Negligible
+(  ) Minor
+(  ) Considerable
+(  ) Serious
+(  ) Station-Threatening
+
+How many people are affected by the incident? (select one)
+(  ) Just a few
+(  ) More than a handful
+(  ) Dozens
+(  ) Half of the station
+(  ) Most of the station
+(  ) Everyone or almost everyone
+
+════════════
+[head=2]2. [/head][head=3]Timing[/head]
+Is the incident still ongoing? (select one)
+(  ) No
+(  ) Yes
+(  ) Unsure
+
+The incident occurred at this time: (select one)
+(  ) Exactly
+(  ) Approximately
+    [color=#002AAF]Sample Time in HH:MM:SS[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+(  ) Unsure
+
+════════════
+[head=2]3. [/head][head=3]Nature of the Incident[/head]
+Does the incident involve any of the following?
+Closer to start, lower immediate the risk to station
+\[  ] Legal threats
+\[  ] Clown
+\[  ] Disturbance
+\[  ] Warden loose
+\[  ] Gilbert Goon
+\[  ] Identical clones of staff members
+\[  ] Friendly fire
+\[  ] Syndicate Agents
+\[  ] Cult
+\[  ] Missing Armory equipment
+\[  ] Missing Firearms
+\[  ] Firefight
+\[  ] Murder
+\[  ] Injured officers
+\[  ] Dead/injured Non-staff
+\[  ] Injured staff
+\[  ] Missing Staff members
+\[  ] Missing Officers
+\[  ] Dead station staff
+\[  ] Dead officers
+\[  ] Blood Cult
+\[  ] Dragon
+\[  ] Hostile Boarding Party
+\[  ] Onsite warhead malfunction*
+//*fill out form Nt-356
+
+Brief summary of events. (include department(s) and what occurred)
+"summary here"
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+════════════
+
+[head=2]5. [/head][head=3]Requested Assistance[/head]
+Please select the type of assistance you would like to request (if any).
+\[  ] Supply assistance
+  - 	\[  ] Food
+  - 	\[  ] Medical Supplies
+  - 	\[  ] Building Supplies
+  -  \[  ] Personal Protective Equipment
+\[  ] Emergency Response Team (ERT)
+  - 	\[  ] Medical ERT
+  - 	\[  ] Security ERT
+  - 	\[  ] Psychologist ERT
+  - 	\[  ] Search and Rescue Team
+  - 	\[  ] Other specialty ERT (include in the field at the bottom)
+\[  ] Legal Assistance
+\[  ] Expedited evacuation
+\[  ] Moral Support
+\[  ] Other:    [color=#002AAF]Sample Request[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+If you asked for assistance, please explain why. Feel free to provide any additional info on how exactly we can assist.
+    [color=#002AAF]Explanation here[/color]
+
+
+══════════════════════════════════════════
+
+[bold][color=red]By submitting this document to Central Command the Author personally certifies that it is accurate to the best of their ability. Submitting false reports or reports with fake names can result in being charged with perjury and a fine of up to 5,000 spesos or 5 months in prison and termination of contract.[/color][bold]

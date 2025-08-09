@@ -1,0 +1,19 @@
+[color=#cb0000]░█▄▄█░ [head=2]Search Warrant[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Form NT-351A
+───────────────────────────────────────
+[color=red][bold]This warrant must be approved and stamped by the Captain, the HoS, the Warden, or the dept. head of the individual to be searched.[/bold][/color]
+[color=#aaaaaa]The HoS and Warden Cannot approve their own warrants.
+The HoS can approve the Warden's warrants and the inverse is true.[/color]
+
+Requesting Officer:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Warrant Target:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Warrant Reason:   [color=#002AAF]Sample Reason[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+If illegal items are found to be in the possession of the searched individual they will be confiscated and the individual may be detained at the officers discretion. [bold]Legal items must be returned after a search.[/bold]
+
+[color=#aaaaaa]This document is not valid unless stamped by at least one of the listed required personnel.
+This form follows NT Space Law §1-2.1
+Those who abuse granted permission can be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/color]

@@ -1,0 +1,46 @@
+[color=#cb0000]░█▄▄█░ [head=2]Execution Form[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Form NT-534
+───────────────────────────────────────
+[head=2][color=red]This document acts as a DNR.[/color][/head]
+[color=#aaaaaa]Violation of this document will result in being charged with violating a prevention of revival order, a capital crime. As allowed under NT Space Law §53-16.21, under the DNR violation clause, the captain is not excused if they are aware of this document.[/color]
+[color=red][bold]This document must be approved and stamped by the Captain, Central Command, or The Chief Medical officer and Head of Security.[/bold][/color]
+
+Name of requesting Officer:
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Name of direct Superior*:
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+//*Central command and Captain do not have to fill this section out
+
+ Role:
+\[  ] Central Command (any position)
+\[  ] Head of Security
+\[  ] Captain
+\[  ] Warden
+\[  ] Senior officer
+\[  ] Brigmedic
+\[  ] Sapper
+\[  ] Security officer
+\[  ] Cadet
+\[  ] Head of Personel
+
+
+Execution Target:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Execution Reason:
+\[  ] Mass Murder
+\[  ] Prevention of revival
+\[  ] Repeated Breakouts of Perma
+\[  ] Uncontainable
+\[  ] Animal cruelty
+\[  ] Refusal of mental Shielding
+\[  ] Theft of Classified materials
+\[  ] Ate Ian
+\[  ] Really tired of their bull shit.
+\[  ] Bored
+\[  ] Did the same gimmick last time
+
+[color=#aaaaaa]This document is not valid unless stamped by at least one of the listed required personnel.
+This form follows NT Space Law §12-24.7[/color]
