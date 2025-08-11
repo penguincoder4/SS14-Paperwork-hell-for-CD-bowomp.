@@ -1,0 +1,15 @@
+[color=#1b67a5]░░██░░ [head=2]Second In Command[/head]
+▀████▀ 
+▄█▀▀█▄[/color]    [color=#999999]NT-600[/color]
+──────────────────────────────────────────
+[color=#4287f5][head=3]▼ Employee information ▼[/head][/color]
+Employee Name: 
+Current Occupation:
+Relevant Experience:
+
+[color=#4287f5][head=3]▼ Head of Staff Information ▼[/head][/color]
+Department Head:
+Additional Authorizations Requested:
+
+[italic]This document certifies that the employee above is considered the Second in Command of a department with the additional authorizations listed. These authorizations and status may be revoked at any time by the Head of the relevant department, Captain, or Central Command
+[/italic]
