@@ -1,4 +1,4 @@
-Standard Series
+    Standard Series
 
 NT-34EM   (Emergency report form ENGI)
 
@@ -32,9 +32,13 @@ NT-45359 (TEG)
 
 NT-42069IAN (ian lost form)
 
+    CNT series
+
+CNT-1575
 
 
-INFO SERIES
+
+    INFO SERIES
 INFO NT-332 (Shortened ranks (non-NT))
 INFO NT-333 (Shortened ranks)
 INFO NT-334 (abbreviations explained) (NOT WRITTEN)
