@@ -2,6 +2,9 @@
 ░▄█▄▄▀ 
 ██▀░░░[/color]   [color=#999999]NT-312[/color]
 [/color]──────────────────────────────────────────
+[color=red][bold]THIS DOCUMENT CERTIFIES THAT ALL OF THE CHILD DOCUMENTS LISTED HAVE BEEN VIEWED AND APPROVED. 
+STAMPS ON EVERY DOCUMENT OTHER THEN 313G AND 313H ARE EXPECTED. [/bold][/color]
+
 
 Name of requestee:
     [color=#002AAF]"name"[/color]
@@ -35,6 +38,7 @@ Material acquisition payment is the responsibility of:
 \[  ] Form NT-313G
 \[  ] Form NT-313H
 \[  ] Form NT-315
+
 
 
 
