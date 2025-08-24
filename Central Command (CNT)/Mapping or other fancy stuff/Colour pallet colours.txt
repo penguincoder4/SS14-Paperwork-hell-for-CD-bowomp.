@@ -1,0 +1,5 @@
+Medium engineering-Advanced pallet
+R:255
+B:152
+G:33
+A:100
