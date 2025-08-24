@@ -1,0 +1,58 @@
+[color=#1b67a5]█▄ █ ▀█▀    [head=2]Spire Security Information[/head]
+█ ▀█     █        [head=3]From the desk of Eats-the-Inmate[/head]
+───────────────────────────────────────
+Congratulations on being positioned to a Spire Forward Operating Base. Please make productive use of your time.
+This document will detail everything that is needed to know about your security department.
+
+Head of Security Office
+────────────────
+The HoS office comes with a bedroom with a table for tinkering and modification of firearms. A locker room just upstairs from it with their suit storage unit. Just outside of the locker room is a safe for the WT model submachine gun. The main room has a desk and a side table. On the opposite side of the desk, there is the trophy display.
+
+Prisoner Housing
+────────────
+The department is equipped with a General population brig for Containment of all suspects.
+The left entrance has riot gear and a bridge to cross for security personel only.
+The right side is to be used as the main access to the brig, with lockers and turnstyles for prisoners to automate the process.
+On the far side of security, there is the solitary cell containing a single chair which is locked behind Warden/HoS access. Times here are limited to up to 15 minutes and should only be given to rowdy inmates.
+
+There is an old brig to the south that has a view to the outside. It is intended for prolonged stays and capitol offenders.
+Be cautious about loose gear in the permiter, including armed mines and old equipment.
+
+The Armory
+─────────
+There are two access points to the armory: one is in the security officer's locker room, and the other is right above the warden's office. It is a trisectional armory. It has flashers in each room to ensure only those with proper clearance can be in the area. One reinforced wall protects it from unauthorized security officers from entering it. On the side facing the hallway there, it works off of a triple defensive standard or T.D.S. for short. From the head of security's office, you can access the T.D.S. maintenance for MV replacement or grille repair.
+A lockdown button for the armory is in the wardens office, located by its red outline. A turret lays in the center room of the armory and is set for lethal force by default.
+├Armory Stock
+ │├Weapons
+ ││├2 Drozd model 27 (chambered in .35 auto)
+ ││├2 Kammer model 53 (chambered in .50 shells)
+ ││├3 Lecter model 72 (chambered in .20 rifle)
+ ││├1 Laser pistol  (chambered in batteries)
+ ││├3 Laser Carbines model 77
+ ││└2 Disabler model 1984
+ │├Armor
+ ││├3 Bulletproof vests
+ ││└2 Reflective vests
+ │├Auxiliary items
+ ││├Tracking implant box of eight
+ ││├4 Flashbangs contained in a box
+ ││├2 stinger less than lethal fragmentation devices
+ ││├3 Riot shields
+ ││├3 Flashers
+ ││├Tatical B'loon Eradication Tool.
+ ││├Ammunition safe
+ ││├Contraband storage Unit
+ ││└Security techfab
+ │├Out of station equipment room
+ ││├By Brig
+ │││├3 Riot Helmets
+ │││├3 Riot Suits
+ │││├3 Riot Shields
+ │││└1 Box Flashbangs
+ ││├3 winter jackboots
+ ││├3 security Armored coats
+ ││├3 Security hardsuits
+ ││├2 Security jetpacks
+ ││├Gas tank dispencer
+└└└1 double emergency oxygen tank
+───────────────────────────────────────
