@@ -2,7 +2,8 @@
 ░▄█▄▄▀ 
 ██▀░░░[/color]   [color=#999999]NT-316B[/color]
 [/color]──────────────────────────────────────────
-[color=red][bold]This permit must be approved and stamped by the Captain, the Chief Engineer, or Central command, It cannot be approved by the CE if the CE is the one who requested it.[/bold][/color]
+[color=red][bold]This permit must be approved and stamped by the Captain, the Chief Engineer*, or Central command, It cannot be approved by the CE if the CE is the one who requested it.
+*Chief Engineer requires approval from Departmental head in addition to their approval[/bold][/color]
 [head=4][color=#f39f27]Department affected:[/color]Department[/head]
 
 Name of Overseer:
@@ -44,6 +45,7 @@ Time of length of time allotted:
 [color=#aaaaaa]This document is not valid unless stamped by at least one of the listed required personnel. 
 This form follows NT Space Law §2-3.6
 Those who abuse granted permission can be fined up to 5,000 spesos pursuant NT Handbook §24-6.4e[/color]
+
 
 
 
