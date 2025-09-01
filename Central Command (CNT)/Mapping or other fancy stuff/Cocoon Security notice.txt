@@ -1,0 +1,44 @@
+[color=#1b67a5]█▄ █ ▀█▀    [head=2]Security information[/head]
+█ ▀█     █        [head=3]From the desk of Eats-The-Inmate[/head]
+───────────────────────────────────────
+Congratulations on being positioned on a Cocoon Model Station built by design Division of Penguin.Corp
+
+This document will detail everything that is needed to know about your security department.
+
+Head of Security Office
+────────────────
+The HoS office comes with a bedroom with a table for tinkering and modification of firearms, along with the safe containing their issued WT550. Outside of the bedroom is the bulk of the HoS office, with their table, Fax machine, Lockers, and suit storage unit. The section of the table that has been broken several times has been renforced to prevent breakages.
+
+Prisoner Housing
+────────────
+The genpop brig is included with- 6 prisoner lockers, 4 sets of Prisoner EVA, 4 Hydroponics trays, a lockdown system located in the Wardens office, a microwave, a grille, a seed extractor, a seed dispencer, a large librairy with a fax machine, and 2 bunk beds to hold 3 inmates.
+
+The Armory
+─────────
+The armory is located south east of the HoS office and directly east of the wardens office, a single turret is located within. The armory is protected with a Quintuple Defensive Standard Shortened down to 5.D.S.
+First layer consists of renforced walls and plasma windows, second layer consists of grilles Service of these grilles requires an engineer to cut through them all and replace them all, the third layer is a plasma window and renforced wall, the fourth layer is space with a landmine contained within the gap between the armory and the final layer, the final layer is a maintence bridge that is heavily monitered.
+
+├Armory Stock
+ │├Weapons
+ ││├2 Drozd model 27 (chambered in .35 auto)
+ ││├3 Kammer model 53 (chambered in .50 shells)
+ ││├1 Double barreled shotgun (chambered in .50 shells)
+ ││├2 Lecter model 72 (chambered in .20 rifle)
+ ││├1 Svalinn laser pistol (chambered in batteries)
+ ││├3 Laser Carbines model 77
+ ││└2 MK58 (chambered in .35 auto)
+ │├Armor
+ ││├3 Bulletproof vests
+ ││├3 Riot Suits with helmets
+ ││└2 Reflective vests
+ │├Auxiliary items
+ ││├4 Flashbangs contained in a box
+ ││├4 Stingers contained in a box
+ ││├1 Flasher
+ ││└Security techfab
+ │├Out of station equipment room
+ ││├6 Security hardsuits
+ ││├2 Security hardsuits
+ ││├Gas tank dispencer
+└└└1 double emergency oxygen tank
+───────────────────────────────────────
