@@ -3,3 +3,10 @@ R:255
 B:152
 G:33
 A:100
+
+
+Medium command-Advanced Pallet
+R:51
+B:78
+G:109
+A:100
