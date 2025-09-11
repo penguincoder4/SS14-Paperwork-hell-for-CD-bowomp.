@@ -20,7 +20,7 @@ The filing engineer believes that the offender has violated common safety standa
    [   ]  ...  Trespassing into engineering
    [   ]  ...  Interacting with equipment without certification
    [   ]  ...  Impediment/interruption of survey
-   [   ]  ...  Failing to notify engineering of possibily dangerous renovation
+   [   ]  ...  Failing to notify engineering of renovation
    [   ]  ...  Creating unsafe atmosheric conditions
 
 Associated forms will be copied and sent with this form.
