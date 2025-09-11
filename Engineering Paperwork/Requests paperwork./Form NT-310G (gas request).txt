@@ -1,0 +1,36 @@
+[color=#f39f27]░░▄▀░░   [head=2]Gas Requisition[/head]
+░▄█▄▄▀ 
+██▀░░░[/color]   [color=#999999]NT-310G[/color]
+[/color]──────────────────────────────────────────
+[color=red][bold]This Document must be stamped by the Chief engineer or signed by the Senior Engineer[/bold][/color]
+
+Name of Requesting Staff member:
+    [color=#002AAF]"example name"[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Brief summary of the reason for request:[/bold]
+"summary here"
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+	---Requested Gases---
+\[  ] O2
+\[  ] N2
+\[  ] N2O
+\[  ] CO2
+\[  ] NH3
+\[  ] Hydrogen-3
+\[  ] Freezon
+	---Information---
+\[  ] temperature*
+   [color=#002AAF] 273.15K / 21C [/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+	--Container Requested--
+\[  ] Canister 2000L
+\[  ] Tank 2L
+	--Advanced--
+\[  ] Advanced (ratios of gas)
+   [color=#002AAF]22% O2 / 78% N2 [/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Sign Below[/bold]
+
+══════════════════════════════════════════
