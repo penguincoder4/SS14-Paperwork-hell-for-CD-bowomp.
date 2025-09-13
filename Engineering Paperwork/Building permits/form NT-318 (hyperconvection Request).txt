@@ -1,0 +1,21 @@
+[color=#f39f27]░░▄▀░░   [head=2]Hyper-Convection Request[/head]
+░▄█▄▄▀ 
+██▀░░░[/color]   [color=#999999]NT-318-E[/color]
+[/color]──────────────────────────────────────────
+
+Name of requestee:
+    [color=#002AAF]"name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+══════════════════════════════════════════
+[head=3]Department or Area Effected: "example"[/head]
+
+
+[head=3]Specifications[/head]
+\[  ] Freezer system (NTS-12/16)
+\[  ] Radiators  (NTS-13/15)
+\[  ] Gas Tank (NTS-13/15/16)
+\[  ] Signal Valve (NTS-15/16)
+
+Reason for request:  [color=#002AAF]Sample[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=red][bold]MORE DOCUMENTS MAY BE REQUIRED THEN THIS ONE, DEPENDING ON WHAT THE SITUATION CALLS FOR[/bold][/color]
