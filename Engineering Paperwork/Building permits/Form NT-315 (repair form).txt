@@ -3,7 +3,7 @@
 ██▀░░░[/color]   [color=#999999]NT-315[/color]
 [/color]──────────────────────────────────────────
 
-Name of requesting engineer:
+Name of reporting engineer:
     [color=#002AAF]Name[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
  Role:
@@ -38,4 +38,5 @@ Time of repair completion:
 
 
 [head=2]Summarize repair steps and call out[/head]
+
 
