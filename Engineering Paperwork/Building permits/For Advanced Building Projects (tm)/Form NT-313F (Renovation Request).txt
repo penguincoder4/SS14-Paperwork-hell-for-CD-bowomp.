@@ -2,11 +2,10 @@
 ░▄█▄▄▀ 
 ██▀░░░[/color]   [color=#999999]NT-313F[/color]
 [/color]──────────────────────────────────────────
-
 Name of requestee:
     [color=#002AAF]"name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-Name of Filing Engineer:
+Name of Filing Engineer:*
     [color=#002AAF]"name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
  Role:
@@ -15,7 +14,9 @@ Name of Filing Engineer:
 \[  ] Senior Engineer
 \[  ] Engineer
 \[  ] Technical assistant
-════════════════════════════════════════════
+
+*/ leave blank if you are not an engineer.
+══════════════════════════════════════════
 
    [bold]Logistics Engineer*[/bold]
        Lorem
