@@ -5,11 +5,10 @@
 [color=red][bold]THIS DOCUMENT CERTIFIES THAT ALL OF THE CHILD DOCUMENTS LISTED HAVE BEEN VIEWED AND APPROVED. 
 STAMPS ON EVERY DOCUMENT OTHER THEN 313G AND 313H ARE OPTIONAL. [/bold][/color]
 
-
 Name of requestee:
     [color=#002AAF]"name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-Name of Filing Engineer:
+Name of Filing Engineer:*
     [color=#002AAF]"name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
  Role:
@@ -18,7 +17,10 @@ Name of Filing Engineer:
 \[  ] Senior Engineer
 \[  ] Engineer
 \[  ] Technical assistant
+
+*/ leave blank if you are not an engineer.
 ══════════════════════════════════════════
+
 [head=3]Department affected: "example"[/head]
 
 [head=2]1. [/head][head=3]Materials[/head]
@@ -38,6 +40,7 @@ Material acquisition payment is the responsibility of:
 \[  ] Form NT-313G
 \[  ] Form NT-313H
 \[  ] Form NT-315
+
 
 
 
