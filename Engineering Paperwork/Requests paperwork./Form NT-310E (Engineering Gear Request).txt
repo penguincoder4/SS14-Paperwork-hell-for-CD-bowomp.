@@ -36,10 +36,10 @@ Name of Requesting Staff member:
 \[  ] Network configurator
 \[  ] literally a bomb
 \[  ] Gas analyzer
-\[  ] Gas canister:
-   [color=#002AAF]Sample Gas Request[/color]
- ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+See Form NT-310G for gas requests
 
 [bold]Sign Below[/bold]
 
 ══════════════════════════════════════════
+
