@@ -12,7 +12,11 @@ Name of requestee:
 [head=3]Area Requested for the lathes: "example"[/head]
 [bold]If you do not understand any of these terms please inform the engineering staff.[/bold]
 
-[head=3]Specifications[/head]
+[head=4]Level of assistance required.[/head]
+\[  ] I want to lay out specifications
+\[  ] I dont understand and want help (please talk to the senior engineer)
+
+[head=3]Specifications (optional)[/head]
 [head=4]please select the aspects you want in your system[/head]
 \[  ] Freezer system (NTS-12/16)
 \[  ] Radiators in space  (NTS-13/15)
