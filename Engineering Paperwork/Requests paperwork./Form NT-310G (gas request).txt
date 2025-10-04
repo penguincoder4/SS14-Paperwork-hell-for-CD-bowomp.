@@ -2,7 +2,7 @@
 ░▄█▄▄▀ 
 ██▀░░░[/color]   [color=#999999]NT-310G[/color]
 [/color]──────────────────────────────────────────
-[color=red][bold]This Document must be stamped by the Chief engineer or signed by the Senior Engineer[/bold][/color]
+[color=red][bold]This Document must be stamped by the Chief engineer or signed by the Senior Engineer, for anything other then N2 and O2[/bold][/color]
 
 Name of Requesting Staff member:
     [color=#002AAF]"example name"[/color]
@@ -34,3 +34,4 @@ Name of Requesting Staff member:
 [bold]Sign Below[/bold]
 
 ══════════════════════════════════════════
+
