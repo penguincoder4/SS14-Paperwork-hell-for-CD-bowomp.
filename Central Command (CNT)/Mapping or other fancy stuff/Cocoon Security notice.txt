@@ -35,9 +35,11 @@ First layer consists of renforced walls and plasma windows, second layer consist
  ││├4 Flashbangs contained in a box
  ││├4 Stingers contained in a box
  ││├1 Breaching charge
+ ││├1 Contraband Box
+ ││├1 Flasher
  ││└Security techfab
  │├Out of station equipment room
- ││├6 Security hardsuits
+ ││├5 Security hardsuits
  ││├2 Security hardsuits
  ││├Gas tank dispencer
 └└└1 double emergency oxygen tank
