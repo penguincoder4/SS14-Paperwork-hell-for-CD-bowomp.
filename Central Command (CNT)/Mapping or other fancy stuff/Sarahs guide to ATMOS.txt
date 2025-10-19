@@ -32,3 +32,14 @@ Pumps
 A Tile, Aprox- 1M contains [color=#002AAF]2500L[/color]
 Portable Scrubbers
 [color=#002AAF]1250L[/color]
+
+[head=4]TEG Stuff[/head]
+Per 200L you should add Aprox .54669 Mol of gas,
+most setups will be happy with you plugging in a plasma can on a connector port (THATS NOT CONNECTED TO THE SYSTEM YET) then disconnecting it and connecting the connector port to the system.
+
+Just get the cold loop cold, see other documents on how to do so.
+
+[head=4]Disaster Response[/head]
+NEVER LET IT GET ABOVE 300K ANYWHERE IN YOUR STATION THAT ISN'T MADE TO CATCH ON FUCKING FIRE, UNDERSTOOD? LOVELY.
+space heaters can bring local temp back to ~20C / ~293.2K
+
