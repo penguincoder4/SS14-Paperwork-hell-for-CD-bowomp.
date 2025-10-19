@@ -17,14 +17,16 @@ Name of Requesting Staff member:
 \[  ] N2O
 \[  ] CO2
 \[  ] NH3
-\[  ] Hydrogen-3
-\[  ] Freezon
+\[  ] Plasma*
+\[  ] Hydrogen-3*
+\[  ] Freezon*
+/*Captain & Department Head approval Required Unless- Requesting Staff member is in Research and Development
 	---Information---
 \[  ] temperature*
    [color=#002AAF] 273.15K / 21C [/color]
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 	--Container Requested--
-\[  ] Canister 2000L
+\[  ] Canister 1500L
 \[  ] Tank 2L
 	--Advanced--
 \[  ] Advanced (ratios of gas)
@@ -34,4 +36,5 @@ Name of Requesting Staff member:
 [bold]Sign Below[/bold]
 
 ══════════════════════════════════════════
+
 
