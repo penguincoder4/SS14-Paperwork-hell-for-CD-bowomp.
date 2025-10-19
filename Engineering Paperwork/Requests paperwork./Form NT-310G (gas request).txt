@@ -20,7 +20,7 @@ Name of Requesting Staff member:
 \[  ] Plasma*
 \[  ] Hydrogen-3*
 \[  ] Freezon*
-/*Captain & Department Head approval Required Unless- Requesting Staff member is in Research and Development [color=red][bold]THESE GASSES CANNOT BE GIVEN OUT TO PASSENGERS[/bold][/color]
+/*Captain & Department Head approval Required Unless- Requesting Staff member is in Research and Development 
 
 	---Information---
 \[  ] temperature*
@@ -37,6 +37,7 @@ Name of Requesting Staff member:
 [bold]Sign Below[/bold]
 
 ══════════════════════════════════════════
+
 
 
 
