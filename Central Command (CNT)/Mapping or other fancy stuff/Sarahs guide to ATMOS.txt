@@ -1,0 +1,34 @@
+[color=#f39f27]░░▄▀░░   [head=2]Sarahs Guide to Atmos[/head]
+░▄█▄▄▀ 
+██▀░░░[/color]   
+[/color]──────────────────────────────────────────
+[head=3]So, you want to learn atmos[/head]
+[head=4]Basis of everything[/head]
+This is a job that involves a lot of math.
+PV=NRT 
+Pressure (times) Volume (equals) Moles (times) Univeral-Gas-Constant (times) Tempture
+For your Purposes-
+R=8.31446261815324
+P=KpA
+N=Mol
+T=Kelvin
+
+[head=4]Information[/head]
+Canisters by default have:
+[color=#002AAF] 4500 KpA -  (MOL IS DEPENDANT ON GAS*) - 293.2K - 1,500 L [/color]
+Pipes-
+Any pipe that JUST transports gas has 
+[color=#002AAF]200L[/color]
+Radiators 
+[color=#002AAF]400L[/color]
+Valves
+[color=#002AAF]400L[/color]
+Filters 
+[color=#002AAF]800L[/color]
+Mixers 
+[color=#002AAF]800L[/color]
+Pumps 
+[color=#002AAF]600L[/color]
+A Tile, Aprox- 1M contains [color=#002AAF]2500L[/color]
+Portable Scrubbers
+[color=#002AAF]1250L[/color]
