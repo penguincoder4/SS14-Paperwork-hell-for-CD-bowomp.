@@ -16,14 +16,14 @@ Name of Requesting Staff member:
 \[  ] Wrench
 \[  ] Screwdriver
 \[  ] Multitool
-\[  ] Engineering Goggles
+\[  ] Engineering Goggles*
 \[  ] Insulated Gloves
 \[  ] Welding tool
 \[  ] Advanced Welding Tool
 \[  ] Industrial Welding Tool
 \[  ] Experimental Welding Tool
 \[  ] Crowbar
-\[  ] Jaws of Life
+\[  ] Jaws of Life*
 \[  ] Welding mask
 \[  ] Reflective Vests
 \[  ] Wire cutters
@@ -37,11 +37,12 @@ Name of Requesting Staff member:
 \[  ] Network configurator
 \[  ] literally a bomb
 \[  ] Gas analyzer
-
+/*CE stamp required.
 See Form NT-310G for gas requests
 
 [bold]Sign Below[/bold]
 
 ══════════════════════════════════════════
+
 
 
