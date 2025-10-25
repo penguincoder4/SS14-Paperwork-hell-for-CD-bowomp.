@@ -60,6 +60,7 @@ XX/XX/XX
 \[  ] Laser carbine
 \[  ] X-Ray cannon
 \[  ] Laser cannon
+\[  ] EG-1 Taro
 \[  ] Other:
 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
