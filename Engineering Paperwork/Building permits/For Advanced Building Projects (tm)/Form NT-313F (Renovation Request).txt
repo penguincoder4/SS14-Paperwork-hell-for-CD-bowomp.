@@ -30,7 +30,7 @@ Name of Filing Engineer:*
      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#999999]*The engineer or person responsible for providing necessary construction materials.[/color]
 
-If station walls and/or windows will be disassembled during renovation, please see the relevant demolition request (N-413E).
+If station walls and/or windows will be disassembled during renovation, please see the relevant demolition request (N-313E).
 
 This form is only valid if it is signed by the Filing Engineer, Logistics Engineer, and Head of Staff of the renovation site (if applicable).
 ──────────────────────────────────────────
