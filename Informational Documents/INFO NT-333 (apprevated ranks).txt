@@ -12,7 +12,7 @@ Other Central Command Staff:
 [Central Command Janitor -CCJani]
 
    Emergency Response Teams
-(list rank in front)
+(list rank in front such as- "LT-CMD")
 Elite Units-ETT
 Chemical-Burning-Undead-Radioactive-Nuclear-CBURN
 Security -ES
@@ -78,6 +78,7 @@ Research Assistant -RA
 Other:
 Passanger -TDE
 Private investigator -PRDET
+
 
 
 
