@@ -2,7 +2,7 @@
 █ ▀█     █        Info Nt-332
 ══════════════════════════════════════════
 
-   Shoal (as to our knowledge)
+   Shoal (Requested by Bishbabe)
 Haruspex -HRU
 Overseer -Ovr
 Command Enforcer -CmdEf 
@@ -11,3 +11,4 @@ Quill-Qui
 
 
 [ADD MORE LATER]
+
