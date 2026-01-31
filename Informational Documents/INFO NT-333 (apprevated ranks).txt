@@ -2,11 +2,12 @@
 █ ▀█     █        Info Nt-333
 ══════════════════════════════════════════
    Central Command
+Central Command Director -CCD
 Central Command Official -CCO
 Central Command Investigator -CCDT
 Central Command Inspector -CCI
 Central Command Intern -CCIN
-Central Command Staff:
+Other Central Command Staff:
 (add CC to the preface of the role Ie-)
 [Central Command Janitor -CCJani]
 
@@ -71,3 +72,9 @@ Medical Intern -MI
 Senior Researcher -SSCI
 Scientist -SCI
 Research Assistant -RA
+
+Other:
+Passanger -TDE
+Private investigator -PRDET
+
+
