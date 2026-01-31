@@ -15,7 +15,7 @@ Name of Filing Engineer:
 \[  ] NON-ENGINEER ENGINEERING IS DEAD
 
 [color=red][bold]This Document must be approved and stamped by the highest ranking available command Unless this is not possible.[/bold][/color]
-[color=red]False filing of this form will result in Contract termination pursuant NT Handbook §62-1.4e[/color]
+[color=red]False filing of this form may result in Contract termination pursuant NT Handbook §62-1.4e[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 Incident was discovered at: (select one)
@@ -54,3 +54,4 @@ Incident was discovered at: (select one)
 
 
                                   [bold]═══╣ Stamp Below ╠═══[/bold]
+
