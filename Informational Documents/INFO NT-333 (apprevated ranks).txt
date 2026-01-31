@@ -13,6 +13,8 @@ Other Central Command Staff:
 
    Emergency Response Teams
 (list rank in front)
+Elite Units-ETT
+Chemical-Burning-Undead-Radioactive-Nuclear-CBURN
 Security -ES
 Janitor -EJ
 Scientists -ES
@@ -76,5 +78,6 @@ Research Assistant -RA
 Other:
 Passanger -TDE
 Private investigator -PRDET
+
 
 
