@@ -4,32 +4,33 @@
 [/color]──────────────────────────────────────────
 
 Name of Student:
-    [color=#002AAF]Dean Morgan[/color]
+    [color=#002AAF]Stuident[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 Name of Overseer List role next to name:
-    [color=#002AAF]Sarah Blackwitch, Senior Engineer[/color]
+    [color=#002AAF]NAME, ENGINEERING ROLE[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ══════════════════════════════════════════
 Does the Overseer have this certification?
-\[ X ] Yes
+\[  ] Yes
 \[  ] No.
 
 Does the Overseer have the certification for surveys?
-\[ X ] Yes
-\[  ] No.
+\[  ] Yes
+\[  ] No.*
+//Please List assistant under line here who does.
 
 did the overseer follow standard lession plan NTLP-342?
-\[ X ] Yes
+\[  ] Yes
 \[  ] No.*
 //Be very detailed in describing the events.
 
 Describe the events:
-    [color=#002AAF]Went through Part 1, walked them through removal and assembly of a basic wall. 
-afterwards ran them through part 2 where they were instructed how to assemble a crawl space wall first one was subpar but functional,
-second attempt resulted in a correctly made one. allowed to move on to Part 3 after disasembly of the two walls. 
-Part 3 involved student failing to install plasteel the first time, plasteel renforcement was installed in slots 3-7-9, told to redo, redone correctly, student used a box to hold them steady as they welded the plasteel onto the renforced frame. surveyed the frame to get an estimation of failure of 5-6 months. Student passes certification.[/color]
+    [color=#002AAF]
+(PART-1 Basic assembly, have student create a wall, talk them through it, using slots 2-4-8 in the girter)
+(PART-2 Crawl spaces, have student create wall using slots 1-5-10 on the girter)
+(PART-3 Renforced walls, have student use slots 3-7-9 on the renforced Girter. Survey afterwards, Maximum extent of time before failure is 8-10 months, getting 75% is considered successful)[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ══════════════════════════════════════════
 Overseer please sign below:
 
-Sarah Blackwitch.
+
