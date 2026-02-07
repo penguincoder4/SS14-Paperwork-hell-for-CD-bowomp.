@@ -1,6 +1,6 @@
 [color=#cb0000]░█▄▄█░ [head=2]Execution Form[/head]
 ██▄▄██ 
-▀█▄▄█▀ [/color]   Form NT-534
+▀█▄▄█▀ [/color]   Form NT-353
 ───────────────────────────────────────
 [head=2][color=red]This document acts as a DNR.[/color][/head]
 [color=#aaaaaa]Violation of this document will result in being charged with violating a prevention of revival order, a capital crime. As allowed under NT Space Law §53-16.21, under the DNR violation clause, the captain is not excused if they are aware of this document.[/color]
@@ -44,4 +44,5 @@ Execution Reason:
 
 [color=#aaaaaa]This document is not valid unless stamped by at least one of the listed required personnel.
 This form follows NT Space Law §12-24.7[/color]
+
 
