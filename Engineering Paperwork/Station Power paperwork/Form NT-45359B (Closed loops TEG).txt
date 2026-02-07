@@ -15,7 +15,7 @@ Name of engineer writing document:
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#ff0000][head=2] THIS FORM IS FOR DUEL CLOSED LOOPS ONLY[/head][/color]
 See forms- 
-Nt-35359A for duel open loops?
+Nt-35359A for dual open loops
 Nt-35359C for Open hot loop and closed cold loop.
 Nt-35359D for Closed hot loop and open cold loop.
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -96,5 +96,6 @@ Radiators in hot loop?:  [color=#002AAF]Sample number[/color]
 \[  ] Other Mix: 
    [color=#002AAF]Sample other[/color]
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
 
 
