@@ -7,19 +7,20 @@ Name of Student:
     [color=#002AAF]John Student[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 Name of Overseer List role next to name:
-    [color=#002AAF]Sarah Blackwitch, Senior Engineer[/color]
+    [color=#002AAF]NAME, ENGINEERING ROLE[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ══════════════════════════════════════════
 Does the Overseer have this certification?
-\[ X ] Yes
+\[  ] Yes
 \[  ] No.
 
 Does the Overseer have the certification for surveys?
-\[ X ] Yes
-\[  ] No.
+\[  ] Yes
+\[  ] No.*
+*//List assistant below this line who does
 
 did the overseer follow standard lession plan NTLP-342?
-\[ X ] Yes
+\[  ] Yes
 \[  ] No.*
 //Be very detailed in describing the events.
 
@@ -29,4 +30,4 @@ Describe the events:
 ══════════════════════════════════════════
 Overseer please sign below:
 
-Sarah Blackwitch.
+
