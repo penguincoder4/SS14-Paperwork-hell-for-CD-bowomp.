@@ -15,7 +15,7 @@ Name of engineer writing document:
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [color=#ff0000][head=2] THIS FORM IS FOR OPEN COLD LOOP AND OPEN HOT LOOP ONLY!![/head][/color]
 See forms- 
-Nt-35359B for duel closed loop.
+Nt-35359B for dual closed loop.
 Nt-35359C for Open hot loop and closed cold loop.
 Nt-35359D for Closed hot loop and open cold loop.
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -82,4 +82,5 @@ Nt-35359D for Closed hot loop and open cold loop.
 [head=3]Gas in Cold loop/atmosphere [/head]
    [color=#002AAF]Sample other[/color]
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
 
