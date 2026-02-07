@@ -17,7 +17,7 @@ Does the Overseer have this certification?
 Does the Overseer have the certification for surveys?
 \[  ] Yes
 \[  ] No.*
-*//List assistant below this line who does
+*//Please List assistant under line here who does.
 
 did the overseer follow standard lession plan NTLP-342?
 \[  ] Yes
