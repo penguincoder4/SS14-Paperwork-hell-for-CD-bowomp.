@@ -12,7 +12,7 @@ Name of requesting Officer:
 Name of direct Superior*:
     [color=#002AAF]"example name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-//*Central command and Captain do not have to fill this section out
+//*Central Command and Captain do not have to fill this section out
 
  Role:
 \[  ] Central Command (any position)
@@ -38,11 +38,12 @@ Execution Reason:
 \[  ] Refusal of mental Shielding
 \[  ] Theft of Classified materials
 \[  ] Ate Ian
-\[  ] Really tired of their bull shit.
+\[  ] Really tired of their bullshit.
 \[  ] Bored
 \[  ] Did the same gimmick last time
 
 [color=#aaaaaa]This document is not valid unless stamped by at least one of the listed required personnel.
 This form follows NT Space Law §12-24.7[/color]
+
 
 
