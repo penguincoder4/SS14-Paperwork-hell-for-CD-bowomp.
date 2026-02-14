@@ -107,8 +107,9 @@ Brief summary of events. (include department(s) and what occurred)
 "summary here"
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ══════════════════════════════════════════
-See CNT-240 for assistance requests
+See CNT-240 For Assistance Requests
 ══════════════════════════════════════════
 
 [bold][color=red]By submitting this document to Central Command the Author personally certifies that it is accurate to the best of their ability. Submitting false reports or reports with fake names can result in being charged with perjury and a fine of up to 5,000 spesos or 5 months in prison and termination of contract.[/color][bold]
+
 
