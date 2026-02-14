@@ -50,6 +50,9 @@ XX/XX/XX
 \[  ] MK58
 \[  ] Security Shell gun
 \[  ] Double barrel shotgun
+\[  ] Savalin Laser pistol
+\[  ] Flash
+\[  ] Combat Knife
 \[  ] Drozd
 \[  ] Krammer
 \[  ] WT550
