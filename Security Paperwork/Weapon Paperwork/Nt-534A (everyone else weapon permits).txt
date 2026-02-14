@@ -7,3 +7,34 @@
 Name of Requesting Staff member:
     [color=#002AAF]"example name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Role of Requesting Staff member:
+    [color=#002AAF]"example job"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Brief summary of the reason for request:[/bold]
+"summary here"
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Weapon needs:[/bold]
+"summary here"
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Last weapon training date:[/bold]
+XX/XX/XX
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[color=#9E9E9E][italic]Any person found in possession of a permit, found selling, giving away weapons, found using a firearm to enact a crime or otherwise misusing equipment will have this license revoked, and be charged accordingly.[/color][/italic]
+───────────────────────────────────────
+[color=red][bold]FOR SECURITY USE ONLY DO NOT MARK.[/bold][/color]
+───────────────────────────────────────
+--Weapon issued--
+\[  ] Disabler
+\[  ] MK58
+\[  ] Security Shell gun
+\[  ] Double barrel shotgun
+\[  ] N1984
+\[  ] Inspector
+\[  ] Savalin Laser pistol
+\[  ] Flash
+\[  ] Combat Knife
+\[  ] Other:
+
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
