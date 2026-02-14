@@ -1,3 +1,25 @@
-[color=#1b67a5]█▄ █ ▀█▀    [head=3]ERT Request[/head]
+[color=Green]█▄ █ ▀█▀    [head=3]Station Assistance Request[/head]
 █ ▀█     █ [/color]   [color=#999999]CNT-240[/color]
 ──────────────────────────────────────────
+Name of Requestee & Role:
+    [color=#002AAF]name here, Role here[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Name of station with station ID:
+    [color=#002AAF]station name Station ID[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=2]1. [/head][head=3]Incident Details[/head]
+
+
+
+[head=2]2. [/head][head=3]Requested Assistance[/head]
+Please select the type of assistance you would like to request
+\[  ] Emergency Response Team (ERT)
+  - 	\[  ] Engineering ERT
+  - 	\[  ] Janitorial ERT
+  - 	\[  ] Medical ERT
+  - 	\[  ] Security ERT
+  - 	\[  ] Psychologist ERT
+  - 	\[  ] Scientific ERT
+  - 	\[  ] Search and Rescue Team
+  - 	\[  ] Chemical Burning Undead Radioactive Nuclear
+  - 	\[  ] 
