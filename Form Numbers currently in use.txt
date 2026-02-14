@@ -39,7 +39,7 @@ NT-42069IAN (ian lost form)
 
     CNT series
 
-CNT-1575 (armory and atmos clearance) - Requires rewriting, Do not use.
+CNT-1575 (armory and atmos clearance) - Requires rewriting, Do not use. [intended to be a are they a raider check by the admins]
 CNT-N-33 (Situation Report)
 CNT-240 (ERT request)
 
