@@ -8,9 +8,9 @@ Name of station with station ID:
     [color=#002AAF]station name Station ID[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [head=2]1. [/head][head=3]Incident Details[/head]
-
-
-
+If document is filed alongside any incident reporting documentation, feel free to skip this section
+    [color=#002AAF]Reason here[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [head=2]2. [/head][head=3]Requested Assistance[/head]
 Please select the type of assistance you would like to request
 \[  ] Emergency Response Team (ERT)
@@ -21,6 +21,21 @@ Please select the type of assistance you would like to request
   - 	\[  ] Psychologist ERT
   - 	\[  ] Scientific ERT
   - 	\[  ] Search and Rescue Team
+  - 	\[  ] Emergency Clown Team
   - 	\[  ] Chemical Burning Undead Radioactive Nuclear
-\[  ] Emergency Response Team (ERT)
+\[  ] Other Assistance
+  - 	\[  ] Expedited evacuation
   - 	\[  ] Station-Self Destruct Codes.
+  - 	\[  ] Remote Detonation of Station
+\[  ] Supply assistance
+  - 	\[  ] Food
+  - 	\[  ] Medical Supplies
+  - 	\[  ] Building Supplies
+  -  \[  ] Personal Protective Equipment
+\[  ] Moral Support
+\[  ] Other:    [color=#002AAF]Sample Request[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+──────────────────────────────────────────
+Stamp Below If requestee is a head of staff.
+──────────────────────────────────────────
