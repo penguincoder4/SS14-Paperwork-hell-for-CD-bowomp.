@@ -1,4 +1,4 @@
-[color=#f39f27]░░▄▀░░   [head=2]Thermoelectric Generator Operation[/head]
+[color=#f39f27]░░▄▀░░   [head=2]TEG Operation Report[/head]
 ░▄█▄▄▀ 
 ██▀░░░[/color]   [color=#999999]NT-45359D[/color]
 [/color]──────────────────────────────────────────
@@ -82,6 +82,7 @@ Nt-35359C for Open hot loop and closed cold loop.
 [head=3]Gas in Cold loop/atmosphere [/head]
    [color=#002AAF]Sample other[/color]
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
 
 
 
