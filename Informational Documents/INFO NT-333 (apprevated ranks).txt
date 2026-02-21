@@ -79,6 +79,9 @@ Other:
 Passanger -TDE
 Private investigator -PRDET
 
+add JN to any Junior staff members, these are typically used for field training new staff members.
+
+
 
 
 
