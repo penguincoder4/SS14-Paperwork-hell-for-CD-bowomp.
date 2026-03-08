@@ -24,9 +24,9 @@ First layer consists of renforced walls and plasma windows, second layer consist
  ││├3 Kammer model 53 (chambered in .50 shells)
  ││├1 Double barreled shotgun (chambered in .50 shells)
  ││├2 Lecter model 72 (chambered in .20 rifle)
- ││├1 Svalinn laser pistol (chambered in batteries)
+ ││├2 Svalinn laser pistol (chambered in batteries)
  ││├3 Laser Carbines model 77
- ││└2 MK58 (chambered in .35 auto)
+ ││└1 MK58 (chambered in .35 auto)
  │├Armor
  ││├3 Bulletproof vests
  ││├3 Riot Suits with helmets
