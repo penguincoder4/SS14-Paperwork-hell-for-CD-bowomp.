@@ -120,7 +120,7 @@
 \[  ] Violet*
 \[  ] Yellow*
 
-*/Provide Form Nt-35X with this document
+*/Provide Form Nt-354 with this document
 
 [bold]Resistance Level:[/bold]
 \[  ] NV-Minor-        Walking
