@@ -1,0 +1,48 @@
+[color=#cb0000]░█▄▄█░ [head=2]Permanant Punishment Form[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Form NT-355
+───────────────────────────────────────
+[color=red][bold]This document must be approved and stamped by the required personel for the punishment type requested.[/bold][/color]
+══════════════════════════════════════════
+
+[bold]Name of Requesting Officer:[/bold]
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Role:[/bold]
+\[  ] Head of Security
+\[  ] Captain
+\[  ] Warden
+\[  ] Senior officer
+\[  ] Brigmedic
+\[  ] Sapper
+\[  ] Security officer
+\[  ] Cadet
+\[  ] Head of Personel
+══════════════════════════════════════════
+
+[bold]Accused:[/bold]   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Justification for Confiment:[/bold]
+\[  ] 03-II - Psychiatric
+\[  ] 03-III - Psychiatric
+\[  ] 03-IV - Permanant, Psychiatric
+\[  ] 03-V- Permanant, Psychiatric, Execution
+\[  ] 07-V- Permanant
+\[  ] 12-III- Permanant, Deportation
+\[  ] 13-III- Psychiatric
+\[  ] 14-II- Psychiatric
+
+[bold]Psychiatric punishment:[/bold]
+Approval from Chief Medical Officer, and security wavies their ability to end the sentence, handing that authority off to the Chief Medical Officer and their superiors.
+[bold]Permanant:[/bold]
+Sentence Length is decided by the Head of Security and their superiors.
+[bold]Execution:[/bold]
+See form NT-351
+[bold]Deportation:[/bold]
+Approval from Central Command, Inmate will be transported to another facility.
+
+It is assumed by default, for all punishments, that the Warden or HoS stamp is required.
+══════════════════════════════════════════
+[color=#aaaaaa]This document is not valid unless stamped by the listed required personnel. Unlawful Filing of this document will result in criminal charges of 09-III and 14-II. This form follows NT Space Law §5-2.5[/color]
+
