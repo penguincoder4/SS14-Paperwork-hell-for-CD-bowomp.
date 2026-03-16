@@ -34,6 +34,11 @@
 [/bold]
     [color=#002AAF] (TIME IN HH:MM:SS) - (TIME+00:30:00) [/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Warrant Number:
+[/bold]
+    [color=#002AAF]"Example Number"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
 [bold]Additional Clauses[/bold]
 If illegal items are found to be in the possession of the searched individual they will be confiscated and the individual may be detained at the officers discretion. [bold]Legal items must be returned after a search.[/bold]
 
