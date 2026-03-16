@@ -8,15 +8,17 @@
 
 ══════════════════════════════════════════
 
-Name of requesting Officer:
+[bold]Name of requesting Officer:[/bold]
     [color=#002AAF]"example name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-Name of direct Superior*:
+[bold]Name of direct Superior*:
+[/bold]
     [color=#002AAF]"example name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-//*Central Command and Captain do not have to fill this section out
+[color=#aaaaaa]//*Central Command and Captain do not have to fill this section out
+[/color]
 
- Role:
+ [bold]Role:[/bold]
 \[  ] Central Command (any position)
 \[  ] Head of Security
 \[  ] Captain
@@ -29,9 +31,10 @@ Name of direct Superior*:
 \[  ] Head of Personel
 ══════════════════════════════════════════
 
-Execution Target:   [color=#002AAF]Sample Person[/color]
+[bold]Execution Target:[/bold]   [color=#002AAF]Sample Person[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-Execution Reason:
+[bold]Execution Reason:
+[/bold]
 \[  ] Mass Murder
 \[  ] Prevention of revival
 \[  ] Uncontainable*
@@ -41,5 +44,4 @@ Execution Reason:
 
 [color=#aaaaaa]This document is not valid unless stamped by the listed required personnel.
 This form follows NT Space Law §5-2.5[/color]
-
 
