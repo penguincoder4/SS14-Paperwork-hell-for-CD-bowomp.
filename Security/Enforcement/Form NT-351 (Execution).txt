@@ -35,7 +35,6 @@
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Execution Reason:
 [/bold]
-\[  ] Mass Murder
 \[  ] Prevention of revival
 \[  ] Uncontainable*
 \[  ] Refusal of mental Shielding*
