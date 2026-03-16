@@ -1,0 +1,47 @@
+[color=#cb0000]░█▄▄█░ [head=2]Execution Form[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Form NT-351
+───────────────────────────────────────
+[head=2][color=red]This document acts as a DNR.[/color][/head]
+[color=#aaaaaa]Violation of this document will result in being charged with the violatior being charged the same as the target of this document. As allowed under NT Space Law §5-1.2, under the Acessory clause.[/color]
+[color=red][bold]This document must be approved and stamped by the Captain, Head of Security, and The Chief Medical Officer, or issued by Central Command[/bold][/color]
+
+Name of requesting Officer:
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Name of direct Superior*:
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+//*Central Command and Captain do not have to fill this section out
+
+ Role:
+\[  ] Central Command (any position)
+\[  ] Head of Security
+\[  ] Captain
+\[  ] Warden
+\[  ] Senior officer
+\[  ] Brigmedic
+\[  ] Sapper
+\[  ] Security officer
+\[  ] Cadet
+\[  ] Head of Personel
+
+
+Execution Target:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Execution Reason:
+\[  ] 03-V
+\[  ] 07-V
+\[  ] Uncontainable by station assets
+\[  ] Refusal of mental Shielding under crisis
+\[  ] Theft of Classified materials
+\[  ] Ate Ian
+\[  ] Really tired of their bullshit.
+\[  ] Bored
+\[  ] Did the same gimmick last time
+
+[color=#aaaaaa]This document is not valid unless stamped by the listed required personnel.
+This form follows NT Space Law §5-2.5[/color]
+
+
+
