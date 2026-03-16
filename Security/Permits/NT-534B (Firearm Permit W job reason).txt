@@ -1,0 +1,69 @@
+[color=#cb0000]░█▄▄█░ [head=2]Firearm permit[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Form NT-534B
+───────────────────────────────────────
+[color=red][bold]This Document must be stamped by the HoS or the Warden[/bold][/color]
+
+[bold]Name of Requesting Staff member:[/bold]
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Please Refer to Form NT-534A if your job isn't listed below.
+[color=#aaaaaa]This document is for personel with job based reasons only[/color]
+───────────────────────────────────────
+[bold]Role of Requesting Staff member:[/bold]
+
+--Engineering--
+\[  ] Senior Engineer
+\[  ] Atmos Tech
+
+--Medical--
+\[  ] Paramedic
+\[  ] Chemist
+
+--Cargo--
+\[  ] Salvage Specalist
+
+--Command--
+\[  ] Chief Medical Officer
+\[  ] Head Of Personnel
+\[  ] Chief Engineer
+\[  ] Research Director
+\[  ] Quarter Master
+\[  ] BlueShield
+
+
+[bold]Brief summary of the reason for request:[/bold]
+"summary here"
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Weapon needs:[/bold]
+"summary here"
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Last weapon training date:[/bold]
+XX/XX/XX
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[color=#9E9E9E][italic]Any person found in possession of a permit, found selling, giving away weapons, found using a firearm to enact a crime or otherwise misusing equipment will have this license revoked, and be charged accordingly.[/color][/italic]
+───────────────────────────────────────
+[color=red][bold]FOR SECURITY USE ONLY DO NOT MARK.[/bold][/color]
+───────────────────────────────────────
+--Weapon issued--
+\[  ] Disabler
+\[  ] MK58
+\[  ] Security Shell gun
+\[  ] Double barrel shotgun
+\[  ] Savalin Laser pistol
+\[  ] Flash
+\[  ] Combat Knife
+\[  ] Drozd
+\[  ] Krammer
+\[  ] WT550
+\[  ] Lecter
+\[  ] N1984
+\[  ] Inspector
+\[  ] Laser carbine
+\[  ] X-Ray cannon
+\[  ] Laser cannon
+\[  ] Other:
+"sample other"
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
