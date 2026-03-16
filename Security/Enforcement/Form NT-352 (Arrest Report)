@@ -97,6 +97,18 @@
 \[  ] 16-IV
 
 [bold]Arrested on Alert level:[/bold]
+\[  ] Green
+\[  ] Blue
+   \[  ] Bronze
+   \[  ] Amber
+\[  ] Red
+\[  ] Omega
+\[  ] Delta
+
+\[  ] Violet
+\[  ] Yellow
+
+[bold]Searched on alert level:[/bold]
 \[  ] Green*
 \[  ] Blue
    \[  ] Bronze*
@@ -119,3 +131,4 @@
 \[  ] V-Extreme-        Firearm
 ══════════════════════════════════════════
 [color=#aaaaaa]This document [italic]Does Not[/italic] act as a warrant of any kind. This document is exclusively to keep records in line.[/color]
+
