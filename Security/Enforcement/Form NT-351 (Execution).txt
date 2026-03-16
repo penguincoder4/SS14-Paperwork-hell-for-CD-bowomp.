@@ -30,18 +30,13 @@ Name of direct Superior*:
 Execution Target:   [color=#002AAF]Sample Person[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 Execution Reason:
-\[  ] 03-V
-\[  ] 07-V
-\[  ] Uncontainable by station assets
-\[  ] Refusal of mental Shielding under crisis
-\[  ] Theft of Classified materials
-\[  ] Ate Ian
-\[  ] Really tired of their bullshit.
-\[  ] Bored
-\[  ] Did the same gimmick last time
+\[  ] Mass Murder
+\[  ] Prevention of revival
+\[  ] Uncontainable*
+\[  ] Refusal of mental Shielding*
+*Central Command Approval Required.
+
 
 [color=#aaaaaa]This document is not valid unless stamped by the listed required personnel.
 This form follows NT Space Law §5-2.5[/color]
-
-
 
