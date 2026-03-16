@@ -6,6 +6,8 @@
 [color=#aaaaaa]Violation of this document will result in being charged with the violatior being charged the same as the target of this document. As allowed under NT Space Law §5-1.2, under the Acessory clause.[/color]
 [color=red][bold]This document must be approved and stamped by the Captain, Head of Security, and The Chief Medical Officer, or issued by Central Command[/bold][/color]
 
+══════════════════════════════════════════
+
 Name of requesting Officer:
     [color=#002AAF]"example name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -25,7 +27,7 @@ Name of direct Superior*:
 \[  ] Security officer
 \[  ] Cadet
 \[  ] Head of Personel
-
+══════════════════════════════════════════
 
 Execution Target:   [color=#002AAF]Sample Person[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
@@ -39,4 +41,5 @@ Execution Reason:
 
 [color=#aaaaaa]This document is not valid unless stamped by the listed required personnel.
 This form follows NT Space Law §5-2.5[/color]
+
 
