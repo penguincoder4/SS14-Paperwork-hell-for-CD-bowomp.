@@ -36,8 +36,13 @@
 [/bold]
     [color=#002AAF] (TIME IN HH:MM:SS) - (TIME+00:30:00) [/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Warrant Number:
+[/bold]
+    [color=#002AAF]"Example Number"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
 [bold]Additional Clauses[/bold]
-If illegal items are found to be in the possession of the searched individual they will be confiscated and the individual may be detained at the officers discretion. [bold]Legal items must be returned after a search.[/bold]
+If illegal items are found to be in the possession of the searched department they will be confiscated and the individual responsible may be detained at the officers discretion. [bold]Legal items must be returned after a search.[/bold]
 
 If warrant target, here after refered to as the accused, is informed of the warrant against them, [italic]AND complying the warrant will not endanger the crew[/italic] it is up to the warrant's approver to charge the accused with 12-I, Failure to comply. If the accused has not been informed of the warrant within a reasonable timeframe to appear for it to be enacted, they may appeal this charge to the commanding officer of the approver.
 ══════════════════════════════════════════
