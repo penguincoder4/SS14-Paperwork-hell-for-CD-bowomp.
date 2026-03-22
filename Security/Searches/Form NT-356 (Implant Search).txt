@@ -1,0 +1,45 @@
+[color=#cb0000]░█▄▄█░ [head=2]Implant Removal[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Form NT-356
+───────────────────────────────────────
+[color=red][bold]This document must be approved and stamped by the Head of Security or the Captain.[/bold][/color]
+══════════════════════════════════════════
+
+[bold]Name of Requesting Officer:[/bold]
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Role:[/bold]
+\[  ] Head of Security
+\[  ] Captain
+\[  ] Warden
+\[  ] Senior officer
+\[  ] Brigmedic
+\[  ] Sapper
+\[  ] Security officer
+\[  ] Cadet
+══════════════════════════════════════════
+
+[bold]Accused:[/bold]   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Suspected Implant:[/bold]
+\[  ] DNA scrambler
+\[  ] EMP implanter
+\[  ] chameleon controller
+\[  ] Death acidifier
+\[  ] SYN Death rattle
+\[  ] CNT Death rattle*
+\[  ] Fake Mindshield
+\[  ] Freedom
+\[  ] Identity Mask
+\[  ] Macro-bomb
+\[  ] Mirco-bomb
+\[  ] Sad trombone
+\[  ] Scram
+\[  ] Storage
+\[  ] Radio Implant
+\[  ] Uplink
+
+*Central Command Approval Required
+══════════════════════════════════════════
+[color=#aaaaaa]This document is not valid unless stamped by the listed required personnel. Unlawful Filing of this document will result in criminal charges of 02-II, 09-III, and 14-II. If the target does not have the searched implants the filing officer may be liable for 02-II. This form follows NT Space Law §5-1.1[/color]
