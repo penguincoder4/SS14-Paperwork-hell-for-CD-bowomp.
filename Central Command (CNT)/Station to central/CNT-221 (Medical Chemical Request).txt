@@ -24,6 +24,9 @@
 \[  ] 20u
 \[  ] 30u
 \[  ] 50u
+\[  ] 200u
+\[  ] 250u
+\[  ] 1000u
 
 [bold]Reasoning for Order:[/bold]
 \[  ] Lack of Chemicals/Chemist
