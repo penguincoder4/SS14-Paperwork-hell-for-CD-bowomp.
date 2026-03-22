@@ -44,5 +44,5 @@ Approval from Central Command, Inmate will be transported to another facility.
 
 It is assumed by default, for all punishments, that the Warden or HoS stamp is required.
 ══════════════════════════════════════════
-[color=#aaaaaa]This document is not valid unless stamped by the listed required personnel. Unlawful Filing of this document will result in criminal charges of 09-III and 14-II. This form follows NT Space Law §5-2.5[/color]
+[color=#aaaaaa]This document is not valid unless stamped by the listed required personnel. Unlawful Filing of this document will result in criminal charges of 09-III and 14-II. This form follows NT Space Law §6-2.5[/color]
 
