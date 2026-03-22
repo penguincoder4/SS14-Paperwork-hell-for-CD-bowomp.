@@ -1,0 +1,40 @@
+[color=#c96dbf]░▀▄▄▀░ [head=2]Artifact Safety Report[/head]
+░█░░█░ 
+░▄▀▀▄░[/color]   Form NT-400
+──────────────────────────────────────────
+
+[bold]Name of reporting Scientist:[/bold]
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Role:
+[/bold]
+\[  ] Research Director
+\[  ] Senior Scientist
+\[  ] Scientist
+\[  ] Roboticist
+\[  ] Research Assistant
+══════════════════════════════════════════
+
+[bold]Artifact Name/ID[/bold]
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Safety Concern[/bold]
+\[  ] Artifact May suddenly Detonate.
+\[  ] Artifact May Induce Station Wide Destruction*
+\[  ] Artifact is Sentient.
+
+[color=#aaaaaa]*Inform the Stations Commanding officer as well as send this document to them.[/color]
+
+[bold]DO NOT DO THIS AROUND THIS ARTIFACT[/bold]
+    [color=#002AAF]"example list of banned actions"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Requested Actions[/bold]
+\[  ] Immedate Disposal at the ATS
+\[  ] Immedate Disposal into the crushing machine
+\[  ] Immedate Space based Disposal.
+
+
+
+
+[color=red]If station wide destruction is the concern, the Captain is authorized to enact a stationwide lockdown while the artifact is being transported, to ensure the safety of the crew. during this time, security is to transport the artifact safely to its disposal location.[/color]
