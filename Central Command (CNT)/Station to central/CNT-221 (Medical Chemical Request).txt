@@ -14,7 +14,7 @@
 ══════════════════════════════════════════
 
 [bold]Chemical Requested:[/bold]
-    [color=#002AAF]station name Station ID[/color]
+    [color=#002AAF]Contraband Chemical Name[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 [bold]Amount Requested:[/bold]
