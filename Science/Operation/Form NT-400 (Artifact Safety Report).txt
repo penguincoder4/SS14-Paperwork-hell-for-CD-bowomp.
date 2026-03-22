@@ -6,8 +6,7 @@
 [bold]Name of reporting Scientist:[/bold]
     [color=#002AAF]"example name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
- [bold]Role:
-[/bold]
+ [bold]Role:[/bold]
 \[  ] Research Director
 \[  ] Senior Scientist
 \[  ] Scientist
