@@ -1,0 +1,76 @@
+[color=#c96dbf]░▀▄▄▀░ [head=2]Anomaly Report[/head]
+░█░░█░ 
+░▄▀▀▄░[/color]   Form NT-401
+──────────────────────────────────────────
+
+[bold]Name of reporting Scientist:[/bold]
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Role:
+[/bold]
+\[  ] Research Director
+\[  ] Senior Scientist
+\[  ] Scientist
+\[  ] Roboticist
+\[  ] Research Assistant
+══════════════════════════════════════════
+
+[bold]Anomaly Location[/bold]
+    [color=#002AAF]"example space, Department"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Type[/bold]
+\[  ] Bluespace
+\[  ] Electrical
+\[  ] Shadow
+\[  ] Floral
+\[  ] Ice
+\[  ] Gravitational
+\[  ] Technological
+\[  ] Liquid
+\[  ] Pryoclastic
+\[  ] Flesh
+
+ [bold]Liable Co-worker[/bold]
+[color=#aaaaaa]This defines whos in charge of the anomaly [/color]
+    [color=#002AAF]"example name, role"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Danger[/bold]
+\[  ] Delta
+\[  ] Epsilon
+\[  ] Sigma
+\[  ] Zeta
+\[  ] Omega
+
+ [bold]Unstable[/bold]
+\[  ] Delta
+\[  ] Epsilon
+\[  ] Sigma
+\[  ] Zeta
+\[  ] Omega
+
+ [bold]Containment Type[/bold]
+\[  ] Delta
+\[  ] Epsilon
+\[  ] Sigma
+\[  ] Zeta
+\[  ] Omega
+
+ [bold]Transformation Type[/bold]
+\[  ] Delta
+\[  ] Epsilon
+\[  ] Sigma
+\[  ] Zeta
+\[  ] Omega
+
+ [bold]Behavour Deviation[/bold]
+    [color=#002AAF]"Long Text"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Point Production[/bold]
+    [color=#002AAF]"Example Number"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]If the anomaly is an infection please write the name of the afflicted here[/bold]
+    [color=#002AAF]"Example Name, Role"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
