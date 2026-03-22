@@ -1,0 +1,31 @@
+[color=#cb0000]░█▄▄█░ [head=2]Implant Input[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Form NT-357
+───────────────────────────────────────
+[color=red][bold]This document must be approved and stamped by the Head of Security or the Captain.[/bold][/color]
+══════════════════════════════════════════
+
+[bold]Name of Requesting Officer:[/bold]
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Role:[/bold]
+\[  ] Head of Security
+\[  ] Captain
+\[  ] Warden
+\[  ] Senior officer
+\[  ] Brigmedic
+\[  ] Sapper
+\[  ] Security officer
+\[  ] Cadet
+══════════════════════════════════════════
+
+[bold]Implantee:[/bold]   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Requested Input:[/bold]
+\[  ] Tracking Implanter
+\[  ] MindShield
+
+══════════════════════════════════════════
+[color=#aaaaaa]This document is not valid unless stamped by the listed required personnel. Unlawful Filing of this document will result in criminal charges of 02-II, 09-III, and 14-II. This form follows NT Space Law §5-1.1[/color]
