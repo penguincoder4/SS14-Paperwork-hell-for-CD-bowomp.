@@ -3,26 +3,3 @@
 ░░██░░ 
 [/color]   Form NT-450
 ──────────────────────────────────────────
-[color=red][bold]This document must be approved and stamped by the required personel for the punishment type requested.[/bold][/color]
-══════════════════════════════════════════
-
-[bold]Name of Requesting Personnel:[/bold]
-    [color=#002AAF]"example name"[/color]
-  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]Chemical / Reagent type:[/bold] (Enter Below)
-
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]Reasoning for keeping/using reagent:[/bold]
-\[  ] Exotic or "unorthodox" treatment
-\[  ] Emergency situation
-\[  ] Chemical experimentation
-\[  ] Boredom and/or extreme monotony
-\[  ] Cataloging / Archival
-\[  ] Entertainment
-\[  ] Other (Fill Below)
-
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-
-*CMO or Higher approval required.
-══════════════════════════════════════════
-[color=#aaaaaa]This document is not valid unless stamped by the listed required personnel. This form follows NT Space Law[/color]
