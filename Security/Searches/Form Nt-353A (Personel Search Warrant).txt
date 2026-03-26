@@ -3,7 +3,7 @@
 ▀█▄▄█▀ [/color]   Form NT-353A
 ───────────────────────────────────────
 [color=red][bold]This warrant must be approved and stamped by the Captain, the HoS, or Warden[/bold][/color]
-[color=#aaaaaa]The Captain, HoS, and Warden cannot approve their own warrants, and must folow chain of command to get their warrants approved.[/color]
+[color=#aaaaaa]The HoS and Warden cannot approve their own warrants, and must folow chain of command to get their warrants approved.[/color]
 
 [bold]Name of requesting officer:[/bold]
     [color=#002AAF]"example name"[/color]
