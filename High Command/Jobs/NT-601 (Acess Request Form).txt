@@ -46,7 +46,7 @@
 \[  ] Chemestry
 [bold]► Engineering[/bold]
 \[  ] Engineering
-\[  ] ATMOS*
+\[  ] Atmosherics*
 [bold]► Other[/bold]
 \[  ] Cryogenics
 \[  ] External
