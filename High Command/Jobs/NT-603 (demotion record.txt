@@ -1,22 +1,54 @@
-[color=#1b67a5]░░██░░ [head=2]Demotion Record[/head]
+[color=#1b67a5]░░██░░ [head=2]Punishment Record[/head]
 ▀████▀ 
 ▄█▀▀█▄[/color]    [color=#999999]NT-603[/color]
 ──────────────────────────────────────────
-[color=#4287f5][head=3]▼ Employee Information ▼[/head][/color]
-Name:
-Role:
-Department:
 
-[color=#4287f5][head=3]▼ Head of Staff Information ▼[/head][/color]
-Name:
-Role:
-Statement of Events:
+[bold]Name of filing staff:[/bold]
+    [color=#002AAF]"example name, Role"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Role of Filing staff[/bold]
+\[  ] Captain
+\[  ] Head of Personel
+\[  ] Head of Staff of afflicted Employee
 
 
-[color=#4287f5][head=3]▼  ▼[/head][/color]
+══════════════════════════════════════════
+
+[bold]Name and role of Employee:[/bold]
+    [color=#002AAF]"example name, Role"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Department[/bold]
+\[  ] Command
+\[  ] Security
+\[  ] Science
+\[  ] Medical
+\[  ] Cargo
+\[  ] Engineering
+\[  ] Service
+
+[bold]Name and role of Head of Staff:[/bold]
+    [color=#002AAF]"example name, Role"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Events in regards to the punishment:[/bold]
+    [color=#002AAF]"example Paragraph"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+
 Due to the findings above, the following actions were taken:
-( ) Employee was issued warning about offending behavior.
-( ) Employee's paycheck was docked ____ spesos. 
-( ) Employee shall be demoted from the postition/deparment of ______ for a period of _____ shifts.
-( ) Requested records update to reflect these actions.
-( ) Suggested contract review.
+\[  ]  Employee was issued warning about offending behavior.
+\[  ]  Employee's paycheck was docked ____ spesos. 
+\[  ]  Employee is removed from duty for remander of shift
+\[  ]  Employee is demoted for the next ___ work days.
+\[  ]  Requested records update to reflect these actions.
+\[  ]  Suggested contract review.
+
+
+ [bold]Other Punishment Information[/bold]
+    [color=#002AAF]"Example instructions"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+[color=#aaaaaa]For a full Demotion this document must be stamped by the Head of Staff of the employee and the Captain[/color]
