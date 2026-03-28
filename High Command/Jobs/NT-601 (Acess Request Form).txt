@@ -2,16 +2,68 @@
 ▀████▀ 
 ▄█▀▀█▄[/color]    [color=#999999]NT-601[/color]
 ──────────────────────────────────────────
-[color=#4287f5][head=3]▼ Employee information ▼[/head][/color]
- 
-[bold]Full name:[/bold]
-[bold]Current occupation:[/bold]
-[bold]Requested occupation:[/bold]
-[bold]Requested Additional Accesses:[/bold]
 
+[color=#aaaaaa]Please leave this section blank if your not granting or denying the request [/color]
+
+[bold]Name of filing staff:[/bold]
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Role of Filing staff[/bold]
+\[  ] Captain
+\[  ] Head of Personel
+
+
+═════════════════════════════════════════
+ 
+[bold]Full Name of Employee:[/bold]
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Current occupation:[/bold]
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3][bold]Requested Additional Accesses:[/bold][/head]
+
+[bold]► Service[/bold]
+\[  ] Bar
+\[  ] Chapel
+\[  ] Hydroponics
+\[  ] Kitchen
+\[  ] Service (GEN)
+\[  ] Theatre
+\[  ] Janitoral
+[bold]► Security[/bold]
+\[  ] Armory* 
+\[  ] Detective
+[bold]► Science[/bold]
+\[  ] Research
+[bold]► Cargo[/bold]
+\[  ] Cargo
+\[  ] Salvage
+[bold]► Medical[/bold]
+\[  ] Medical
+\[  ] Chemestry
+[bold]► Engineering[/bold]
+\[  ] Engineering
+\[  ] ATMOS*
+[bold]► Other[/bold]
+\[  ] Cryogenics
+\[  ] External
+
+[color=#aaaaaa]*Document NT-603 MUST be provided with this one.[/color]
+═════════════════════════════════════════
+[head=3]LEAVE BELOW BLANK IF NOT FILING STAFF[/head]
+═════════════════════════════════════════
 [color=#4287f5][head=3]▼ Departmental Response ▼[/head][/color]
 
-[bold]Department Head Name:[/bold]
-[bold]Department Head Comments:[/bold]
+[bold]Name of Relivant Department head:[/bold]
+    [color=#002AAF]"example name, Role"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Comments regarding the application:[/bold]
+    [color=#002AAF]"example comments"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
-[color=#999999]This document CANNOT act as a form to add someone to a member of departmental staff. EX- someone from science requests Engineering accesses, they must first fill out NT-602 to be granted the accesses.[/color]
+═════════════════════════════════════════
+
+[color=#aaaaaa]This document not act as a job application form. and is intended to only be used to extend acesses.[/color]
