@@ -1,9 +1,17 @@
 [color=#1b67a5]█▄ █ ▀█▀    [head=2]Security information[/head]
 █ ▀█     █        [head=3]From the desk of Eats-The-Inmate[/head]
 ───────────────────────────────────────
-Congratulations on being positioned on a Cocoon Model Station built by design Division of Penguin.Corp
+Congratulations on being positioned on a Cocoon Model Station built by the design division of Penguin.Corp
 
 This document will detail everything that is needed to know about your security department.
+
+Station Wide Positions
+────────────────
+   1. There is the main security area- listed extensively in this document.
+   2. An evacuation checkpoint, stocked with a dock for smaller craft, a suit storage, mass scanner and records computers.
+   3. A checkpoint for the Xenobiology south of the brig- this checkpoint is outfitted with a krammer shotgun, and two biohazard suits, along with a crew monitering computer and a criminal records computer, a disposal bin has been installed alongside these tools.
+   4. A dock below evacuation with a built-in checkpoint. with a Security Records computer, Mass scanner, and Medical Records computer
+   5. Additional South-West airlock, stocked a suit storage.
 
 Head of Security Office
 ────────────────
@@ -40,7 +48,9 @@ First layer consists of renforced walls and plasma windows, second layer consist
  ││└Security techfab
  │├Out of station equipment room
  ││├5 Security hardsuits
- ││├2 Security hardsuits
+ ││├2 Security jetpacks
  ││├Gas tank dispencer
-└└└1 double emergency oxygen tank
+ ││├1 extended capacity emergency nitrogen tank
+└└└1 extended capacity emergency oxygen tank
 ───────────────────────────────────────
+This notice will automatically be locally faxed to the warden, by the automated information systems onboard the station, at the start of every work shift.
