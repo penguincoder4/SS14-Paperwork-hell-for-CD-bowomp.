@@ -32,7 +32,7 @@
 \[  ] 13-III- Psychiatric
 \[  ] 14-II- Psychiatric
 
-[bold]Desinated Overwatch Officer:[/bold]
+[bold]Desinated Overwatch Officer(s):[/bold]
     [color=green]"example name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
