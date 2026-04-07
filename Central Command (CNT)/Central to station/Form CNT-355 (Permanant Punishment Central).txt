@@ -1,0 +1,40 @@
+[color=green]░█▄▄█░ [head=2]Permanant Punishment Form[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Form CNT-355
+───────────────────────────────────────
+[color=red][bold]This document must be stamped[/bold][/color]
+══════════════════════════════════════════
+
+[bold]Name of ordering Offical:[/bold]
+    [color=green]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Role:[/bold]
+\[  ] Departmental Director
+\[  ] Investigator
+\[  ] Inspector
+\[  ] Emergency Response Team Leader (fill in team name below)
+    [color=green]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+
+[bold]Accused:[/bold]   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Justification for Confiment:[/bold]
+\[  ] 03-II - Psychiatric
+\[  ] 03-III - Psychiatric
+\[  ] 03-IV - Permanant, Psychiatric
+\[  ] 03-V- Permanant, Psychiatric, Execution
+\[  ] 07-V- Permanant
+\[  ] 12-III- Permanant, Deportation
+\[  ] 13-III- Psychiatric
+\[  ] 14-II- Psychiatric
+
+[bold]Desinated Overwatch Officer:[/bold]
+    [color=green]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+All affiars regarding the inmates recovery are to be forwarded to the Desinated Overwatch Officer.
+══════════════════════════════════════════
+[color=#aaaaaa]Unlawful Filing of this document will result in criminal charges of 09-III and 14-II. This form follows NT Space Law §6-2.5[/color]
