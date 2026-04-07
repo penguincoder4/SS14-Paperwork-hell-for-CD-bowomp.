@@ -13,7 +13,8 @@
 \[  ] Departmental Director
 \[  ] Investigator
 \[  ] Inspector
-\[  ] Emergency Response Team Leader (fill in team name below)
+\[  ] Emergency Response Team Leader 
+(fill in team name below)
     [color=green]"example name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
