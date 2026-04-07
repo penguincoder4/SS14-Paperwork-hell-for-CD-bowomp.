@@ -17,8 +17,7 @@
 \[  ] Cadet
 ══════════════════════════════════════════
 
-[bold]Name of Suspect:
-[/bold]
+[bold]Name of Suspect:[/bold]
     [color=#002AAF]"example name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
  [bold]Department/Role of suspect[/bold]
@@ -32,8 +31,7 @@
 \[  ] Visitor
 \[  ] Passenger
 
-[bold]Crimes Charged:
-[/bold]
+[bold]Crimes Charged:[/bold]   [OOC NOTE, REMOVE UNUSED CRIMES.]
 \[  ] 01-I
 \[  ] 01-II
 
