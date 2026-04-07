@@ -31,7 +31,7 @@
 \[  ] 07-V- Permanant
 \[  ] 12-III- Permanant, Deportation
 \[  ] 13-III- Psychiatric
-\[  ] 14-II- Psychiatric
+\[  ] 14-III- Psychiatric
 
 [bold]Psychiatric punishment:[/bold]
 Approval from Chief Medical Officer, and security wavies their ability to end the sentence, handing that authority off to the Chief Medical Officer and their superiors.
