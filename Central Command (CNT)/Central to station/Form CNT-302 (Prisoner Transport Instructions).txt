@@ -1,0 +1,40 @@
+[color=green]░█▄▄█░ [head=2]Prisoner Transport Instructions[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Form CNT-302
+───────────────────────────────────────
+[color=red][bold]This document details instructions for prisoner Transport[/bold][/color]
+══════════════════════════════════════════
+[bold]Name & Rank of Filing Staff:[/bold]
+    [color=#002AAF] Name, Rank [/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+══════════════════════════════════════════
+
+[head=3]Prisoner Information:[/head]
+
+[bold]Name of Patient:[/bold]
+    [color=#002AAF]"Name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Age of Patient:[/bold]
+    [color=#002AAF]"year"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Gender of Patient:[/bold]
+    [color=#002AAF]"Big Banana"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Species:[/bold]
+    [color=#002AAF]"Subspecies 342 of banana"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Behavour:[/bold]
+\[  ] Suicidal
+\[  ] Violent
+\[  ] Escape artist
+\[  ] Passive
+\[  ] Scared
+\[  ] [color=red]IN DANGER[/color]
+\[  ] Insane
+
+══════════════════════════════════════════
+
+
+[head=3][bold]Instructions:[/bold][/head]
+    [color=#002AAF]"Dont let them kill themselves or others."[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
