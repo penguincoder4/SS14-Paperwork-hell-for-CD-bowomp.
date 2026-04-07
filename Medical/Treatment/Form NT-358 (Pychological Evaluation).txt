@@ -2,13 +2,13 @@
 ██████ 
 ░░██░░ [/color]   Form NT-358
 ──────────────────────────────────────────
-
 [color=red][bold]This document is for raising concerns or to report information regarding a Paitent[/bold][/color]
 ══════════════════════════════════════════
 [bold]Name of Evaluator:[/bold]
     [color=#002AAF]"example name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ══════════════════════════════════════════
+
 [head=3]Paitent Information:[/head]
 
 [bold]Name of Patient:[/bold]
@@ -24,6 +24,7 @@
     [color=#002AAF]"Bannana man, subspecies 12"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ══════════════════════════════════════════
+
 [head=3]Evaluation Information:[/head]
 [bold]Reason of Evaluation:[/bold]
 \[  ] Suicidal Tendancies
