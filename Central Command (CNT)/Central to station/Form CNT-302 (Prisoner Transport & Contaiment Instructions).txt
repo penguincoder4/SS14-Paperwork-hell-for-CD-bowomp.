@@ -1,8 +1,8 @@
-[color=green]░█▄▄█░ [head=2]Prisoner Transport Instructions[/head]
+[color=green]░█▄▄█░ [head=2]Prisoner T & C Instructions[/head]
 ██▄▄██ 
 ▀█▄▄█▀ [/color]   Form CNT-302
 ───────────────────────────────────────
-[color=red][bold]This document details instructions for prisoner Transport[/bold][/color]
+[color=red][bold]This document details instructions for prisoner Transport and Containment[/bold][/color]
 ══════════════════════════════════════════
 [bold]Name & Rank of Filing Staff:[/bold]
     [color=#002AAF] Name, Rank [/color]
