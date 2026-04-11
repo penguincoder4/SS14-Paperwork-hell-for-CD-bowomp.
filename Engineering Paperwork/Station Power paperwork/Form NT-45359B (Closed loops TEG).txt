@@ -87,7 +87,7 @@ Radiators in cold loop?:  [color=#002AAF]Sample number[/color]
 
 Radiators in hot loop?:  [color=#002AAF]Sample number[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[head=3]Gas in Cold loop[/head]
+[head=3]Gas in Hot loop[/head]
 \[  ] 100% P
 \[  ] 99% P 1% FR
 \[  ] 98% P 2% FR
