@@ -11,6 +11,7 @@
 \[  ] Captain
 \[  ] Head of Personel
 \[  ] Head of Staff of afflicted Employee
+\[  ] Other Command
 
 
 ══════════════════════════════════════════
@@ -51,4 +52,4 @@ Due to the findings above, the following actions were taken:
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 ══════════════════════════════════════════
-[color=#aaaaaa]For a full Demotion this document must be stamped by the Head of Staff of the employee and the Captain[/color]
+[color=#aaaaaa]For a full Demotion this document must be stamped by the Head of Staff of the employee and the Captain, Unless this document is being filed against the captain, wherein it will require 50% of the station's department head's stamps[/color]
