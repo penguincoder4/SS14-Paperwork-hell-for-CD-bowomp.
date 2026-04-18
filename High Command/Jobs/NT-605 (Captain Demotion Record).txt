@@ -1,0 +1,49 @@
+[color=#1b67a5]░░██░░ [head=2]Captain Demotion Record[/head]
+▀████▀ 
+▄█▀▀█▄[/color]    [color=#999999]NT-605[/color]
+──────────────────────────────────────────
+
+[bold]Name of filing staff:[/bold]
+    [color=#002AAF]"example name, Role"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+On site Heads of Staff:
+\[  ]  Head Of Personel
+\[  ]  Quatermaster
+\[  ]  Research Director
+\[  ]  Head of Security
+\[  ]  Chief Medical Officer
+\[  ]  Chief Engineer
+
+══════════════════════════════════════════
+
+[bold]Name and role of Employee:[/bold]
+    [color=#002AAF]"example name, Role"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Prior to demotion Warnings:
+\[  ]  Employee was issued warning about offending behavior.
+\[  ]  Employee was informed of the impending demotion.
+
+[bold]Events in regards to the punishment:[/bold]
+    [color=#002AAF]"example Paragraph"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+
+Due to the findings above, the following actions were taken:
+
+\[  ]  Employee's paycheck was docked ____ spesos. 
+\[  ]  Employee is removed from duty for remander of shift
+\[  ]  Suggested demotion for the next ___ work days.
+\[  ]  Requested records update to reflect these actions.
+\[  ]  Suggested contract review.
+
+
+ [bold]Other Punishment Information[/bold]
+    [color=#002AAF]"Example instructions"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+[color=#aaaaaa]For this document to be valid it must have the stamps of 51% of the station's heads of staff. and both of the Prior to demotion Warnings must be true.[/color]
