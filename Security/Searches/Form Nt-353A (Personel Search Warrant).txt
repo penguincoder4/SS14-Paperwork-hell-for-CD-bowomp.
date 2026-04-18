@@ -19,15 +19,13 @@
 \[  ] Cadet
 ══════════════════════════════════════════
 
-[bold]Name of Suspect:
-[/bold]
+[bold]Name of Suspect:[/bold]
     [color=#002AAF]"Example Name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
  [bold]Department/Role of suspect[/bold]
     [color=#002AAF]"Example Job"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]Warrant Reason:
-[/bold]
+[bold]Warrant Reason:[/bold]
     [color=#002AAF]"Sample Reason"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Warrant Validity Length:
