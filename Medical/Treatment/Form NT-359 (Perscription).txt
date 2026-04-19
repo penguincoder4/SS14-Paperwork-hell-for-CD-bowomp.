@@ -3,3 +3,97 @@
 ░░██░░ [/color]   Form NT-359
 ──────────────────────────────────────────
 
+[bold]Name of prescripting doctor:[/bold]
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+
+[head=3]Paitent Information:[/head]
+
+[bold]Name of Patient:[/bold]
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Age of Patient:[/bold]
+    [color=#002AAF]"number"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Gender of Patient:[/bold]
+    [color=#002AAF]"Bannana"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Species:[/bold]
+    [color=#002AAF]"Bannana man, subspecies 12"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+══════════════════════════════════════════
+
+[head=3]Perscription details:[/head]
+
+[bold]Reason of Perscription:[/bold]
+    [color=#002AAF]"Paragraph here"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Dosage:[/bold]
+    [color=#002AAF]"Number here"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Chemicals Perscribed:[/bold]
+
+\[  ] Anti-dipressants
+    \[  ] Blissifylovene (EXTREMELY HIGH GRADE)
+    \[  ] Serenitol (low grade)
+    \[  ] Happiness (Final Resort)
+    \[  ] Psicodine (low)
+
+\[  ] Pain killers
+    \[  ] Agonolexyne (Surigical grade)
+    \[  ] Soretizone (High Grade)
+    \[  ] Stubantazine (Middle Grade)
+
+\[  ] Anxiety Medication
+    \[  ] Calmafluxine (Middle grade)
+    \[  ] Equilibrazine (high grade)
+    \[  ] Neuorzenium (Middle grade)
+    \[  ] Psicodine (low grade)
+    \[  ] Tranquinase (Middle grade)
+
+\[  ] Anti-Pychotics
+    \[  ] Saprodipine (Middle Grade)
+
+\[  ] Clown Medication
+    \[  ] Happiness
+    \[  ] Laughter
+
+\[  ] Seditives
+    \[  ] Chloral Hydrate
+    \[  ] Norepinephric Acid
+    \[  ] Pax
+
+\[  ] Hallucinogens
+    \[  ] THC
+
+\[  ] Vision
+    \[  ] Oculine
+
+\[  ] Memory loss
+    \[  ] Cortexene
+
+\[  ] Sleep
+    \[  ] Diphenhydramine
+    \[  ] Chloral Hydrate
+
+\[  ] Narcolepsy
+    \[  ] Diphenylmethylamine
+    \[  ] Ethyloxyephedrine
+
+\[  ] Alcoholism
+    \[  ] Ethylredoxrazine
+
+\[  ] Narcodic abuse
+    \[  ] Haloperidol
+
+\[  ] Injestion
+    \[  ] Ipecac
+
+\[  ] Anticoagulant
+    \[  ] Wararin
+
+══════════════════════════════════════════
+[color=#aaaaaa]this form follows Nanotressen Law, and standard operational proccedure, under Medical operational / perscription clause of the controlled substances section. abuse of permitted chemicals including distribution and misuse. Will lead to this perscription being revoked at the leasure of a Chief Medical Officer.[/color]
