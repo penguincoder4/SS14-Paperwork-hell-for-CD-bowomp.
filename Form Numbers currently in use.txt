@@ -31,7 +31,8 @@ NT-400 (Artifact Safety Report)
 NT-401 (Anomaly Report)
 
 
-NT-450 (MEdical start)
+NT-450 (Perscription)
+NT-451 (Pychological Evaulation)
 
 NT-534 (Contraband Permits)
 
