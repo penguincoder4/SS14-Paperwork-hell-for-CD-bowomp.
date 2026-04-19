@@ -2,11 +2,13 @@
 ██████ 
 ░░██░░ [/color]   Form NT-359
 ──────────────────────────────────────────
+[color=#aaaaaa]If this perscription is for chemicals outlined in Standard operational proccedure to be restricted Form NT-534D is to be supplied alongside this document.[/color] 
+
+══════════════════════════════════════════
 
 [bold]Name of prescripting doctor:[/bold]
     [color=#002AAF]"example name"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-
 ══════════════════════════════════════════
 
 [head=3]Paitent Information:[/head]
@@ -23,6 +25,7 @@
 [bold]Species:[/bold]
     [color=#002AAF]"Bannana man, subspecies 12"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
 ══════════════════════════════════════════
 
 [head=3]Perscription details:[/head]
@@ -96,4 +99,4 @@
     \[  ] Wararin
 
 ══════════════════════════════════════════
-[color=#aaaaaa]this form follows Nanotressen Law, and standard operational proccedure, under Medical operational / perscription clause of the controlled substances section. abuse of permitted chemicals including distribution and misuse. Will lead to this perscription being revoked at the leasure of a Chief Medical Officer.[/color]
+[color=#aaaaaa]this form follows Nanotressen Law, and standard operational proccedure, under Medical operational / perscription clause of the controlled substances section. abuse of permitted chemicals including distribution and misuse. Will lead to this perscription being revoked at the leasure of a Chief Medical Officer. This document follows Nanotressen Law §16-3.4M[/color]
