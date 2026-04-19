@@ -1,6 +1,6 @@
-[color=#cb0000]░█▄▄█░ [head=2]Wearable Permit[/head]
-██▄▄██ 
-▀█▄▄█▀ [/color]   Form NT-534C
+[color=#cb0000]░█▄▄█░[/color] [color=#1b67a5]░░██░░[/color][color=#cb0000][head=2]Wearable Permit[/head][/color]
+[color=#cb0000]██▄▄██[/color] [color=#1b67a5]▀████▀[/color]
+[color=#cb0000]▀█▄▄█▀[/color] [color=#1b67a5]▄█▀▀█▄ [/color]   Form NT-534C
 ───────────────────────────────────────
 [color=red][bold]This Document must be stamped by the relevant department head[/bold][/color]
 
