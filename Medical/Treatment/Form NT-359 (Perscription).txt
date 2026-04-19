@@ -2,7 +2,8 @@
 ██████ 
 ░░██░░ [/color]   Form NT-359
 ──────────────────────────────────────────
-[color=#aaaaaa]If this perscription is for chemicals outlined in Standard operational proccedure to be restricted (without a defualt medical exemption) Form NT-534D is to be supplied alongside this document.[/color] 
+[color=#aaaaaa]If this perscription is for chemicals outlined in Standard operational proccedure to be restricted Form NT-534D is to be supplied alongside this document.[/color] 
+
 ══════════════════════════════════════════
 
 [bold]Name of prescripting doctor:[/bold]
