@@ -1,10 +1,11 @@
-[color=Green]█▄ █ ▀█▀    [head=3]Station Assistance Request[/head]
-█ ▀█     █ [/color]   [color=#999999]CNT-240[/color]
+[color=#1b67a5]░░██░░[/color]            [head=2]Station Assistance Request[/head]
+[color=#1b67a5]▀████▀[/color] [color=Green]█▄ █ ▀█▀[/color]
+[color=#1b67a5]▄█▀▀█▄[/color] [color=Green]█ ▀█     █ [/color]   [color=#999999]CNT-240[/color]
 ──────────────────────────────────────────
-Name of Requestee & Role:
+[bold]Name of Requestee & Role:[/bold]
     [color=#002AAF]name here, Role here[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-Name of station with station ID:
+[bold]Name of station with station ID:[/bold]
     [color=#002AAF]station name Station ID[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [head=2]1. [/head][head=3]Incident Details[/head]
