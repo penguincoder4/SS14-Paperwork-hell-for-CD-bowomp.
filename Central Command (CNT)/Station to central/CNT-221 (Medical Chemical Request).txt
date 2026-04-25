@@ -1,5 +1,6 @@
-[color=Green]█▄ █ ▀█▀    [head=3]Station Chemical Request[/head]
-█ ▀█     █ [/color]   [color=#999999]CNT-221[/color]
+[color=#5b97bc]░░██░░ [/color]                    [head=2]Station Chemical Request[/head]
+[color=#5b97bc]██████ [/color] [color=green]█▄ █ ▀█▀[/color]
+[color=#5b97bc]░░██░░ [/color] [color=green]█ ▀█     █ [/color]   [color=#999999]CNT-221[/color]
 ──────────────────────────────────────────
 [color=red][bold]This Document Is for medical Personel only.[/color][/bold]
 ══════════════════════════════════════════
