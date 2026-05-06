@@ -1,6 +1,6 @@
-[color=green]░█▄▄█░ [head=2]Permanant Punishment Form[/head]
-██▄▄██ 
-▀█▄▄█▀ [/color]   Form CNT-301
+[color=#cb0000]░█▄▄█░ [/color]  [head=2]Permanant Punishment Form[/head]
+[color=#cb0000]██▄▄██ [/color][color=Green]█▄ █ ▀█▀[/color]
+[color=#cb0000]▀█▄▄█▀ [/color][color=Green]█ ▀█     █ [/color]   Form CNT-301   
 ───────────────────────────────────────
 [color=red][bold]This document must be stamped[/bold][/color]
 ══════════════════════════════════════════
