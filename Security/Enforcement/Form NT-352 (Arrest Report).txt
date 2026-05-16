@@ -115,8 +115,8 @@
 \[  ] Omega
 \[  ] Delta
 
-\[  ] Violet*
-\[  ] Yellow*
+\[  ] Violet**
+\[  ] Yellow**
 */Searches when arrested do not count; leave section blank.
 **/Provide Form Nt-355 with this document
 
