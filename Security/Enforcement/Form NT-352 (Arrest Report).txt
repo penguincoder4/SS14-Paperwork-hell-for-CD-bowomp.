@@ -106,10 +106,10 @@
 \[  ] Violet
 \[  ] Yellow
 
-[bold]Searched on alert level:[/bold]
-\[  ] Green*
+[bold]Searched on alert level:[/bold]*
+\[  ] Green**
 \[  ] Blue
-   \[  ] Bronze*
+   \[  ] Bronze**
    \[  ] Amber
 \[  ] Red
 \[  ] Omega
@@ -117,8 +117,8 @@
 
 \[  ] Violet*
 \[  ] Yellow*
-
-*/Provide Form Nt-355 with this document
+*/Searches when arrested do not count; leave section blank.
+**/Provide Form Nt-355 with this document
 
 [bold]Resistance Level:[/bold]
 \[  ] NV-Minor-        Walking
