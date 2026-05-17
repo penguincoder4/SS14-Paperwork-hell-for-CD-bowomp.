@@ -21,6 +21,10 @@
 \[  ] Artifact May suddenly Detonate.
 \[  ] Artifact May Induce Station Wide Destruction*
 \[  ] Artifact is Sentient.
+\[  ] Other List below:
+    [color=#002AAF]"example item"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
 
 [color=#aaaaaa]*Inform the Stations Commanding officer as well as send this document to them.[/color]
 
