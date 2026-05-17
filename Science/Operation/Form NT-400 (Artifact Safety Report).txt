@@ -36,6 +36,9 @@
 \[  ] Immedate Disposal at the ATS
 \[  ] Immedate Disposal into the crushing machine
 \[  ] Immedate Space based Disposal.
+\[  ] Other List below:
+    [color=#002AAF]"example item"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 
 [color=red]If station wide destruction is the concern, the Captain is authorized to enact a stationwide lockdown while the artifact is being transported, to ensure the safety of the crew. during this time, security is to transport the artifact safely, using any force nessary to its disposal location.[/color]
