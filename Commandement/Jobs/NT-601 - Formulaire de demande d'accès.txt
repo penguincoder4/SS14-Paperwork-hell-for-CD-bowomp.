@@ -1,0 +1,69 @@
+[color=#1b67a5]░░██░░ [head=2]Formulaire de demande d'accès[/head]
+▀████▀ 
+▄█▀▀█▄[/color]    [color=#999999]NT-601[/color]
+──────────────────────────────────────────
+
+[color=#aaaaaa]Veuillez laisser cette section vide si vous n'accordez ni ne refusez la demande.[/color]
+
+[bold]Nom du personnel déclarant :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Rôle du personnel déclarant[/bold]
+\[  ] Capitaine
+\[  ] Responsable du Personnel
+
+
+═════════════════════════════════════════
+ 
+[bold]Nom complet de l'employé :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Poste actuel :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3][bold]Accès supplémentaires demandés :[/bold][/head]
+
+[bold]► Service[/bold]
+\[  ] Bar
+\[  ] Chapelle
+\[  ] Hydroponique
+\[  ] Cuisine
+\[  ] Service (GÉN)
+\[  ] Théâtre
+\[  ] Entretien
+[bold]► Sécurité[/bold]
+\[  ] Armurerie* 
+\[  ] Détective
+[bold]► Science[/bold]
+\[  ] Recherche
+[bold]► Cargo[/bold]
+\[  ] Cargo
+\[  ] Récupération
+[bold]► Médical[/bold]
+\[  ] Médical
+\[  ] Pharmacie
+[bold]► Ingénierie[/bold]
+\[  ] Ingénierie
+\[  ] Atmosphérique*
+[bold]► Autre[/bold]
+\[  ] Cryogénie
+\[  ] Externe
+
+[color=#aaaaaa]*Le document NT-603 DOIT être fourni avec celui-ci.[/color]
+═════════════════════════════════════════
+[head=3]LAISSER CI-DESSOUS VIDE SI VOUS N'ÊTES PAS LE PERSONNEL DÉCLARANT[/head]
+═════════════════════════════════════════
+[color=#4287f5][head=3]▼ Réponse du département ▼[/head][/color]
+
+[bold]Nom du responsable de département concerné :[/bold]
+    [color=#002AAF]"Nom, Rôle"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Commentaires concernant la demande :[/bold]
+    [color=#002AAF]"exemple"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+═════════════════════════════════════════
+
+[color=#aaaaaa]Ce document ne constitue pas un formulaire de candidature d'emploi et est destiné uniquement à étendre les accès existants.[/color]

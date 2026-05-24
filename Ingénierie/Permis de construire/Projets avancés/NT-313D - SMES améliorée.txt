@@ -1,0 +1,22 @@
+[color=#f39f27]░░▄▀░░   [head=2]Demande de remplacement SMES avancé[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-313D[/color]
+[/color]──────────────────────────────────────────
+
+Nom du demandeur :
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Nom de l'ingénieur rédacteur :*
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Rôle :
+\[  ] Technicien atmosphérique
+\[  ] Ingénieur en chef
+\[  ] Ingénieur adjoint
+\[  ] Ingénieur
+\[  ] Assistant technique
+
+*/ laissez vide si vous n'êtes pas ingénieur.
+══════════════════════════════════════════
+
+[head=4]Raison de la mise à niveau ? (soyez EXTRÊMEMENT détaillé)[/head]

@@ -1,0 +1,31 @@
+[color=#f39f27]░░▄▀░░   [head=2]Demande de remplacement APC[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-313A[/color]
+[/color]──────────────────────────────────────────
+
+Nom du demandeur :
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Nom de l'ingénieur rédacteur :*
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Rôle :
+\[  ] Technicien atmosphérique
+\[  ] Ingénieur en chef
+\[  ] Ingénieur adjoint
+\[  ] Ingénieur
+\[  ] Assistant technique
+
+*/ laissez vide si vous n'êtes pas ingénieur.
+══════════════════════════════════════════
+
+[head=3]Raison de la Demande[/head]
+\[  ] L'APC a été détruit (1)
+\[  ] L'APC a été retiré   (2)
+\[  ] L'APC est/sera surchargé (3)
+
+[head=4](1) Qu'est-ce qui a causé la destruction de l'APC ?[/head]
+
+[head=4](2) Pourquoi l'APC a-t-il été retiré ?[/head]
+
+[head=4](3) Qu'est-ce qui a/aura causé la surcharge de l'APC ?[/head]

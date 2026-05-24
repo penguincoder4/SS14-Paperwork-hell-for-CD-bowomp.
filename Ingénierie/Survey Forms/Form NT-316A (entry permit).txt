@@ -1,0 +1,49 @@
+[color=#f39f27]░░▄▀░░   [head=2]Permis d'Entrée d'Inspection[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-316A[/color]
+[/color]──────────────────────────────────────────
+[color=red][bold]Ce permis doit être approuvé et tamponné par le Capitaine, l'Ingénieur en Chef*, ou le commandement central.
+*L'Ingénieur en Chef nécessite l'approbation du chef de département en plus de son approbation[/bold][/color]
+[head=4][color=#f39f27]Département affecté :[/color]Département[/head]
+
+Nom de l'ingénieur demandeur :
+    [color=#002AAF]exemple[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Rôle :
+\[  ] Membre de l'équipe d'inspection du commandement central
+\[  ] Technicien Atmosphérique
+\[  ] Ingénieur en Chef
+\[  ] Ingénieur Senior
+\[  ] Ingénieur
+\[  ] Assistant Technique
+
+ Raison de la demande
+\[  ] Aucune inspection effectuée précédemment
+\[  ] Inspection non effectuée dans le département pendant ou après les 5 quarts précédents
+\[  ] Inspection incomplète dans la zone
+\[  ] Accident récent entraînant des préoccupations*
+\[ ] L'équipe d'inspection NT n'a pas effectué l'inspection**
+//*fournir le rapport d'incident avec ce document
+//**si oui, citez la raison rapportée ci-dessous
+    [color=#002AAF]"exemple"[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Le demandeur est-il formé pour cette tâche ?
+\[  ] Formé par les programmes du commandement central
+\[  ] Formé sur place
+\[  ] Apprenti, un superviseur formé supervise l'inspection*
+\[  ] Non.**
+//*Le formulaire NT-312B doit être fourni avec ce formulaire
+//**Le formulaire doit être refusé
+
+Heure d'approbation de la demande :
+    [color=#002AAF]XX:XX:XX[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Durée allouée :
+\[ X ] 30 minutes
+\[  ] 60 minutes
+\[  ] Illimitée*
+//*seulement avec l'approbation du Capitaine ou du Commandement Central
+
+[color=#aaaaaa]Ce document n'est pas valide à moins d'être tamponné par au moins un des personnel requis listés.
+Ce formulaire suit la Loi Spatiale NT §2-3.6
+Ceux qui abusent de la permission accordée peuvent être amendés jusqu'à 5 000 spesos conformément au Manuel NT §24-6.4e[/color]

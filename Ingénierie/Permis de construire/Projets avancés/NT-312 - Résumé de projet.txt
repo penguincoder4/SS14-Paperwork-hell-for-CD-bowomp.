@@ -1,0 +1,42 @@
+[color=#f39f27]░░▄▀░░   [head=2]Résumé de projet[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-312[/color]
+[/color]──────────────────────────────────────────
+[color=red][bold]CE DOCUMENT CERTIFIE QUE TOUS LES DOCUMENTS SUIVANTS LISTÉS ONT ÉTÉ LUS ET APPROUVÉS.
+LES TAMPONS SUR CHAQUE DOCUMENT AUTRE QUE 313G ET 313H SONT OPTIONNELS. [/bold][/color]
+
+Nom du demandeur :
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Nom de l'ingénieur rédacteur :*
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Rôle :
+\[  ] Technicien atmosphérique
+\[  ] Ingénieur en chef
+\[  ] Ingénieur adjoint
+\[  ] Ingénieur
+\[  ] Assistant technique
+
+*/ laissez vide si vous n'êtes pas ingénieur.
+══════════════════════════════════════════
+
+[head=3]Département affecté : "exemple"[/head]
+
+[head=2]1. [/head][head=3]Matériaux[/head]
+Le paiement d'acquisition des matériaux est la responsabilité de :
+\[  ] Le département demandeur
+\[  ] Géré au cas par cas.
+\[  ] Le personnel demandeur
+
+[head=2]2. [/head][head=3]Autres documents complétés ou requis[/head]
+\[  ] Formulaire NT-311B
+\[  ] Formulaire NT-313A
+\[  ] Formulaire NT-313B
+\[  ] Formulaire NT-313C
+\[  ] Formulaire NT-313D
+\[  ] Formulaire NT-313E
+\[  ] Formulaire NT-313F
+\[  ] Formulaire NT-313G
+\[  ] Formulaire NT-313H
+\[  ] Formulaire NT-315

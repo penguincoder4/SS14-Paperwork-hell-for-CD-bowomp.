@@ -1,0 +1,29 @@
+[color=#f39f27]░░▄▀░░   [head=2]Demande d'Hyper-Convection[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-318[/color]
+[/color]──────────────────────────────────────────
+
+Nom du demandeur :
+    [color=#002AAF]"nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=red][bold]Ce Document n'agit pas comme le Formulaire NT-311B.[/bold][/color]
+══════════════════════════════════════════
+[head=3]Département Demandeur : "exemple"[/head]
+[head=3]Zone Demandée pour les tours : "exemple"[/head]
+[bold]Si vous ne comprenez aucun de ces termes, veuillez informer le personnel d'ingénierie.[/bold]
+
+[head=4]Niveau d'assistance requis.[/head]
+\[  ] Je veux définir les spécifications
+\[  ] Je ne comprends pas et je veux de l'aide (parlez s'il vous plaît à l'ingénieur senior)
+\[  ] Choix des ingénieurs
+
+[head=3]Spécifications (facultatif)[/head]
+[head=4]veuillez sélectionner les aspects que vous voulez dans votre système[/head]
+\[  ] Système de congélateur (NTS-12/16)
+\[  ] Radiateurs dans l'espace  (NTS-13/15)
+\[  ] Réservoir de gaz (NTS-13/15/16)
+\[  ] Vanne de signal (NTS-15/16)
+
+Raison de la demande :  [color=#002AAF]Exemple[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=red][bold]D'AUTRES DOCUMENTS PEUVENT ÊTRE REQUIS EN PLUS DE CELUI-CI, SELON CE QUE LA SITUATION NÉCESSITE[/bold][/color]

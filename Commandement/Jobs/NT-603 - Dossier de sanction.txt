@@ -1,0 +1,53 @@
+[color=#1b67a5]░░██░░ [head=2]Dossier de sanction[/head]
+▀████▀ 
+▄█▀▀█▄[/color]    [color=#999999]NT-603[/color]
+──────────────────────────────────────────
+
+[bold]Nom du personnel déclarant :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Rôle du personnel déclarant[/bold]
+\[  ] Capitaine
+\[  ] Responsable du Personnel
+\[  ] Responsable du département de l'employé concerné
+
+══════════════════════════════════════════
+
+[bold]Nom et rôle de l'employé :[/bold]
+    [color=#002AAF]"Nom, Rôle"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Département[/bold]
+\[  ] Commandement
+\[  ] Sécurité
+\[  ] Science
+\[  ] Médical
+\[  ] Cargo
+\[  ] Ingénierie
+\[  ] Service
+
+[bold]Nom et rôle du responsable :[/bold]
+    [color=#002AAF]"Nom, Rôle"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Événements relatifs à la sanction :[/bold]
+    [color=#002AAF]"exemple"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+
+En raison des conclusions ci-dessus, les mesures suivantes ont été prises :
+\[  ]  L'employé a reçu un avertissement concernant le comportement fautif.
+\[  ]  Le salaire de l'employé a été réduit de ____ spesos.
+\[  ]  L'employé est relevé de ses fonctions pour le reste du quart de travail.
+\[  ]  L'employé est rétrogradé pour les ___ prochains jours de travail.
+\[  ]  Mise à jour du dossier demandée pour refléter ces mesures.
+\[  ]  Révision du contrat suggérée.
+
+
+ [bold]Autres informations sur la sanction[/bold]
+    [color=#002AAF]"exemple"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+[color=#aaaaaa]Pour une rétrogradation complète, ce document doit être tamponné par le Responsable du département de l'employé et le Capitaine.[/color]

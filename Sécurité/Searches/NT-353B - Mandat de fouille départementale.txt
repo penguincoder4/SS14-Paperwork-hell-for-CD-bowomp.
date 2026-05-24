@@ -1,0 +1,48 @@
+[color=#cb0000]░█▄▄█░ [head=2]Mandat de fouille départementale[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Formulaire NT-353B
+───────────────────────────────────────
+[color=red][bold]Ce mandat doit être approuvé et tamponné par le Capitaine, le Chef de la Sécurité, ou le Gardien.[/bold][/color]
+[color=#aaaaaa]Le Chef de la Sécurité et le Gardien ne peuvent pas approuver leurs propres mandats, et doivent suivre la chaîne de commandement pour les faire approuver.[/color]
+
+[bold]Nom de l'officier déclarant :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Rôle :
+[/bold]
+\[  ] Chef de la Sécurité
+\[  ] Gardien
+\[  ] Officier adjoint
+\[  ] Médecin du brig
+\[  ] Agent de sécurité
+\[  ] Cadet
+══════════════════════════════════════════
+
+ [bold]Département à fouiller[/bold]
+\[  ] Commandement
+\[  ] Sécurité
+\[  ] Science
+\[  ] Médical
+\[  ] Cargo
+\[  ] Ingénierie
+\[  ] Service
+
+[bold]Motif du mandat :
+[/bold]
+    [color=#002AAF]"Motif"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Durée de validité du mandat :
+[/bold]
+    [color=#002AAF] (HEURE EN HH:MM:SS) - (HEURE+00:30:00) [/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Numéro du mandat :
+[/bold]
+    [color=#002AAF]"Numéro"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Clauses supplémentaires[/bold]
+Si des objets illégaux sont trouvés en possession du département fouillé, ils seront confisqués et l'individu responsable pourra être détenu à la discrétion de l'officier. [bold]Les objets légaux doivent être restitués après la fouille.[/bold]
+══════════════════════════════════════════
+[color=#aaaaaa]Ce document n'est pas valide sans le tampon d'au moins un des personnels requis listés.
+Ce formulaire est régi par la loi spatiale NT.
+Ceux qui abusent des autorisations accordées peuvent être condamnés à une amende pouvant aller jusqu'à 5000 crédits, et faire face à des charges criminelles comformément à la loi spatiale en vigueur dans le secteur[/color]

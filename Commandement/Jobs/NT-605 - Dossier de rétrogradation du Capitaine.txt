@@ -1,0 +1,49 @@
+[color=#1b67a5]░░██░░ [head=2]Dossier de rétrogradation du Capitaine[/head]
+▀████▀ 
+▄█▀▀█▄[/color]    [color=#999999]NT-605[/color]
+──────────────────────────────────────────
+
+[bold]Nom du personnel déclarant :[/bold]
+    [color=#002AAF]"Nom, Rôle"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+Responsables présents sur site :
+\[  ]  Responsable du Personnel
+\[  ]  Quartier-maître
+\[  ]  Directeur de la Recherche
+\[  ]  Responsable de la Sécurité
+\[  ]  Médecin-chef
+\[  ]  Ingénieur en chef
+
+══════════════════════════════════════════
+
+[bold]Nom et rôle de l'employé :[/bold]
+    [color=#002AAF]"Nom, Rôle"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Avertissements préalables à la rétrogradation :
+\[  ]  L'employé a reçu un avertissement concernant le comportement fautif.
+\[  ]  L'employé a été informé de la rétrogradation imminente.
+
+[bold]Événements relatifs à la sanction :[/bold]
+    [color=#002AAF]"exemple"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+
+En raison des conclusions ci-dessus, les mesures suivantes ont été prises :
+
+\[  ]  Le salaire de l'employé a été réduit de ____ spesos.
+\[  ]  L'employé est relevé de ses fonctions pour le reste du quart de travail.
+\[  ]  Rétrogradation suggérée pour les ___ prochains jours de travail.
+\[  ]  Mise à jour du dossier demandée pour refléter ces mesures.
+\[  ]  Révision du contrat suggérée.
+
+
+ [bold]Autres informations sur la sanction[/bold]
+    [color=#002AAF]"exemple"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+[color=#aaaaaa]Pour que ce document soit valide, il doit porter les cachets de 51% des responsables de la station, et les deux avertissements préalables à la rétrogradation doivent avoir été effectués.[/color]

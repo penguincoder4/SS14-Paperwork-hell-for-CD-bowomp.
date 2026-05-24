@@ -1,0 +1,34 @@
+[color=#cb0000]░█▄▄█░[/color] [color=#1b67a5]░░██░░[/color][color=#1b67a5][head=2]Permis de tenue[/head][/color]
+[color=#cb0000]██▄▄██[/color] [color=#1b67a5]▀████▀[/color]
+[color=#cb0000]▀█▄▄█▀[/color] [color=#1b67a5]▄█▀▀█▄ [/color]   Formulaire NT-534C
+───────────────────────────────────────
+[color=red][bold]Ce document doit être tamponné par le responsable de département concerné.[/bold][/color]
+
+[bold]Responsable de département concerné :[/bold]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+\[  ] CdP (Service)
+\[  ] Méd-C (Médical)
+\[  ] CdS (Sécurité)
+\[  ] Capitaine (Commandement)
+\[  ] DR (Recherche)
+\[  ] QM (Cargo)
+\[  ] Commandement Central
+
+
+[bold]Nom du membre du personnel demandeur :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Rôle du membre du personnel demandeur :[/bold]
+    [color=#002AAF]"Rôle"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Bref résumé du motif de la demande :[/bold]
+    [color=#002AAF]"exemple"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Objets autorisés :[/bold]
+>[color=#002AAF]Exemple[/color]
+>[color=#002AAF]Exemple[/color]
+>[color=#002AAF]Exemple[/color]
+>[color=#002AAF]Exemple[/color]
+>[color=#002AAF]Exemple[/color]
+
+[color=#9E9E9E][italic]Toute personne trouvée en possession d'un permis, surprise à vendre ou céder des vêtements restreints, ou à faire mauvais usage de l'équipement se verra révoquer cette licence et sera inculpée en conséquence.[/color][/italic]

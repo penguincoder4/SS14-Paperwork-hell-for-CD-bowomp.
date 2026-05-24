@@ -1,0 +1,98 @@
+[color=#f39f27]░░▄▀░░   [head=2]Rapport d'Opération TEG[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-45359B[/color]
+[/color]──────────────────────────────────────────
+
+Nom de l'ingénieur rédigeant le document :
+    [color=#002AAF]"Exemple"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Rôle de l'ingénieur susmentionné :
+\[  ] Technicien Atmosphérique
+\[  ] Ingénieur en Chef
+\[  ] Ingénieur Senior
+\[  ] Ingénieur
+\[  ] Assistant Technique
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#ff0000][head=2] CE FORMULAIRE EST POUR LES BOUCLES FERMÉES DOUBLES UNIQUEMENT[/head][/color]
+Voir les formulaires -
+Nt-35359A pour les boucles ouvertes doubles
+Nt-35359C pour la boucle ouverte chaude et la boucle fermée froide.
+Nt-35359D pour la boucle fermée chaude et la boucle ouverte froide.
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Gaz entrant dans la chambre de combustion[/head]
+\[  ] 97% O2 3% P
+\[  ] 98% O2 2% P
+\[  ] 99% O2 1% P
+\[  ] 97% O2 3% T
+\[  ] 98% O2 2% T
+\[  ] 99% O2 1% T
+\[  ] Autre mélange :
+ [color=#002AAF]Exemple autre[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=2]Informations sur la chambre de combustion[/head]
+
+[head=3]Source d'allumage de la chambre de combustion[/head]
+\[  ] Allumeur existe dans la chambre
+\[  ] Vapeur chaude de la première ignition.
+[head=3]Données de la chambre de combustion[/head]
+\[  ] Fenêtres en plasma
+\[  ] tout autre type de fenêtres*
+\[  ] Vent passif (entrée)
+\[  ] Vent passif (sortie)
+\[  ] Injecteur d'air
+\[  ] Scrubber
+\[  ] Portes anti-explosion
+\[  ] Allumeur
+//*NE VIOLÉ PAS LA PROCÉDURE OPÉRATIONNELLE STANDARD.
+
+[head=3]Filtration du gaz[/head]
+\[  ] Oui, pour le tritium
+\[  ] Non.
+
+[head=3]Gaz retiré par seconde pour assurer une température stable[/head]
+\[  ] <5 L/s
+\[  ] 5 L/s
+\[  ] 10 L/s
+\[  ] 25 L/s
+\[  ] <50 L/s
+\[  ] >50 L/s
+
+[head=3]Configuration des déchets[/head]
+\[  ] Filtre sur la ligne de déchets
+\[  ] Gaz de déchets déversé dans la ligne principale de déchets pour filtration
+\[  ] Déchets déversés dans l'espace
+\[  ] Déchets déversés dans l'atmosphère
+\[  ] Pompe volumétrique sur la ligne de déchets.
+\[  ] N/a
+
+[head=2]Informations sur la boucle froide[/head]
+
+
+Radiateurs dans la boucle froide ? :  [color=#002AAF]Exemple de nombre[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=3]Gaz dans la boucle froide[/head]
+\[  ] 100% P
+\[  ] 99% P 1% FR
+\[  ] 98% P 2% FR
+\[  ] 97% P 3% FR
+\[  ] 100% H2O
+\[  ] Autre mélange :
+   [color=#002AAF]Exemple autre[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=2]Informations sur la boucle chaude[/head]
+
+
+Radiateurs dans la boucle chaude ? :  [color=#002AAF]Exemple de nombre[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=3]Gaz dans la boucle chaude[/head]
+\[  ] 100% P
+\[  ] 99% P 1% FR
+\[  ] 98% P 2% FR
+\[  ] 97% P 3% FR
+\[  ] 100% H2O
+\[  ] Autre mélange :
+   [color=#002AAF]Exemple autre[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾

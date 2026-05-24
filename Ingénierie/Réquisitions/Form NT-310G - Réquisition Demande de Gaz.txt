@@ -1,0 +1,43 @@
+[color=#f39f27]░░▄▀░░   [head=2]Réquisition de Gaz[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-310G[/color]
+[/color]──────────────────────────────────────────
+[color=red][bold]Ce Document doit être tamponné par l'Ingénieur en Chef ou signé par l'Ingénieur Senior, pour tout autre gaz que N2 et O2[/bold][/color]
+
+Nom du membre du personnel demandeur :
+    [color=#002AAF]Exemple de Personne[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Bref résumé du motif de la demande :[/bold]
+Exemple de Raison
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+		---Gaz Demandé(s)---
+\[  ] O2
+\[  ] N2
+\[  ] N2O
+\[  ] CO2
+\[  ] H2O
+\[  ] NH3
+\[  ] Plasma*
+\[  ] Tritium*
+\[  ] Frezon*
+\[  ] Pluoxium
+\[  ] BZ*
+\[  ] Healium
+\[  ] Nitrium*
+/*Approbation du Capitaine et du Chef de Département du personnel demandeur requise, sauf si le membre du personnel est en Recherche et Développement
+
+		---Informations---
+		--Contenant Demandé--
+\[  ] Bonbonne 1500L
+\[  ] Réservoir 2L
+
+		--Avancé (facultatif) --
+\[  ] Ratios de gaz
+   [color=#002AAF]22% O2 / 78% N2 [/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+\[  ] Température
+   [color=#002AAF] 273.15K / 21C [/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Signer ci-dessous[/bold]
+══════════════════════════════════════════

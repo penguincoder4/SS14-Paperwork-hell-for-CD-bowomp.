@@ -1,0 +1,69 @@
+[color=#cb0000]░█▄▄█░ [head=2]Permis d'arme[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Formulaire NT-534B
+───────────────────────────────────────
+[color=red][bold]Ce document doit être tamponné par le Chef de la Sécurité ou le Gardien.[/bold][/color]
+
+[bold]Nom du membre du personnel demandeur :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Veuillez vous référer au formulaire NT-534A si votre poste n'est pas listé ci-dessous.
+[color=#aaaaaa]Ce document est destiné uniquement au personnel ayant des motifs liés à leur emploi.[/color]
+───────────────────────────────────────
+[bold]Rôle du membre du personnel demandeur :[/bold]
+
+--Ingénierie--
+\[  ] Ingénieur adjoint
+\[  ] Technicien atmosphérique
+
+--Médical--
+\[  ] Paramédic
+\[  ] Chimiste
+
+--Cargo--
+\[  ] Spécialiste en récupération
+
+--Commandement--
+\[  ] Médecin-chef
+\[  ] Chef du Personnel
+\[  ] Ingénieur en chef
+\[  ] Directeur de la Recherche
+\[  ] Quartier-maître
+\[  ] BlueShield
+
+
+[bold]Bref résumé du motif de la demande :[/bold]
+"exemple"
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Besoins en armement :[/bold]
+"exemple"
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Date du dernier entraînement aux armes :[/bold]
+JJ/MM/AA
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[color=#9E9E9E][italic]Toute personne trouvée en possession d'un permis, surprise à vendre ou céder des armes, à utiliser une arme à feu pour commettre un crime ou à faire mauvais usage de l'équipement se verra révoquer cette licence et sera inculpée en conséquence.[/color][/italic]
+───────────────────────────────────────
+[color=red][bold]RÉSERVÉ À LA SÉCURITÉ, NE PAS REMPLIR.[/bold][/color]
+───────────────────────────────────────
+--Arme délivrée--
+\[  ] Neutraliseur
+\[  ] MK58
+\[  ] Fusil à cartouches de sécurité
+\[  ] Fusil de chasse à double canon
+\[  ] Pistolet laser Savalin
+\[  ] Flash
+\[  ] Couteau de combat
+\[  ] Drozd
+\[  ] Krammer
+\[  ] WT550
+\[  ] Lecter
+\[  ] N1984
+\[  ] Inspecteur
+\[  ] Carabine laser
+\[  ] Canon à rayons X
+\[  ] Canon laser
+\[  ] Autre :
+"autre exemple"
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾

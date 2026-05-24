@@ -1,0 +1,34 @@
+[color=#f39f27]░░▄▀░░   [head=2]Permis de construire[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-311B[/color]
+[/color]──────────────────────────────────────────
+
+Nom du demandeur :
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Nom de l'ingénieur rédacteur :*
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Rôle :
+\[  ] Technicien atmosphérique
+\[  ] Ingénieur en chef
+\[  ] Ingénieur adjoint
+\[  ] Ingénieur
+\[  ] Assistant technique
+
+*/ laissez vide si vous n'êtes pas ingénieur.
+══════════════════════════════════════════
+
+[head=3]Département affecté : "exemple"[/head]
+
+[head=3][head=2]2. [/head]Description du travail[/head]
+\[  ] Expansion
+Détails :  [color=#002AAF]exemple[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+\[  ] Mises à niveau
+Détails :  [color=#002AAF]exemple[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Informations/Demandes supplémentaires :
+[color=#002AAF]exemple[/color]
+
+══════════════════════════════════════════

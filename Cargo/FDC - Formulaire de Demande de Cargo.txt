@@ -1,0 +1,19 @@
+[color=#b18644]░░░░░░ [head=2]Form de Demande de Cargo[/head]
+░█▀▀█░ 
+░████░        Merci d'avoir choisi Cargo[/color]
+──────────────────────────────────────────
+Ce formulaire est destiné à passer des commandes pour les articles ou ressources dont vous avez besoin. Veuillez être précis.
+Pour plusieurs commandes différentes, veuillez remplir plusieurs formulaires.
+Votre Nom :   [color=#002AAF]  [/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Votre Commande :   [color=#002AAF]  [/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Raison :
+    [color=#002AAF]  [/color]
+\[  ]Demander une livraison
+Destination (si applicable) :  [color=#002AAF]  [/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#aaaaaa]La livraison n'est pas garantie car le personnel de Cargo n'est pas tenu de vous livrer votre marchandise. Si le service de livraison est refusé, il vous sera demandé de récupérer vos articles par radio.
+Les FDC (Formulaires de Demande de Cargo) sont traités dans l'ordre de réception.
+Le Quartier-Maître se réserve le droit de modifier les politiques de Demande de Cargo à tout moment.
+Si vous n'êtes pas satisfait de votre service Cargo, veuillez contacter le 0 800-C0N-N4RD

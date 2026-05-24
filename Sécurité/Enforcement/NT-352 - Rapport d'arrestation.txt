@@ -1,0 +1,126 @@
+[color=#cb0000]░█▄▄█░ [head=2]Rapport d'arrestation[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Formulaire NT-352
+───────────────────────────────────────
+
+[bold]Nom de l'officier rapporteur :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Rôle :
+[/bold]
+\[  ] Chef de la Sécurité
+\[  ] Gardien
+\[  ] Officier adjoint
+\[  ] Médecin du brig
+\[  ] Agent de sécurité
+\[  ] Cadet
+══════════════════════════════════════════
+
+[bold]Nom du suspect :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Département / Rôle du suspect[/bold]
+\[  ] Commandement
+\[  ] Sécurité
+\[  ] Science
+\[  ] Médical
+\[  ] Cargo
+\[  ] Ingénierie
+\[  ] Service
+\[  ] Visiteur
+\[  ] Assistant
+
+[bold]Charges retenues :[/bold]   [NOTE OOC : SUPPRIMEZ LES CHARGES INUTILISÉES.]
+\[  ] 01-I
+\[  ] 01-II
+
+\[  ] 02-I
+\[  ] 02-II
+\[  ] 02-III
+
+\[  ] 03-I
+\[  ] 03-II
+\[  ] 03-III
+\[  ] 03-IV
+\[  ] 03-V
+
+\[  ] 04-I
+
+\[  ] 05-I
+\[  ] 05-II
+\[  ] 05-III
+
+\[  ] 06-I
+
+\[  ] 07-I
+\[  ] 07-II
+\[  ] 07-III
+\[  ] 07-IV
+\[  ] 07-V
+
+\[  ] 08-I
+\[  ] 08-II
+\[  ] 08-III
+
+\[  ] 09-I
+\[  ] 09-II
+\[  ] 09-III
+
+\[  ] 10-I
+\[  ] 10-II
+\[  ] 10-III
+
+\[  ] 11-I
+\[  ] 11-II
+\[  ] 11-III
+
+\[  ] 12-I
+\[  ] 12-II
+\[  ] 12-III
+
+\[  ] 13-I
+\[  ] 13-II
+
+\[  ] 14-I
+\[  ] 14-II
+\[  ] 14-III
+
+\[  ] 15-I
+\[  ] 15-II
+
+\[  ] 16-I
+\[  ] 16-II
+\[  ] 16-III
+\[  ] 16-IV
+
+[bold]Arrestation sous niveau d'alerte :[/bold]
+\[  ] Vert
+\[  ] Bleu
+\[  ] Rouge
+\[  ] Oméga
+\[  ] Delta
+
+\[  ] Violet
+\[  ] Jaune
+
+[bold]Fouille sous niveau d'alerte :[/bold]
+\[  ] Vert*
+\[  ] Bleu
+\[  ] Rouge
+\[  ] Oméga
+\[  ] Delta
+
+\[  ] Violet*
+\[  ] Jaune*
+
+*/Fournir le formulaire NT-355 avec ce document
+
+[bold]Niveau de résistance :[/bold]
+\[  ] NV-Mineur-        Marche
+\[  ] NV-Majeur-        Course
+\[  ] NV-Extrême-       Glissade et fuite
+\[  ] V-Mineur-         À mains nues
+\[  ] V-Majeur-         Arme de mêlée
+\[  ] V-Extrême-        Arme à feu
+══════════════════════════════════════════
+[color=#aaaaaa]Ce document [italic]ne constitue pas[/italic] un mandat de quelque nature que ce soit. Ce document est exclusivement destiné à maintenir les dossiers à jour.[/color]

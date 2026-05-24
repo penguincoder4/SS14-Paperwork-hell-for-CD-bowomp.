@@ -1,0 +1,40 @@
+[color=#c96dbf]░▀▄▄▀░ [head=2]Rapport de sécurité sur les artefacts[/head]
+░█░░█░ 
+░▄▀▀▄░[/color]   Formulaire NT-400
+──────────────────────────────────────────
+
+[bold]Nom du scientifique rapporteur :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Rôle :[/bold]
+\[  ] Directeur de la recherche
+\[  ] Scientifique adjoint
+\[  ] Scientifique
+\[  ] Roboticien
+\[  ] Assistant de recherche
+══════════════════════════════════════════
+
+[bold]Nom / ID de l'artefact[/bold]
+    [color=#002AAF]"Nom ou ID"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Risque de sécurité[/bold]
+\[  ] L'artefact peut soudainement exploser.
+\[  ] L'artefact peut provoquer la destruction de la station.*
+\[  ] L'artefact est doué de conscience.
+
+[color=#aaaaaa]*Informez l'officier commandant de la station et transmettez-lui ce document.[/color]
+
+[bold]NE PAS FAIRE CECI À PROXIMITÉ DE CET ARTEFACT[/bold]
+    [color=#002AAF]"liste exemple d'actions interdites"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Actions demandées[/bold]
+\[  ] Élimination immédiate à l'ATS
+\[  ] Élimination immédiate dans la machine de broyage
+\[  ] Élimination immédiate dans l'espace
+\[  ] Autre, préciser ci-dessous :
+    [color=#002AAF]"exemple"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+[color=red]Si la destruction de la station est le risque concerné, le Capitaine est autorisé à décréter un confinement général de la station pendant le transport de l'artefact, afin d'assurer la sécurité de l'équipage. Durant cette période, la sécurité est chargée de transporter l'artefact en sécurité, en utilisant toute la force nécessaire, jusqu'à son lieu d'élimination.[/color]

@@ -1,0 +1,31 @@
+[color=#1b67a5]░░██░░ [head=2]Formulaire de demande de financement[/head]
+▀████▀ 
+▄█▀▀█▄[/color]    [color=#999999]NT-604[/color]
+──────────────────────────────────────────
+[head=4]De : NOM[/head]
+Je demande un financement supplémentaire pour le fonds suivant :
+
+(  ) (ING) Épargne de maintenance
+(  ) (MED) Fonds de santé de l'équipage
+(  ) (RND) Financement du développement interstellaire
+(  ) (SEC) Réserves de défense de la station
+(  ) (SRV) Avoirs collectifs des services
+
+──────────────────────────────────────────
+[head=2]Montant[/head]
+
+Je souhaite demander une division des recettes supplémentaire de
+                 % pour le fonds indiqué
+‾‾‾‾‾‾‾‾
+──────────────────────────────────────────
+[head=2]Justification[/head]
+
+Veuillez expliquer ci-dessous pourquoi ce financement est nécessaire :
+    [color=#002AAF]Lorem ipsum dolar sit amet. texte exemple. yata yata.
+
+[/color]
+
+Signature :  [color=#002AAF]Nom[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[color=#aaaaaa]Ensuite, remettez ce formulaire au Responsable du Personnel, qui apposera son cachet d'approbation ou de refus sur votre demande.[/color]

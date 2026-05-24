@@ -1,0 +1,56 @@
+[color=#f39f27]░░▄▀░░   [head=2]Rapport d'Incident Delta-Alerte[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-34EM[/color]
+[/color]──────────────────────────────────────────
+
+Nom de l'Ingénieur Rédacteur :
+    [color=#002AAF]nom ici[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Rôle :
+\[  ] Ingénieur en Chef
+\[  ] Ingénieur Senior
+\[  ] Technicien Atmosphérique
+\[  ] Ingénieur
+\[  ] Assistant Technique
+\[  ] NON-INGÉNIEUR L'INGÉNIERIE EST MORTE
+
+[color=red][bold]Ce Document doit être approuvé et tamponné par le commandant de rang le plus élevé disponible, sauf si ce n'est pas possible.[/bold][/color]
+[color=red]Le faux remplissage de ce formulaire peut entraîner la résiliation du contrat conformément au Manuel NT §62-1.4e[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+L'incident a été découvert à : (sélectionnez-en un)
+(  ) Exactement
+(  ) Approximativement
+    [color=#002AAF]Exemple d'heure en HH:MM:SS[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=2]Nature de l'Incident[/head]
+\[  ] La superstructure ou la sous-structure de la station est brisée
+\[  ] Singlo/tesla s'échappant du confinement.
+\[  ] Défaillance de la coque imminente
+\[  ] Délamination de super matière
+\[  ] Fusion du réacteur de la station
+\[  ] Pâtes
+\[  ] Mec, ils ont comme... tout volé.
+
+[head=2]Actions à prendre[/head]
+\[  ] Combinaisons spatiales distribuées.
+\[  ] Système de survie d'urgence activé.
+\[  ] Appeler l'évacuation (si possible)
+\[  ] Formulaire déposé auprès du Commandement Central
+\[  ] Appel téléphonique d'urgence effectué.
+\[  ] Activer la balise SOS sur la passerelle*
+//*Guide pratique - Retirez le panneau sous le clavier de l'unité de communication, il y aura un objet rayé rouge et noir. Tendez la main vers l'emplacement jaune face à vous et appuyez sur le bouton à l'intérieur, une alarme retentira et activera la balise après 5 secondes.
+[color=red][bold]CETTE ACTION METTRA LE NIVEAU D'ALERTE À DELTA ET LE COMMANDEMENT CENTRAL SERA AUTOMATIQUEMENT INFORMÉ.[/bold][/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=2]Exigences de survie quotidiennes[/head]
+\[  ] Oxygène/Azote
+ (300L par membre d'équipage)
+\[  ] Eau
+(9-11 tasses par membre d'équipage)
+\[  ] Nourriture
+(1200-2000 Calories par membre d'équipage)
+//Voir le manuel de survie en cas d'isolement pour plus de conseils
+
+
+                                  [bold]═══╣ Tamponner ci-dessous ╠═══[/bold]

@@ -1,0 +1,44 @@
+[color=#cb0000]░█▄▄█░ [head=2]Retrait d'implant[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Formulaire NT-356
+───────────────────────────────────────
+[color=red][bold]Ce document doit être approuvé et tamponné par le Chef de la Sécurité ou le Capitaine.[/bold][/color]
+══════════════════════════════════════════
+
+[bold]Nom de l'officier déclarant :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Rôle :
+[/bold]
+\[  ] Chef de la Sécurité
+\[  ] Gardien
+\[  ] Officier adjoint
+\[  ] Médecin du brig
+\[  ] Agent de sécurité
+\[  ] Cadet
+══════════════════════════════════════════
+
+[bold]Accusé :[/bold]   [color=#002AAF]Personne exemple[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Implant suspecté :[/bold]
+\[  ] Brouilleur d'ADN
+\[  ] Implanteur IEM
+\[  ] Contrôleur caméléon
+\[  ] Acidificateur de mort
+\[  ] Râle de mort SYN
+\[  ] Râle de mort CNT*
+\[  ] Faux MindShield
+\[  ] Liberté
+\[  ] Masque d'identité
+\[  ] Macro-bombe
+\[  ] Micro-bombe
+\[  ] Trombone triste
+\[  ] Scram
+\[  ] Stockage
+\[  ] Implant radio
+\[  ] Liaison
+\[  ] Autre (précisez) : exemple
+
+*Approbation du Commandement Central requise
+══════════════════════════════════════════
+[color=#aaaaaa]Ce document n'est pas valide sans le tampon du personnel requis listé. Le dépôt illégal de ce document entraînera des charges criminelles. Si la cible ne possède pas les implants recherchés, l'officier déclarant pourra être tenu responsable. Ce formulaire est régi par la loi spatiale NT.[/color]

@@ -1,0 +1,113 @@
+[color=#f39f27]░░▄▀░░   [head=2]Rapport d'Incident d'Ingénierie[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-314A[/color]
+[/color]──────────────────────────────────────────
+
+Nom de l'Ingénieur Rédacteur :
+    [color=#002AAF]nom ici[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Rôle :
+\[  ] Technicien Atmosphérique
+\[  ] Ingénieur en Chef
+\[  ] Ingénieur Senior
+\[  ] Ingénieur
+\[  ] Assistant Technique
+
+AVIS - ceci est le formulaire accéléré, pour un rapport rapide d'incidents, les faux rapports peuvent/vont entraîner une punition [italic]PLUS SÉVÈRE[/italic] que le formulaire standard de rapport d'incident.
+══════════════════════════════════════════
+[head=2]1. [/head][head=3]Gravité[/head]
+Quelle est la gravité de l'incident ? (sélectionnez-en un)
+(  ) Négligeable
+(  ) Mineure
+(  ) Considérable
+(  ) Sérieuse
+(  ) Menace pour la station
+
+Combien de personnes sont affectées par l'incident ? (sélectionnez-en un)
+(  ) Juste quelques-unes
+(  ) Plus qu'une poignée
+(  ) Des dizaines
+(  ) La moitié de la station
+(  ) La plupart de la station
+(  ) Tout le monde ou presque tout le monde
+
+════════════
+[head=2]2. [/head][head=3]Chronologie[/head]
+L'incident est-il toujours en cours ? (sélectionnez-en un)
+(  ) Non
+(  ) Oui
+(  ) Incertain
+
+L'incident s'est produit à ce moment : (sélectionnez-en un)
+(  ) Exactement
+(  ) Approximativement
+    [color=#002AAF]Exemple d'heure en HH:MM:SS[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+(  ) Incertain
+
+════════════
+[head=2]3. [/head][head=3]Nature de l'Incident[/head]
+L'incident implique-t-il l'un des éléments suivants ?
+Plus proche du début, risque immédiat plus faible pour la station
+\[  ] Ingénieur(s) laissé(s) sans surveillance
+\[  ] Assistant(s) Technique(s) laissé(s) sans surveillance
+\[  ] Technicien(s) Atmosphérique(s) laissé(s) sans surveillance
+\[  ] L'Ingénieur en Chef a été laissé sans surveillance
+\[  ] Blessures/morts de non-personnel
+\[  ] Engins Explosifs Improvisés
+\[  ] destruction/démontage de l'infrastructure de la station
+\[  ] Membres du personnel blessés
+\[  ] Appareils avec accès brouillé
+\[  ] Câbles d'alimentation (HV) coupés
+\[  ] Insoumission départementale
+\[  ] Personnel de commandement corrompu
+\[  ] Vol mineur d'équipement
+\[  ] Menace de cybersécurité pour la station
+\[  ] Explosion générale
+\[  ] Espace/Breche de coque
+\[  ] La superstructure de la station est endommagée
+\[  ] La sous-structure de la station est endommagée
+\[  ] Fuite de Frezon
+\[  ] Gaz surrefroidi
+\[  ] Fuite de Tritium
+\[  ] Incendies
+\[  ] Gaz surchauffé
+\[  ] Fuite de Frezon surchauffé
+\[  ] Vol mineur d'infrastructure
+\[  ] Vol majeur d'équipement
+\[  ] Décompression explosive
+\[  ] Membres du personnel décédés
+\[  ] Membres du personnel M.I.A.
+\[  ] Non-personnel M.I.A.
+\[  ] V.I.P. M.I.A.
+\[  ] Les ingénieurs deviennent fous
+\[  ] Vol majeur d'infrastructure
+\[  ] Menace de guerre électronique
+\[  ] Bombe(s)
+\[  ] Perte du Singlo
+\[  ] Perte du Tesla
+\[  ] Force hostile empêchant DAMCON
+\[  ] Formes de vie non humanoïdes nuisibles empêchant DAMCON
+\[  ] Entités/objets anormaux nuisibles empêchant DAMCON
+\[  ] Artefacts nuisibles d'origine extraterrestre ou inconnue empêchant DAMCON
+\[  ] TEG détruit
+\[  ] Explosion AME
+\[  ] [italic]Incidents de Clown.[/italic]
+\[  ] Mec, ils ont comme... tout volé*
+\[  ] Bombe à capacité maximale*
+\[  ] Fusion du réacteur de la station*
+\[  ] Délamination de super matière*
+\[  ] Singlo/tesla s'échappant du confinement.*
+\[  ] La superstructure ou la sous-structure de la station est brisée*
+\[  ] Ian/Lisa a été laissé sans surveillance**
+//*remplissez le formulaire NT-34EM et arrêtez de remplir ce formulaire immédiatement.
+//**remplissez le formulaire NT-42069IAN et fournissez-le avec ce formulaire au commandement central
+
+Bref résumé des événements. (incluez le(s) département(s) et ce qui s'est passé)
+"résumé ici"
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+══════════════════════════════════════════
+Voir CNT-240 pour les demandes d'assistance
+══════════════════════════════════════════
+
+[bold][color=red]En soumettant ce document au Commandement Central, l'auteur certifie personnellement qu'il est exact au mieux de ses capacités. Soumettre de faux rapports ou des rapports avec de faux noms peut entraîner des accusations de parjure et une amende allant jusqu'à 5 000 spesos ou 5 mois de prison et la résiliation du contrat.[/color][bold]

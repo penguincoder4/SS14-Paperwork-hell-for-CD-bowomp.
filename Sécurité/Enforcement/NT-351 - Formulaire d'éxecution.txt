@@ -1,0 +1,42 @@
+[color=#cb0000]░█▄▄█░ [head=2]Formulaire d'exécution[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Formulaire NT-351
+───────────────────────────────────────
+[head=2][color=red]Ce document vaut comme ordre de non-réanimation.[/color][/head]
+[color=#aaaaaa]La violation de ce document entraînera, au minimum, les mêmes charges pour le contrevenant que pour la cible de ce document, conformément à la loi spatiale NT, sous la clause de complicité.[/color]
+[color=red][bold]Ce document doit être approuvé et tamponné par le Capitaine, le Chef de la Sécurité et le Médecin-chef, ou émis par le Commandement Central.[/bold][/color]
+
+══════════════════════════════════════════
+
+[bold]Nom de l'officier rédacteur :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Nom du supérieur direct* :
+[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#aaaaaa]//*Le Commandement Central et le Capitaine n'ont pas à remplir cette section.
+[/color]
+
+ [bold]Rôle :[/bold]
+\[  ] Commandement Central (tout poste)
+\[  ] Chef de la Sécurité
+\[  ] Capitaine
+\[  ] Gardien
+\[  ] Officier adjoint
+\[  ] Médecin du brig
+\[  ] Agent de sécurité
+\[  ] Cadet
+\[  ] Chef du Personnel
+══════════════════════════════════════════
+
+[bold]Cible de l'exécution :[/bold]   [color=#002AAF]Nom[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Motif de l'exécution :
+[/bold]
+\[  ] Prévention de la réanimation
+\[  ] Incontenable*
+\[  ] Refus du MindShield*
+*Approbation du Commandement Central requise.
+══════════════════════════════════════════
+[color=#aaaaaa]Ce document n'est pas valide sans le tampon du personnel requis listé. Le dépôt illégal de ce document entraînera des charges criminelles. Ce formulaire est régi par la loi spatiale NT.[/color]

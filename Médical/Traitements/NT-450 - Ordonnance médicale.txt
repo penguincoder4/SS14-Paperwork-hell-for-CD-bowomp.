@@ -1,0 +1,102 @@
+[color=#5b97bc]░░██░░ [head=2]Ordonnance médicale[/head]
+██████ 
+░░██░░ [/color]   Formulaire NT-359
+──────────────────────────────────────────
+[color=#aaaaaa]Si cette ordonnance concerne des produits chimiques définis comme restreints par la procédure opérationnelle standard, le formulaire NT-534D doit être fourni avec ce document.[/color] 
+
+══════════════════════════════════════════
+
+[bold]Nom du médecin prescripteur :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+══════════════════════════════════════════
+
+[head=3]Informations sur le patient :[/head]
+
+[bold]Nom du patient :[/bold]
+    [color=#002AAF]"NOM"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Âge du patient :[/bold]
+    [color=#002AAF]"ÂGE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Genre du patient :[/bold]
+    [color=#002AAF]"GENRE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Espèce :[/bold]
+    [color=#002AAF]"ESPÈCE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+
+[head=3]Détails de l'ordonnance :[/head]
+
+[bold]Motif de l'ordonnance :[/bold]
+    [color=#002AAF]"Exemple"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Dosage :[/bold]
+    [color=#002AAF]"Nombre"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Produits chimiques prescrits :[/bold]
+
+\[  ] Antidépresseurs
+    \[  ] Blissifylovène (GRADE EXTRÊMEMENT ÉLEVÉ)
+    \[  ] Sérénitol (Grade léger)
+    \[  ] Neurozenium (Grade moyen)
+    \[  ] Psicodine (Grade faible)
+
+\[  ] Analgésiques
+    \[  ] Agonolexyne (Grade chirurgical)
+    \[  ] Soretizone (Grade élevé)
+    \[  ] Stubantazine (Grade moyen)
+
+\[  ] Médicaments anxiolytiques
+    \[  ] Calmafluxine (Grade moyen)
+    \[  ] Equilibrazine (Grade élevé)
+    \[  ] Neurozenium (Grade moyen)
+    \[  ] Psicodine (Grade faible)
+    \[  ] Tranquinase (Grade moyen)
+
+\[  ] Antipsychotiques
+    \[  ] Saprodipine (Grade moyen)
+
+\[  ] Médicaments pour clowns
+    \[  ] Bonheur
+    \[  ] Rires
+
+\[  ] Sédatifs
+    \[  ] Hydrate de chloral
+    \[  ] Acide noradrénergique
+    \[  ] Pax
+
+\[  ] Hallucinogènes
+    \[  ] THC
+
+\[  ] Vision
+    \[  ] Oculine
+
+\[  ] Perte de mémoire
+    \[  ] Cortexène
+
+\[  ] Sommeil
+    \[  ] Diphenhydramine
+    \[  ] Hydrate de chloral
+
+\[  ] Narcolepsie
+    \[  ] Diphénylméthylamine
+    \[  ] Éthyloxyéphédrine
+
+\[  ] Alcoolisme
+    \[  ] Éthylredoxrazine
+
+\[  ] Abus de stupéfiants
+    \[  ] Halopéridol
+
+\[  ] Ingestion
+    \[  ] Ipéca
+
+\[  ] Anticoagulant
+    \[  ] Warfarine
+
+══════════════════════════════════════════
+[color=#aaaaaa]Ce formulaire est régi par la loi Nanotressen et la procédure opérationnelle standard, sous la clause médicale / d'ordonnance de la section des substances contrôlées. Tout abus des produits chimiques autorisés, y compris leur distribution et leur mauvais usage, entraînera la révocation de cette ordonnance à la discrétion du Médecin-chef. Ce document est régi par la loi Nanotressen §16-3.4M[/color]

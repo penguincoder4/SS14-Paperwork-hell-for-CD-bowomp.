@@ -1,0 +1,51 @@
+[color=#f39f27]░░▄▀░░   [head=2]Modification de la tuyauterie[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-313H[/color]
+[/color]──────────────────────────────────────────
+[color=red][bold]CE DOCUMENT INCLUT UN RAPPORT APRÈS ACTION ET NE DOIT PAS ÊTRE TAMPONNÉ.[/bold][/color]
+
+Nom de l'ingénieur rédacteur :*
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Rôle :
+\[  ] Technicien atmosphérique
+\[  ] Ingénieur en chef
+\[  ] Ingénieur adjoint
+\[  ] Ingénieur
+\[  ] Assistant technique
+
+*/ laissez vide si vous n'êtes pas ingénieur.
+══════════════════════════════════════════
+
+[head=3]Département ou zone Affectée : "exemple"[/head]
+
+[head=3]Tuyaux étant modifiés[/head]
+\[  ] Distro
+\[  ] Déchets
+\[  ] Chauffage
+\[  ] Refroidissement
+\[  ] Autre
+    [color=#002AAF]"exemple"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Suppression ?[/head]
+\[  ] Oui
+\[  ] Non
+
+[head=3]Fourniture à une nouvelle zone ?[/head]
+\[  ] Oui
+\[  ] Non
+
+[head=3]Chemin alternatif pour l'air à fournir en aval ?[/head]
+\[  ] Oui
+\[  ] Non
+
+[head=3]Plan d'action d'ingénierie[/head]
+ 1.allez embrasser des hommes.
+ 2.réparez les choses
+ 3.profit
+
+[head=3]Résumé des événements[/head]
+ 1.réparé les choses
+ 2.profité
+ 3.embrassé des hommes.

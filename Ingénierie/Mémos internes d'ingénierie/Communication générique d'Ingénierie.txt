@@ -1,0 +1,5 @@
+[color=#f39f27]░░▄▀░░   [head=2]Communication d'Ingénierie[/head]
+░▄█▄▄▀
+██▀░░░[/color]  [head=3]  (NOM DE LA STATION)  [/head]
+[/color]──────────────────────────────────────────
+Du bureau de, (NOM DE L'INGÉNIEUR), (TITRE ICI), À (PERSONNE/DÉPARTEMENT CIBLE)

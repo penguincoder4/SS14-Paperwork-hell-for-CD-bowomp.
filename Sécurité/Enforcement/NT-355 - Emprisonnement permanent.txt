@@ -1,0 +1,46 @@
+[color=#cb0000]░█▄▄█░ [head=2]Formulaire de sanction permanente[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Formulaire NT-355
+───────────────────────────────────────
+[color=red][bold]Ce document doit être approuvé et tamponné par le personnel requis pour le type de sanction demandé.[/bold][/color]
+══════════════════════════════════════════
+
+[bold]Nom de l'officier rédacteur :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Rôle :[/bold]
+\[  ] Chef de la Sécurité
+\[  ] Capitaine
+\[  ] Gardien
+\[  ] Officier adjoint
+\[  ] Médecin du brig
+\[  ] Agent de sécurité
+\[  ] Cadet
+\[  ] Chef du Personnel
+══════════════════════════════════════════
+
+[bold]Accusé :[/bold]   [color=#002AAF]"Nom"[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Justification de la détention :[/bold]
+\[  ] 03-II - Psychiatrique
+\[  ] 03-III - Psychiatrique
+\[  ] 03-IV - Permanente, Psychiatrique
+\[  ] 03-V - Permanente, Psychiatrique, Exécution
+\[  ] 07-V - Permanente
+\[  ] 12-III - Permanente, Déportation
+\[  ] 13-III - Psychiatrique
+\[  ] 14-III - Psychiatrique
+
+[bold]Sanction psychiatrique :[/bold]
+Approbation du Médecin-chef requise ; la sécurité renonce à sa capacité de mettre fin à la peine, transférant cette autorité au Médecin-chef et à ses supérieurs.
+[bold]Permanente :[/bold]
+La durée de la peine est décidée par le Chef de la Sécurité et ses supérieurs.
+[bold]Exécution :[/bold]
+Voir formulaire NT-351
+[bold]Déportation :[/bold]
+Approbation du Commandement Central requise ; le détenu sera transféré dans un autre établissement.
+
+Par défaut, pour toutes les sanctions, le tampon du Gardien ou du Chef de la Sécurité est requis.
+══════════════════════════════════════════
+[color=#aaaaaa]Ce document n'est pas valide sans le tampon du personnel requis listé. Le dépôt illégal de ce document entraînera des charges criminelles. Ce formulaire est régi par la loi spatiale NT.[/color]

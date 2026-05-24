@@ -1,0 +1,40 @@
+[color=#f39f27]░░▄▀░░   [head=2]Documentation de réparation[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-315[/color]
+[/color]──────────────────────────────────────────
+
+Nom de l'ingénieur rapporteur :*
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Rôle :
+\[  ] Membre de l'équipe de réparation du commandement central.
+\[  ] Technicien atmosphérique
+\[  ] Ingénieur en chef
+\[  ] Ingénieur adjoint
+\[  ] Ingénieur
+\[  ] Assistant technique
+
+ Raison de la réparation
+\[  ] Cause inconnue des dommages
+\[  ] Explosifs
+\[  ] Météores
+\[  ] Décompression explosive
+\[  ] Tige inarrêtable
+\[  ] Fusion
+\[  ] Autre (liste ci-dessous)
+ [color=#002AAF]Exemple autre[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Heure de notification :
+(  ) Exactement
+( X ) Approximativement
+    [color=#002AAF]00:00:00[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Heure d'achèvement de la réparation :
+(  ) Exactement
+( X ) Approximativement
+    [color=#002AAF]00:00:00[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+[head=2]Résumez les étapes de réparation :[/head]

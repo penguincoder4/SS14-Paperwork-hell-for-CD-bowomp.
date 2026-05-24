@@ -1,0 +1,30 @@
+[color=#cb0000]░█▄▄█░ [head=2]Formulaire de pose d'implant[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Formulaire NT-357
+───────────────────────────────────────
+[color=red][bold]Ce document doit être approuvé et tamponné par le Chef de la Sécurité ou le Capitaine.[/bold][/color]
+══════════════════════════════════════════
+
+[bold]Nom de l'officier rédacteur :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Rôle :[/bold]
+\[  ] Chef de la Sécurité
+\[  ] Capitaine
+\[  ] Gardien
+\[  ] Officier adjoint
+\[  ] Médecin du brig
+\[  ] Agent de sécurité
+\[  ] Cadet
+══════════════════════════════════════════
+
+[bold]Personne implantée :[/bold]   [color=#002AAF]"Nom"[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Implant demandé :[/bold]
+\[  ] Implant de traçage
+\[  ] MindShield
+
+══════════════════════════════════════════
+[color=#aaaaaa]Ce document n'est pas valide sans le tampon du personnel requis listé. Le dépôt illégal de ce document entraînera des charges criminelles. Ce formulaire est régi par la loi spatiale NT.[/color]

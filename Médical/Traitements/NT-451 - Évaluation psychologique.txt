@@ -1,0 +1,41 @@
+[color=#5b97bc]░░██░░ [head=2]Évaluation psychologique[/head]
+██████ 
+░░██░░ [/color]   Formulaire NT-358
+──────────────────────────────────────────
+[color=red][bold]Ce document est destiné à signaler des préoccupations ou à rapporter des informations concernant un patient.[/bold][/color]
+══════════════════════════════════════════
+[bold]Nom de l'évaluateur :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+══════════════════════════════════════════
+
+[head=3]Informations sur le patient :[/head]
+
+[bold]Nom du patient :[/bold]
+    [color=#002AAF]"NOM"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Âge du patient :[/bold]
+    [color=#002AAF]"ÂGE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Genre du patient :[/bold]
+    [color=#002AAF]"GENRE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Espèce :[/bold]
+    [color=#002AAF]"ESPÈCE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+══════════════════════════════════════════
+
+[head=3]Informations sur l'évaluation :[/head]
+[bold]Motif de l'évaluation :[/bold]
+\[  ] Tendances suicidaires
+\[  ] Tendances violentes
+\[  ] Condition psychologique potentielle
+
+[bold]Résumé de l'évaluation :[/bold]
+    [color=#002AAF]"exemple"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Évaluations criminelles :[/bold]
+[color=#aaaaaa]Laisser cette section vide si non applicable[/color]
+\[  ] Approbation pour sanction psychiatrique
+══════════════════════════════════════════
+[color=#aaaaaa]Si l'approbation de sanction psychiatrique est instaurée et que le document est déposé illégalement, cela entraînera des charges criminelles. Ce formulaire est régi par la loi spatiale NT §6-2.5[/color]

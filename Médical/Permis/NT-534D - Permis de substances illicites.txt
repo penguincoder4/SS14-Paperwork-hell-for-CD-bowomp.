@@ -1,0 +1,56 @@
+[color=#cb0000]░█▄▄█░[/color] [color=#5b97bc]░░██░░ [head=2]Permis de substances illicites[/head][/color]
+[color=#cb0000]██▄▄██[/color] [color=#5b97bc]██████[/color]
+[color=#cb0000]▀█▄▄█▀[/color] [color=#5b97bc]░░██░░ [/color]   Formulaire NT-534D
+───────────────────────────────────────
+[color=red][bold]Ce document modifie la procédure opérationnelle standard afin d'établir une exception pour un produit chimique listé, à l'usage d'un patient, avec l'autorité qui lui est conférée par le Médecin-chef.[/bold][/color]
+══════════════════════════════════════════
+
+
+[bold]Nom et grade du médecin demandeur :[/bold]
+    [color=#002AAF]"Nom, Grade"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+
+[head=3]Informations sur le patient :[/head]
+
+[bold]Nom du patient :[/bold]
+    [color=#002AAF]"NOM"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Âge du patient :[/bold]
+    [color=#002AAF]"ÂGE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Genre du patient :[/bold]
+    [color=#002AAF]"GENRE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Espèce :[/bold]
+    [color=#002AAF]"ESPÈCE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+
+
+
+[bold]Motif complet de la demande :[/bold]
+    [color=#002AAF]"Explication du pourquoi, les résumés ne suffiront pas ici."[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+  [bold]Type de substance :[/bold]
+\[  ] Inhibiteurs sensoriels
+\[  ] Sédatifs
+\[  ] Psychédéliques
+\[  ] Stimulants
+\[  ] Produits chimiques Lazarus
+\[  ] Toxines dangereuses
+\[  ] Pyrotechniques
+
+
+[bold]Nom du produit chimique et quantité dont la possession est demandée :[/bold]
+    [color=#002AAF]"Nom, XX unités"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+  [bold]Méthode de stockage :[/bold]
+\[  ] Forme solide (Comprimés ou pilules)
+\[  ] Forme liquide (Fluide)
+
+══════════════════════════════════════════
+[color=#aaaaaa]Pour que ce document soit valide, il DOIT porter l'approbation du Médecin-chef et il est recommandé de le transmettre à tous les télécopieurs de la station. Ce document constitue une pièce dérogatoire détaillant qui peut le posséder, en quelle quantité, et pour quelle raison. Tout abus des produits chimiques autorisés, y compris leur distribution et leur mauvais usage, entraînera la révocation de cette ordonnance à la discrétion du Médecin-chef, et les charges correspondantes seront retenues.
+Ce document est régi par la loi Nanotressen §16-3.4M[/color]

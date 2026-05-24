@@ -1,0 +1,77 @@
+[color=#c96dbf]░▀▄▄▀░ [head=2]Rapport d'anomalie[/head]
+░█░░█░ 
+░▄▀▀▄░[/color]   Formulaire NT-401
+──────────────────────────────────────────
+
+[bold]Nom du scientifique rapporteur :[/bold]
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Rôle :
+[/bold]
+\[  ] Directeur de la recherche
+\[  ] Scientifique senior
+\[  ] Scientifique
+\[  ] Roboticien
+\[  ] Assistant de recherche
+══════════════════════════════════════════
+
+[bold]Localisation de l'anomalie[/bold]
+    [color=#002AAF]"Lieu, Département"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Type[/bold]
+\[  ] Bluespace
+\[  ] Électrique
+\[  ] Ombral
+\[  ] Floral
+\[  ] Glaciaire
+\[  ] Gravitationnel
+\[  ] Technologique
+\[  ] Liquide
+\[  ] Pyroclastique
+\[  ] Charnel
+
+ [bold]Collègue responsable[/bold]
+[color=#aaaaaa]Définit qui est en charge de l'anomalie[/color]
+    [color=#002AAF]"Nom, Rôle"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Dangerosité[/bold]
+\[  ] Delta
+\[  ] Epsilon
+\[  ] Sigma
+\[  ] Zeta
+\[  ] Omega
+
+ [bold]Instabilité[/bold]
+\[  ] Delta
+\[  ] Epsilon
+\[  ] Sigma
+\[  ] Zeta
+\[  ] Omega
+
+ [bold]Confinement[/bold]
+\[  ] Delta
+\[  ] Epsilon
+\[  ] Sigma
+\[  ] Zeta
+\[  ] Omega
+
+ [bold]Transformation[/bold]
+\[  ] Delta
+\[  ] Epsilon
+\[  ] Sigma
+\[  ] Zeta
+\[  ] Omega
+
+ [bold]Déviation comportementale[/bold]
+    [color=#002AAF]"exemple"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Production de points[/bold]
+    [color=#002AAF]"nombree"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Si l'anomalie est une infection, veuillez indiquer le nom de la personne affectée ici[/bold]
+    [color=#002AAF]"Nom, Rôle"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+  

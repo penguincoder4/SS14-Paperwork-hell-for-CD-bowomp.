@@ -1,0 +1,45 @@
+[color=#f39f27]░░▄▀░░   [head=2]Conclusion d'Inspection[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-316C[/color]
+[/color]──────────────────────────────────────────
+
+Nom de l'ingénieur inspecteur :
+    [color=#002AAF]"Exemple"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Rôle de l'ingénieur inspecteur :
+\[  ] Membre de l'équipe d'inspection du commandement central
+\[  ] Technicien Atmosphérique
+\[  ] Ingénieur en Chef
+\[  ] Ingénieur Senior
+\[  ] Ingénieur
+\[  ] Assistant Technique
+
+Nom du Superviseur si applicable :
+    [color=#002AAF]"Exemple"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Rôle du superviseur si applicable :
+\[  ] Membre de l'équipe d'inspection du commandement central
+\[  ] Technicien Atmosphérique
+\[  ] Ingénieur en Chef
+\[  ] Ingénieur Senior
+
+[head=4][color=#f39f27]Département affecté :[/color]Département[/head]
+
+
+Heure d'approbation de la demande :
+    [color=#002AAF]XX:XX:XX[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Durée allouée :
+\[ X ] 30 minutes
+\[  ] 60 minutes
+\[  ] Illimitée
+
+Heure d'achèvement de l'inspection :
+    [color=#002AAF]XX:XX:XX[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Résumé de l'inspection -
+"Exemple"
+
+Plan d'action pour les résultats, laissez vide si aucun boulon critique ou sérieux n'a subi de défaillance.
+"Plan d'exemple"

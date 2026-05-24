@@ -1,0 +1,34 @@
+[color=#f39f27]░░▄▀░░   [head=2]Demande de remplacement SMES[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-313C[/color]
+[/color]──────────────────────────────────────────
+
+Nom du demandeur :
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Nom de l'ingénieur rédacteur :*
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Rôle :
+\[  ] Technicien atmosphérique
+\[  ] Ingénieur en chef
+\[  ] Ingénieur adjoint
+\[  ] Ingénieur
+\[  ] Assistant technique
+
+*/ laissez vide si vous n'êtes pas ingénieur.
+══════════════════════════════════════════
+
+[head=3]Département affecté : "exemple"[/head]
+
+
+[head=3]Raison de la Demande[/head]
+\[  ] Le SMES a été détruit (1)
+\[  ] Le SMES a été retiré   (2)
+\[  ] Demande d'installation (3)
+
+[head=4](1) Qu'est-ce qui a causé la destruction du SMES ?[/head]
+
+[head=4](2) Pourquoi le SMES a-t-il été retiré ?[/head]
+
+[head=4](3) Pourquoi un SMES est-il nécessaire ? (soyez TRÈS détaillé)[/head]

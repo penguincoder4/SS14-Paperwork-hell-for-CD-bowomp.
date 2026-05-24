@@ -1,0 +1,36 @@
+[color=#f39f27]░░▄▀░░   [head=2]Demande de remplacement de sous-station[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-313B[/color]
+[/color]──────────────────────────────────────────
+
+Nom du demandeur :
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Nom de l'ingénieur rédacteur :*
+    [color=#002AAF]"Nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Rôle :
+\[  ] Technicien atmosphérique
+\[  ] Ingénieur en chef
+\[  ] Ingénieur adjoint
+\[  ] Ingénieur
+\[  ] Assistant technique
+
+*/ laissez vide si vous n'êtes pas ingénieur.
+══════════════════════════════════════════
+L'abréviation SS sera utilisée dans ce document,
+Référez-vous à Info NT-334 si vous n'êtes pas au courant de ce que cela signifie.
+
+[head=3]Département affecté : "exemple"[/head]
+
+[head=3]Raison de la Demande[/head]
+\[  ] La SS a été détruite (1)
+\[  ] La SS a été retirée   (2)
+\[  ] La SS est/sera surchargée (3)
+
+[head=4](1) Qu'est-ce qui a causé la destruction de la SS ?[/head]
+
+[head=4](2) Pourquoi la SS a-t-elle été retirée ?[/head]
+
+
+[head=4](3) Qu'est-ce qui a/aura causé la surcharge de la SS ?[/head]

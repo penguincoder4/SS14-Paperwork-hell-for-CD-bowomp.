@@ -1,0 +1,15 @@
+[color=#1b67a5]░░██░░ [head=2]Chef adjoint[/head]
+▀████▀ 
+▄█▀▀█▄[/color]    [color=#999999]NT-600[/color]
+──────────────────────────────────────────
+[color=#4287f5][head=3]▼ Informations sur l'employé ▼[/head][/color]
+Nom de l'employé : 
+Poste actuel :
+Expérience pertinente :
+
+[color=#4287f5][head=3]▼ Informations sur le responsable ▼[/head][/color]
+Responsable du département :
+Autorisations supplémentaires demandées :
+
+[italic]Ce document certifie que l'employé ci-dessus est considéré comme le Chef adjoint d'un département avec les autorisations supplémentaires listées. Ces autorisations et ce statut peuvent être révoqués à tout moment par le Responsable du département concerné, le Capitaine, ou le Commandement Central.
+[/italic]

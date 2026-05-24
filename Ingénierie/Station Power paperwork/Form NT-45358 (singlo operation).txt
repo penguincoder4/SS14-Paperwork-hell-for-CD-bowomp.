@@ -1,0 +1,38 @@
+[color=#f39f27]░░▄▀░░   [head=2]Opération de Singularité Gravitationnelle[/head]
+░▄█▄▄▀
+██▀░░░[/color]   [color=#999999]NT-45358[/color]
+[/color]──────────────────────────────────────────
+
+Nom de l'Ingénieur Rédacteur :
+    [color=#002AAF]"nom"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ Rôle :
+\[  ] Technicien Atmosphérique
+\[  ] Ingénieur en Chef
+\[  ] Ingénieur Senior
+\[  ] Ingénieur
+\[  ] Assistant Technique
+══════════════════════════════════════════
+L'événement d'horizon s'est produit à :
+    [color=#002AAF]Exemple d'heure en HH:MM:SS[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+La collecte de rayonnement a commencé à :
+    [color=#002AAF]Exemple d'heure en HH:MM:SS[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=3]Nombre de collecteurs de rayonnement[/head]
+\[  ] 2
+\[  ] 4
+\[  ] 6
+\[  ] 8
+\[  ] Autre nombre :
+   [color=#002AAF]Exemple autre[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=3]Niveaux de rayonnement détectés des collecteurs de rad (moyenne)[/head]
+   [color=#002AAF]Exemple de rads[/color]
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+══════════════════════════════════════════
+Format pour les recharges -
+[NOM]-[RANG*]-[HEURE EN HH:MM:SS]
+Voir INFO NT-333 pour les titres de rang abrégés.
+
+══════════════════════════════════════════
