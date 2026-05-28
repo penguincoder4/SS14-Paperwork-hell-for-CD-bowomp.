@@ -1,0 +1,73 @@
+[color=#5b97bc]░░██░░ [head=2]Procédure en cas de décès[/head]
+██████ 
+░░██░░ [/color]   Formulaire NT-453
+──────────────────────────────────────────
+[color=#aaaaaa]Ce formulaire est à destination de tout l'équipage, nouveau ou ancien, et en particulier pour les métiers à risque tels que : Officier de Sécurité, Ingénieur Atmos et Clown.[/color] 
+
+══════════════════════════════════════════
+
+[bold]Tout employé à bord de la station est considéré comme propriété de Nanotrasen. Sauf mention contraire, tout employé victime d'un accident menant à leur mort sans autorisation préalable au décès de Nanotrasen sera réanimé par l'équipe médicale en poste afin d'établir avec le mourant si il souhaite être réanimé, et comment. Les frais de cette procédure seront à charge de l'employé mourant, ou, à défaut, de ses proches.[/bold]
+
+══════════════════════════════════════════
+
+[head=3]Informations de l'employé[/head]
+
+[bold]Nom de l'employé :[/bold]
+    [color=#002AAF]"NOM"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Âge :[/bold]
+    [color=#002AAF]"ÂGE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Genre :[/bold]
+    [color=#002AAF]"GENRE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Espèce :[/bold]
+    [color=#002AAF]"ESPÈCE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+
+[head=3]Informations des proches de l'employé à contacter en cas de décès [/head]
+
+[bold]Nom du proche 1 :[/bold]
+    [color=#002AAF]"NOM"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Adresse du proche 1 :[/bold]
+    [color=#002AAF]"ADRESSE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Nom du proche 2 :[/bold]
+    [color=#002AAF]"NOM"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Adresse du proche 2 :[/bold]
+    [color=#002AAF]"ADRESSE"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+══════════════════════════════════════════
+
+[head=3]En cas de décès[/head]
+
+
+[bold]Si votre corps est encore entier :[/bold]
+
+\[  ] Je souhaite être ressuscité dans mon corps d'origine
+\[  ] Je souhaite être ressuscité dans un autre corps biologique
+\[  ] Je souhaite que mon cerveau soit placé dans un cyborg
+\[  ] Je souhaite que mon corps soit disséqué et que mes organes soient utilisés pour les autres employés de la station ou par le département scientifique de la Station 
+
+
+[bold]Si votre corps est encore entier mais que la procédure sera longue et couteuse :[/bold]
+
+\[  ] Je souhaite être ressuscité dans mon corps d'origine et je paierai les frais supplémentaires de la procédure
+\[  ] Je souhaite être ressuscité dans mon corps d'origine et un membre de ma famille paiera les frais supplémentaires de la procédure
+\[  ] Je souhaite que mon cerveau soit placé dans un cyborg
+\[  ] Je souhaite que mon corps soit disséqué et que mes organes soient utilisés pour les autres employés de la station ou par le département scientifique de la Station 
+
+
+[bold]Si votre corps et votre tête sont séparés :[/bold]
+
+\[  ] Je souhaite que mon cerveau soit placé dans un cyborg
+\[  ] Je souhaite que mon corps soit disséqué et que mes organes soient utilisés pour les autres employés de la station ou par le département scientifique de la Station
+
+
+══════════════════════════════════════════
+[color=#aaaaaa]Ce formulaire est régi par la loi Nanotressen et la procédure opérationnelle standard, sous la clause médicale du droit au décès contrôlé. Tout abus de décès sera puni. Ce document à avoir sur soit ou bien à transmettre au service médical de la station. Ce document est régi par la loi Nanotressen §M0-R.7[/color]
