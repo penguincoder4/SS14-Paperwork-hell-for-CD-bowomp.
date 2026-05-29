@@ -1,0 +1,43 @@
+[color=#5b97bc]░░██░░ [head=2]Mémo interne Médical[/head]
+██████
+░░██░░[/color]  [head=3]À propos des patients qui refusent d'être soignés[/head]
+──────────────────────────────────────────
+Du bureau de (NOM DU MÉDECIN), (TITRE ICI).
+
+Chers collègues,
+
+Ce mémo fait suite à un nombre croissant d'incidents documentés au cours des derniers quarts de travail impliquant des patients qui refusent catégoriquement les soins médicaux.
+Considérez ces réponses toutes préparées si jamais il advenait que des cas se reproduisent à nouveau.
+
+[bold]POINT 1 : "ÇA VA ALLER"[/bold]
+Non. Ça ne va pas aller. Vous avez une fracture ouverte, un taux de radiation de 72 et et il vous manque une jambe.
+[color=#aaaaaa]NB : "Ça va aller" n'est pas un diagnostic médical reconnu par Nanotrasen cf. §MED-3.1.[/color]
+
+[bold]POINT 2 : LES MÉDICAMENTS NE SONT PAS OPTIONNELS[/bold]
+Si je vous prescris quelque chose, il y a une raison.
+Si vous "n'aimez pas le goût", je vous rappelle que l'alternative est de continuer à vomir du sang.
+Choisissez judicieusement.
+
+[bold]POINT 3 : LES CHIRURGIENS SONT LÀ POUR AIDER[/bold]
+Quand un chirurgien vous dit de vous allonger sur la table, allongez-vous sur la table.
+Il n'est pas nécessaire de courir. Il vous rattrapera. Vous allez tomber en crit d'ici 30 secondes.
+Plus vous courez, plus la chirurgie sera longue. 
+
+[bold]POINT 4 : CAS SPÉCIAL - LE CLOWN[/bold]
+Le Clown n'est pas allergique aux anesthésiants. Je l'ai vérifié trois fois.
+Il fait juste ça pour rire. Ce n'est pas drôle, mais c'est notre vie maintenant.
+Hippocrate ne connaissait pas Cherry lorsqu'il a rédigé son serment.
+
+[bold]POINT 5 : "JE PRÉFÈRE MOURIR"[/bold]
+Vous ne pouvez pas choisir de mourir sans remplir le formulaire NT-453 au préalable et avoir reçu l'approbation du Médecin-Chef.
+Nous vous ressusciterons de toute façon. Les frais seront sur votre fiche de paie.
+
+En conclusion : venez à l'infirmerie. Asseyez-vous. Laissez-nous faire notre travail.
+Nous sommes ici pour vous aider et nous le ferons avec ou sans votre coopération.
+Nous avons encore moins envie que vous de vous garder en medbay pendant 15 minutes.
+
+Avec une fatigue professionnelle sincère,
+
+(NOM DU MÉDECIN), (TITRE ICI).
+
+[color=#aaaaaa]P.S. : Si vous lisez ce mémo depuis la maintenance en train de vous administrer vous-même des soins avec une trousse de premier secours volée, contactez-nous immédiatement. On ne vous jugera pas. Pas beaucoup. On vous jugera un peu.[/color]
