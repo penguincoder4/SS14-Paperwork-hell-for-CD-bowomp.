@@ -24,7 +24,8 @@
 \[  ] Hazardous storage conditions
 \[  ] Lack of cleaning equipment
 \[  ] Unsafely cooked food items
-\[  ] Lack of proper PPE
+\[  ] Lack of proper PPE  
+      (unless washing hands before and after food handling)
 \[  ] Reuse of PPE without cleaning
 \[  ] Meat stored outside of Freezes/Fridges
 \[  ] Food stored in an improper cart
