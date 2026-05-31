@@ -2,3 +2,40 @@
 ██████ 
 ░░██░░ [/color]   Form NT-452
 ──────────────────────────────────────────
+
+[bold]Name and Rank of inspector/doctor:[/bold]
+    [color=#002AAF]"example name, Rank"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+──────────────────────────────────────────
+                                [head=1]Inspection[/head]
+──────────────────────────────────────────
+
+
+[bold]Complete Reason of Inspection:[/bold]
+    [color=#002AAF]"Explaination of why, Summaries will not do here."[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+  [bold]Violations:[/bold]
+\[  ] None
+\[  ] Cross Contaimination 
+      (Raw meat in contact with cooked/uncooked served items)
+\[  ] Lack of handwashing
+\[  ] Selling expired food items
+\[  ] Hazardous storage conditions
+\[  ] Lack of cleaning equipment
+\[  ] Unsafely cooked food items
+\[  ] Lack of proper PPE
+\[  ] Reuse of PPE without cleaning
+\[  ] Meat stored outside of Freezes/Fridges
+\[  ] Food stored in an improper cart
+\[  ] Blood hazard
+
+
+  [bold]Fail or Pass:[/bold]
+\[  ] Pass
+\[  ] Fail
+
+
+──────────────────────────────────────────
+                                [head=1](PUT GRADE HERE)[/head]
+──────────────────────────────────────────
