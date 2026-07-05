@@ -27,6 +27,9 @@
 [bold]Witness Statement:[/bold]
    [color=#002AAF]"lorem"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Interviewer Notes:[/bold]
+   [color=#002AAF]"lorem"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 [bold]Interviewer:[/bold]
     [color=#002AAF]Signature here[/color]
