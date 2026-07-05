@@ -20,8 +20,31 @@
 \[  ] Cadet
 ══════════════════════════════════════════
 
-[bold]Accused:[/bold]   [color=#002AAF]Sample Person[/color]
-               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#cb0000]░█▄▄█░ [head=2]Implant Removal[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Form NT-356
+───────────────────────────────────────
+[color=red][bold]This document must be approved and stamped by the Head of Security or the Captain.[/bold][/color]
+══════════════════════════════════════════
+
+[bold]Name of Requesting Officer:[/bold]
+    [color=#002AAF]Amplocarnum Radritum[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Role:[/bold]
+\[X] Head of Security
+\[  ] Captain
+\[  ] Warden
+\[  ] Senior officer
+\[  ] Brigmedic
+\[  ] Sapper
+\[  ] Security officer
+\[  ] Cadet
+══════════════════════════════════════════
+
+[bold]Name of Accused/Other:[/bold]
+    [color=#002AAF]"Example Name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
  [bold]Suspected Implant:[/bold]
 \[  ] DNA scrambler
 \[  ] EMP implanter
@@ -39,6 +62,9 @@
 \[  ] Storage
 \[  ] Radio Implant
 \[  ] Uplink
+\[  ] Other 
+    [color=#002AAF]"Example Other"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 *Central Command Approval Required
 ══════════════════════════════════════════
