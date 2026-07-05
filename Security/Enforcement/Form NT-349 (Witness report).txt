@@ -1,0 +1,38 @@
+[color=#cb0000]░█▄▄█░ [head=2]Witness Report form[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Form NT-349
+───────────────────────────────────────
+[color=red][bold]This document must be signed by both the witness and the officer conducting the interview[/bold][/color]
+══════════════════════════════════════════
+
+[bold]Name of Interviewing Officer:[/bold]
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Role:[/bold]
+\[  ] Head of Security
+\[  ] Captain
+\[  ] Warden
+\[  ] Senior officer
+\[  ] Brigmedic
+\[  ] Sapper
+\[  ] Security officer
+\[  ] Cadet
+\[  ] Head of Personel
+══════════════════════════════════════════
+
+[bold]Interviewee:[/bold]
+   [color=#002AAF]Sample Person[/color]
+    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Witness Statement:[/bold]
+   [color=#002AAF]"lorem"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Interviewer:[/bold]
+    [color=#002AAF]Signature here[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Interviewee:[/bold]
+   [color=#002AAF]signature here[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+══════════════════════════════════════════
+[color=#aaaaaa]This document is not valid unless signed by the required personnel. Unlawful Filing of this document will result in criminal charges of 09-III and 14-II. This form follows NT Space Law §6-2.5[/color]
