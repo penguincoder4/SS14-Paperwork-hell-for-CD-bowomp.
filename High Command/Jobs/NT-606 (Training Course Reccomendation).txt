@@ -28,6 +28,6 @@
     [color=#002AAF]"Lorem"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
  [bold]Course to take[/bold]
-| [color=#aaaaaa]See Info Nt-340-400 for course list[/color]
+| [color=#aaaaaa]See Info Nt-345 for course list[/color]
     [color=#002AAF]"Lorem"[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
