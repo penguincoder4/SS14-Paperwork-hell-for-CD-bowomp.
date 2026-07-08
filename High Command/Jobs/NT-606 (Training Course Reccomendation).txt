@@ -1,0 +1,33 @@
+[color=#1b67a5]░░██░░ [head=2]Training Recomendation[/head]
+▀████▀ 
+▄█▀▀█▄[/color]    [color=#999999]NT-606[/color]
+──────────────────────────────────────────
+
+[bold]Name of filing staff:[/bold]
+    [color=#002AAF]"example name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [bold]Role of Filing staff[/bold]
+\[  ] Captain
+\[  ]  Head Of Personel
+\[  ]  Quatermaster
+\[  ]  Research Director
+\[  ]  Head of Security
+\[  ]  Chief Medical Officer
+\[  ]  Chief Engineer
+
+═════════════════════════════════════════
+
+[bold]Name of Recomendee:[/bold]
+    [color=#002AAF]"Example Name"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Department/Role of Recomende[/bold]
+    [color=#002AAF]"Example Job"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Reason of recomendation[/bold]
+    [color=#002AAF]"Lorem"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ [bold]Course to take[/bold]
+| [color=#aaaaaa]See Info Nt-340-400 for course list[/color]
+    [color=#002AAF]"Lorem"[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
