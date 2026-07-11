@@ -120,6 +120,10 @@
 */Searches when arrested do not count; leave section blank.
 **/Provide Form Nt-355 with this document
 
+[bold]Discription of crime:[/bold]
+    [color=#002AAF]"Did the crimes, and we caught them here."[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
 [bold]Resistance Level:[/bold]
 \[  ] NV-Minor-        Walking
 \[  ] NV-Major-        Running
