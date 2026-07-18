@@ -11,6 +11,7 @@
 \[  ] Head of Security
 \[  ] Warden
 \[  ] Senior officer
+\[  ] Detective
 \[  ] Brigmedic
 \[  ] Sapper
 \[  ] Security officer
