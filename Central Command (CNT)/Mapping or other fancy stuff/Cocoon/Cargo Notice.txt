@@ -1,4 +1,29 @@
 [color=#d9911c]█▀█              [head=2]Penguin Corp[/head]
 █▀▀  █▀
-█▄   █▄[/color]       [color=#999999]"Designing The Future of space"[/color]
+█▄     █▄[/color]       [color=#999999]"Designing The Future of space"[/color]
 ──────────────────────────────────────────
+Congratulations on being positioned on a Cocoon Model Station constructed by Penguin.Corp
+
+This document will detail everything that is needed to know about your cargo department.
+
+
+button and lever code
+────────────────
+[bold]RED[/bold] buttons are EMERGENCY stops, tapping the button once will engage an emergency break, tapping it twice will have a pyshical stop put in place, [color=red]DO NOT USE THE EMERGENCY STOP FOR NON-EMERGENCIES.[/color]
+
+[bold]YELLOW[/bold] Buttons will have a shield installed above them, to prevent accidents. they will open the blast doors.
+
+[bold]Lever One[/bold] labeled by the label on the wall, activates the near belts
+[bold]Lever Two[/bold] lebeled by the labels on the wall activites the far belts
+[bold]Lever Three[/bold] Activates the salvage belts
+
+Salvage
+────────────────
+Salvage is configured to lack ANY flaps, and the yellow button within the salvage bay cycles the closed and open blast door.
+
+[bold][color=red]DO NOT LOAD MORE THEN TWO LARGE ITEMS INTO THE SPACE BETWEEN THE BLAST DOORS, YOU WILL CAUSE THE SYSTEM TO MALFUNCTION.[/bold][/color]
+
+
+Mail
+────────────────
+the Mail room is positioned at the rear of the primary Cargo area.
