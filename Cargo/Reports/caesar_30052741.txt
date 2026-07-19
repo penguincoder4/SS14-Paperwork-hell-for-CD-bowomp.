@@ -1,0 +1,88 @@
+Cargo Spending and Income report 30/05/2741
+Caesar Lightweaver
+Current budget: $47485
+------------------------------------------------------------------
+Budget on arrival: $37257
+
+/---------------------------------------------\\
+Income: Bounty
+Amount: $5555
+Source: 3x bowl of chili
+
+Income: Bounty
+Amount: $6000
+Source: 14x vegetable
+
+Income: Bounty
+Amount: $1000
+Source: 5x handcuffs
+
+- Total income: $12555
+\\----- Shift time: 01:54:27 ------------/
+- Resulting budget: $43535
+
+Outgoing: Purchase
+Amount: $500
+Item: boxing crate x1
+
+/---------------------------------------------\\
+Income: Bounty
+Amount: $1900
+Source: 5x instrument
+
+Income: Bounty
+Amount: $12500
+Source: 1x brain
+
+Income: Bounty
+Amount: $8000
+Source: 4x Prison Uniform
+
+- Total income: $22400
+\\----- Shift time: 02:11:20 ------------/
+- Resulting budget: $54735
+
+Outgoing: Purchase
+Budget: Service
+Amount: $1360
+Item: ChefVent restock box x2
+Reason: ChefVend needs some restocking.
+Orderer: Syrus Sable
+Shift time: 02:17:51
+
+Outgoing: Purchase
+Budget: Service
+Amount: $3000
+Item: parrot crate x1
+Reason: Needed for meat
+Orderer: Sakeeus-Deerkaza
+Shift time: 02:18:17
+
+Outgoing: Purchase
+Budget: Cargo
+Amount: $8400
+Item: plasma canister x2
+Reason: Power failure, needed for TEG
+Orderer: C.A.R.PY-S36 (Station AI)
+Shift time: Unknown
+
+Income: Bounty
+Amount: $2300
+Source: 4x medkit box
+Shift time: 03:11:40
+- Resulting budget: $47485
+
+------------------------------------------------------------
+Total balance after shift: $47485
+
+Signed,
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠴⠚⠋⠋⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⣀⠀⠀⠀⣀⣠⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀⠀⠀⢠⡞⢼⠋⢹⡾⣭⣍⢸⣿⡄⣾⡟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⡇⠀⠀⠀⠀⢠⣿⡗⢻⡴⢟⡠⣆⣸⠎⠉⠛⠿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⢦⣤⢆⣀⣈⣿⣁⣀⣉⣉⣀⢀⢀⢀⢀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣤⡤⠶⠖⠚⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
