@@ -4,4 +4,19 @@
 ──────────────────────────────────────────
 Congratulations on being positioned on a Cocoon Model Station constructed by Penguin.Corp
 
-This document will detail everything that is needed to know about your Command department.
+This document will detail everything that is needed to know about your command department.
+
+The Bridge
+────────────────
+The Vault is positioned north within the airlock between the bridge proper and the masses, south of the vault is the conference room and further south is the Captains office. The command section is bisected between the AI core and the bridge itself. In the bridge is every single computer containing all the information you could need in commanding your station to its maximum effect. on the southern side of this bridge is the fireaxe and the emergency blast door button.
+
+The AI Core
+────────────────
+The AI core consists of Seven Primary rooms, Two airlocks, and side room for the AI's Biological defensive measure.
+
+The AI is on the north most side of the structure, in the room directly south of it is its primary defensive turrets to watch the centre room, the threee rooms connected to the centre room are the upload and biological defensive measure respectfully,
+A space to traverse to the AI's SMES and substation room is between the two afformentioned rooms.
+
+The Centre room and the SMES and substation room have small airlocks connected to them to allow biological crew members emergency Acess to the AI Core.
+
+the Centre Room also hosts the server for the automated fax machine messaging software, Please inform Penguin Corp if this machine is damaged, Sector Central command does not carry the parts nor software to repair this device.
