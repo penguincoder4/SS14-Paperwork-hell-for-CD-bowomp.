@@ -20,3 +20,5 @@ A space to traverse to the AI's SMES and substation room is between the two affo
 The Centre room and the SMES and substation room have small airlocks connected to them to allow biological crew members emergency Acess to the AI Core.
 
 the Centre Room also hosts the server for the automated fax machine messaging software, Please inform Penguin Corp if this machine is damaged, Sector Central command does not carry the parts nor software to repair this device.
+───────────────────────────────────────
+This notice will automatically be locally faxed to command, by the automated information systems onboard the station, at the start of every work shift.
