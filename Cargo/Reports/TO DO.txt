@@ -1,0 +1,41 @@
+[color=brown]█▄  █ ▀█▀ [color=lightbrown]                [head=3][bold]Dangerous Goods Declaration[/bold][/head][/color]
+█  ▀█    █®[/color]                [italic]NT-CO-827[/italic]
+══════════════════════════════════════════
+
+[bold]Classification[/bold] (Select all)
+\[ \] Artifact
+\[ \] Explosive
+\[ \] Flammable
+\[ \] Oxidizer
+\[ \] Poisonous
+\[ \] Weapons
+\[ \] Other
+
+[bold]If "Other" selected above explain here[/bold]:
+
+[bold]On the scale of 1 to 17 please rate the danger of each of the above selected hazards using the IVB protocol[/bold]
+Artifact:
+Explosive:
+Flammable:
+Oxidizer:
+Poisonous:
+Weapons:
+Other:
+
+[bold]Write the sum of the above fields here[/bold]:
+
+[bold]Multiply the above by 1.5 to get your total hazard rating (RZH)[/bold]:
+
+If the RZH is above 43 please write the hazard mitigation strategy (VIH) below:
+
+
+[bold]Sign below to certify this document is truthful, accurate, and complete.[/bold] An improperly calculated RZH may cause damage to organic assets and an incomplete VIH will result in disciplinary action.
+X_
+
+[bold]Affix seals below of signer (if appropriate) and the reviewer[/bold]
+
+─────────────────────────────────────
+Fax sent
+from: Cargo [address: 220D-1AEB]
+to: Science [address: 7700-0346]
+at: 00:55:23
