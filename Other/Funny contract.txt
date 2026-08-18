@@ -1,0 +1,25 @@
+[color=#cb0000]░█▄▄█░ [head=2]Offical Legal Documentation[/head]
+██▄▄██ 
+▀█▄▄█▀ [/color]   Collonal Security
+───────────────────────────────────────
+
+This document is considered an offical legal document, and failure to follow the conditions outlined in this document does constitue fraud and conspiricy to commit afformentoned fruad.
+
+───────────────────────────────────────
+
+[bold]
+Ship deed granted:[/bold]
+ SHIP NAME
+
+[bold]
+Ship owner:[/bold]
+ SHIP OWNER
+
+[bold]
+Salvage or Repair:[/bold]
+\[  ] Repair
+\[  ] Salvage
+
+[bold]Conditions:[/bold]
+"summary here"
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
